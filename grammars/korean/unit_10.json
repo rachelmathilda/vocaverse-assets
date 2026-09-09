@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ko_unit8_l1_01",
+    "pattern": "Verb/Adj Stem + ~(으)면 (Conditional 'If / When')",
+    "meaningEn": "Conditional connector ('if / when').",
+    "meaningId": "Penghubung pengandaian ('jika / kalau / ketika').",
+    "notesEn": {
+      "formation": "Vowel stem -> ~면 / Consonant stem -> ~으면.",
+      "usage": "Sets up a hypothetical condition or time requirement in the first clause for the second clause to happen.",
+      "nuance": "Can be used for general truths, future possibilities, or conditional plans."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~면 / Kata Dasar berakhiran Konsonan -> ~으면.",
+      "usage": "Menyusun kondisi pengandaian atau syarat waktu pada klausa pertama agar klausa kedua dapat terjadi.",
+      "nuance": "Dapat digunakan untuk kebenaran umum, kemungkinan masa depan, atau rencana bersyarat."
+    },
+    "examples": [
+      {
+        "hangul": "시간이 있으면 연락하세요.",
+        "romaja": "si-gan-i is-seu-myeon yeon-rak-ha-se-yo.",
+        "meaningEn": "If you have time, please contact me.",
+        "meaningId": "Jika ada waktu, silakan hubungi saya.",
+        "type": "imperative"
+      },
+      {
+        "hangul": "비가 오면 집에 있을 거예요.",
+        "romaja": "bi-ga o-myeon jip-e is-seul geo-ye-yo.",
+        "meaningEn": "If it rains, I will stay at home.",
+        "meaningId": "Jika hujan turun, saya akan berada di rumah.",
+        "type": "statement"
+      },
+      {
+        "hangul": "돈을 벌면 여행을 가고 싶어요.",
+        "romaja": "don-eul beol-myeon yeo-haeng-eul ga-go si-peo-yo.",
+        "meaningEn": "If I earn money, I want to go traveling.",
+        "meaningId": "Jika mendapatkan uang, saya ingin pergi bepergian.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which form means 'If you have time...' using '있다가/있다'?",
+      "options": ["시간이 있으면", "시간이 있어서", "시간이 있지만", "시간이 있고"],
+      "answerIndex": 0,
+      "explanationEn": "있다 stem (있) ends in a consonant, so attach ~으면 -> 있으면.",
+      "explanationId": "Kata dasar 있다 (있) berakhiran konsonan, jadi tempelkan ~으면 -> 있으면."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "If it rains, I will stay home. -> 비가 오___ 집에 있을 거예요.",
+      "sentenceHangul": "비가 오___ 집에 있을 거예요.",
+      "answer": "면",
+      "answerReading": "myeon",
+      "hintEn": "오다 stem ends in a vowel, attach conditional marker ~면.",
+      "hintId": "Kata dasar 오다 berakhiran vokal, tempelkan penanda pengandaian ~면."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'If you have time, please contact me.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Jika ada waktu, silakan hubungi saya.'",
+      "answer": "시간이 있으면 연락하세요",
+      "answerReading": "si-gan-i is-seu-myeon yeon-rak-ha-se-yo",
+      "acceptableVariants": ["시간이 있으면 연락하십시오", "시간이 있다면 연락하세요"],
+      "hintEn": "Use time subject (시간이) + if exist (있으면) + contact imperative (연락하세요).",
+      "hintId": "Gunakan subjek waktu (시간이) + jika ada (있으면) + perintah hubungi (연락하세요)."
+    }
+  },
+  {
+    "id": "ko_unit8_l1_02",
+    "pattern": "Verb/Adj Stem + ~아/어야 (Prerequisite Condition 'Only If / Must... to')",
+    "meaningEn": "Essential requirement/prerequisite ('only if / only when').",
+    "meaningId": "Syarat mutlak/prasyarat ('hanya jika / baru bisa... kalau').",
+    "notesEn": {
+      "formation": "Stem with ㅏ/ㅗ -> ~아야. Other vowels -> ~어야. 하다 -> ~해야.",
+      "usage": "Indicates that the first clause is an absolute prerequisite condition for the outcome in the second clause.",
+      "nuance": "Stronger than ~(으)면; emphasizes that without action A, outcome B cannot occur."
+    },
+    "notesId": {
+      "formation": "Kata Dasar bervokal ㅏ/ㅗ -> ~아야. Vokal lain -> ~어야. 하다 -> ~해야.",
+      "usage": "Menunjukkan bahwa klausa pertama adalah syarat mutlak yang harus dipenuhi agar hasil pada klausa kedua terjadi.",
+      "nuance": "Lebih kuat dari ~(으)면; menekankan bahwa tanpa tindakan A, hasil B tidak akan terjadi."
+    },
+    "examples": [
+      {
+        "hangul": "열심히 공부해야 시험에 합격할 수 있어요.",
+        "romaja": "yeol-sim-hi gong-bu-hae-ya si-heom-e hap-gyeok-hal su is-seo-yo.",
+        "meaningEn": "Only if you study hard can you pass the exam.",
+        "meaningId": "Hanya jika belajar sungguh-sungguh kamu bisa lulus ujian.",
+        "type": "statement"
+      },
+      {
+        "hangul": "약문은 먹어야 나아요.",
+        "romaja": "yag-eun meog-eo-ya na-a-yo.",
+        "meaningEn": "Only if you take the medicine will you get better.",
+        "meaningId": "Hanya jika minum obat kamu baru akan sembuh.",
+        "type": "statement"
+      },
+      {
+        "hangul": "일찍 출발해야 늦지 않아요.",
+        "romaja": "il-jjik chul-bal-hae-ya neut-ji an-a-yo.",
+        "meaningEn": "Only if we depart early will we not be late.",
+        "meaningId": "Hanya jika berangkat awal kita tidak akan terlambat.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which connector emphasizes an essential prerequisite ('only if / must... to')?",
+      "options": ["~아/어야", "~아/어서", "~지만", "~는데"],
+      "answerIndex": 0,
+      "explanationEn": "~아/어야 expresses a necessary requirement for the second action to occur.",
+      "explanationId": "~아/어야 mengekspresikan syarat mutlak yang diperlukan agar tindakan kedua dapat terjadi."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "Only if you study hard can you pass. -> 열심히 공부하___ 합격할 수 있어요.",
+      "sentenceHangul": "열심히 공부하___ 합격할 수 있어요.",
+      "answer": "여야",
+      "answerReading": "yeo-ya",
+      "hintEn": "공부하다 becomes 공부해야 (~해야). Fill in the ending transformation.",
+      "hintId": "공부하다 menjadi 공부해야 (~해야). Isikan akhiran perubahannya."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'Only if you study hard can you pass the exam.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Hanya jika belajar sungguh-sungguh kamu bisa lulus ujian.'",
+      "answer": "열심히 공부해야 시험에 합격할 수 있어요",
+      "answerReading": "yeol-sim-hi gong-bu-hae-ya si-heom-e hap-gyeok-hal su is-seo-yo",
+      "acceptableVariants": ["열심히 공부해야 시험에 합격할 수 있습니다"],
+      "hintEn": "Use hard (열심히) + study prerequisite (공부해야) + exam at (시험에) + pass can (합격할 수 있어요).",
+      "hintId": "Gunakan sungguh-sungguh (열심히) + syarat belajar (공부해야) + pada ujian (시험에) + bisa lulus (합격할 수 있어요)."
+    }
+  },
+  {
+    "id": "ko_unit8_l2_01",
+    "pattern": "Verb Stem + ~(으)러 가다/오다 (Purpose of Movement 'In order to go/come')",
+    "meaningEn": "Expressing purpose with directional verbs ('going/coming in order to').",
+    "meaningId": "Mengekspresikan tujuan dengan kata kerja arah ('pergi/datang untuk').",
+    "notesEn": {
+      "formation": "Vowel stem -> ~러 가다/오다 / Consonant stem -> ~으러 가다/오다.",
+      "usage": "Used strictly when moving to/from a location with the specific goal of performing an action.",
+      "nuance": "The main verb at the end must be a motion verb like 가다, 오다, or 다니다."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~러 가다/오다 / Kata Dasar berakhiran Konsonan -> ~으러 가다/오다.",
+      "usage": "Digunakan khusus saat berpindah ke/dari suatu lokasi dengan tujuan spesifik melakukan suatu tindakan.",
+      "nuance": "Kata kerja utama di akhir kalimat harus berupa kata kerja pergerakan seperti 가다, 오다, atau 다니다."
+    },
+    "examples": [
+      {
+        "hangul": "식당에 밥을 먹으러 가요.",
+        "romaja": "sik-dang-e bap-eul meog-eu-reo ga-yo.",
+        "meaningEn": "I am going to the restaurant to eat a meal.",
+        "meaningId": "Saya pergi ke restoran untuk makan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "도서관에 공부하러 왔어요.",
+        "romaja": "do-seo-gwan-e gong-bu-ha-reo was-seo-yo.",
+        "meaningEn": "I came to the library to study.",
+        "meaningId": "Saya datang ke perpustakaan untuk belajar.",
+        "type": "statement"
+      },
+      {
+        "hangul": "친구를 만나러 갈 거예요.",
+        "romaja": "chin-gu-reul man-na-reo gal geo-ye-yo.",
+        "meaningEn": "I will go to meet a friend.",
+        "meaningId": "Saya akan pergi untuk bertemu teman.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which form correctly translates 'I go to eat' using '먹다'?",
+      "options": ["먹으러 가요", "먹러 가요", "먹으려고 가요", "먹어서 가요"],
+      "answerIndex": 0,
+      "explanationEn": "먹다 stem (먹) ends in a consonant, so attach ~으러 가요 -> 먹으러 가요.",
+      "explanationId": "Kata dasar 먹다 (먹) berakhiran konsonan, jadi tempelkan ~으러 가요 -> 먹으러 가요."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I am going to the restaurant to eat a meal. -> 식당에 밥을 먹___ 가요.",
+      "sentenceHangul": "식당에 밥을 먹___ 가요.",
+      "answer": "으러",
+      "answerReading": "eu-reo",
+      "hintEn": "Attach motion purpose suffix for consonant stem 먹.",
+      "hintId": "Tempelkan akhiran tujuan pergerakan untuk kata dasar konsonan 먹."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I am going to the restaurant to eat a meal.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya pergi ke restoran untuk makan.'",
+      "answer": "식당에 밥을 먹으러 가요",
+      "answerReading": "sik-dang-e bap-eul meog-eu-reo ga-yo",
+      "acceptableVariants": ["식당에 밥을 먹으러 갑니다"],
+      "hintEn": "Use restaurant to (식당에) + meal (밥을) + eat purpose (먹으러) + go (가요).",
+      "hintId": "Gunakan ke restoran (식당에) + nasi/makanan (밥을) + tujuan makan (먹으러) + pergi (가요)."
+    }
+  },
+  {
+    "id": "ko_unit8_l2_02",
+    "pattern": "Verb Stem + ~(으)려고 하다 (Intention / Plan 'Intend to')",
+    "meaningEn": "Expressing intention, plan, or attempt ('intend to / plan to').",
+    "meaningId": "Mengekspresikan niat, rencana, atau upaya ('berniat untuk / berencana untuk').",
+    "notesEn": {
+      "formation": "Vowel stem -> ~려고 하다 / Consonant stem -> ~으려고 하다.",
+      "usage": "States a personal intention or concrete plan formed in the mind.",
+      "nuance": "Can be conjugated into past tense (~(으)려고 했어요) to mean 'I was planning to...'."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~려고 하다 / Kata Dasar berakhiran Konsonan -> ~으려고 하다.",
+      "usage": "Menyatakan niat pribadi atau rencana konkret yang disusun di dalam pikiran.",
+      "nuance": "Dapat dikonjugasikan ke bentuk lampau (~(으)려고 했어요) untuk arti 'saya tadi berencana untuk...'."
+    },
+    "examples": [
+      {
+        "hangul": "한국어를 배우려고 해요.",
+        "romaja": "han-guk-eo-reul bae-u-ryeo-go hae-yo.",
+        "meaningEn": "I intend to learn Korean.",
+        "meaningId": "Saya berniat untuk belajar bahasa Korea.",
+        "type": "statement"
+      },
+      {
+        "hangul": "내일 일찍 일어나려고 해요.",
+        "romaja": "nae-il il-jjik il-eo-na-ryeo-go hae-yo.",
+        "meaningEn": "I plan to wake up early tomorrow.",
+        "meaningId": "Saya berencana bangun lebih awal besok.",
+        "type": "statement"
+      },
+      {
+        "hangul": "새 차를 사려고 했어요.",
+        "romaja": "sae cha-reul sa-ryeo-go haes-seo-yo.",
+        "meaningEn": "I was planning to buy a new car.",
+        "meaningId": "Saya dulu berencana membeli mobil baru.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "How do you form 'I intend to learn' using '배우다'?",
+      "options": ["배우려고 해요", "배우러 가요", "배우고 싶어요", "배워야 해요"],
+      "answerIndex": 0,
+      "explanationEn": "배우다 stem (배우) ends in a vowel, attach ~려고 해요 -> 배우려고 해요.",
+      "explanationId": "Kata dasar 배우다 (배우) berakhiran vokal, tempelkan ~려고 해요 -> 배우려고 해요."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I intend to learn Korean. -> 한국어를 배우___ 해요.",
+      "sentenceHangul": "한국어를 배우___ 해요.",
+      "answer": "려고",
+      "answerReading": "ryeo-go",
+      "hintEn": "Attach intention connective to vowel stem 배우.",
+      "hintId": "Tempelkan penghubung niat pada kata dasar vokal 배우."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I intend to learn Korean.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya berniat untuk belajar bahasa Korea.'",
+      "answer": "한국어를 배우려고 해요",
+      "answerReading": "han-guk-eo-reul bae-u-ryeo-go hae-yo",
+      "acceptableVariants": ["한국어를 배우려고 합니다", "저는 한국어를 배우려고 해요"],
+      "hintEn": "Use Korean language (한국어를) + learn stem (배우) + intention (려고 해요).",
+      "hintId": "Gunakan bahasa Korea (한국어를) + kata dasar belajar (배우) + niat (려고 해요)."
+    }
+  },
+  {
+    "id": "ko_unit8_l2_03",
+    "pattern": "Verb Stem + ~기 때문에 / Noun + 때문에 (Explicit Reason 'Because of')",
+    "meaningEn": "Explicit cause or reason ('because / because of').",
+    "meaningId": "Alasan atau sebab yang jelas ('karena / disebabkan oleh').",
+    "notesEn": {
+      "formation": "Verbs/Adjectives: Stem + ~기 때문에. Nouns: Noun + 때문에.",
+      "usage": "Gives a strong, logical reason or cause for a scenario.",
+      "nuance": "More formal and explicit than ~아서/어서; clearly separates cause from result."
+    },
+    "notesId": {
+      "formation": "Kata kerja/sifat: Kata Dasar + ~기 때문에. Kata benda: Kata Benda + 때문에.",
+      "usage": "Memberikan alasan atau penyebab yang kuat dan logis untuk suatu skenario.",
+      "nuance": "Lebih formal dan eksplisit daripada ~아서/어서; secara jelas memisahkan sebab dari akibat."
+    },
+    "examples": [
+      {
+        "hangul": "비 때문에 길에 차가 많아요.",
+        "romaja": "bi ttae-mun-e gil-e cha-ga man-a-yo.",
+        "meaningEn": "Because of the rain, there are many cars on the road.",
+        "meaningId": "Karena hujan, ada banyak mobil di jalan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "바쁘기 때문에 갈 수 없어요.",
+        "romaja": "ba-ppeu-gi ttae-mun-e gal su eobs-eo-yo.",
+        "meaningEn": "Because I am busy, I cannot go.",
+        "meaningId": "Karena sibuk, saya tidak bisa pergi.",
+        "type": "statement"
+      },
+      {
+        "hangul": "시험 때문에 공부를 해요.",
+        "romaja": "si-heom ttae-mun-e gong-bu-reul hae-yo.",
+        "meaningEn": "I study because of the exam.",
+        "meaningId": "Saya belajar karena ada ujian.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which form attaches directly to a NOUN like '비' (rain) to mean 'because of rain'?",
+      "options": ["비 때문에", "비기 때문에", "비 아서", "비 니까"],
+      "answerIndex": 0,
+      "explanationEn": "Nouns take 때문에 directly (비 때문에), whereas verbs take ~기 때문에.",
+      "explanationId": "Kata benda menggunakan 때문에 secara langsung (비 때문에), sedangkan kata kerja menggunakan ~기 때문에."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "Because of the rain, there are many cars on the road. -> 비 ___ 길에 차가 많아요.",
+      "sentenceHangul": "비 ___ 길에 차가 많아요.",
+      "answer": "때문에",
+      "answerReading": "ttae-mun-e",
+      "hintEn": "Attach 'because of' directly to the noun 비.",
+      "hintId": "Tempelkan 'karena' secara langsung pada kata benda 비."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'Because of the rain, there are many cars on the road.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Karena hujan, ada banyak mobil di jalan.'",
+      "answer": "비 때문에 길에 차가 많아요",
+      "answerReading": "bi ttae-mun-e gil-e cha-ga man-a-yo",
+      "acceptableVariants": ["비 때문에 길에 차가 많습니다"],
+      "hintEn": "Use rain because (비 때문에) + road on (길에) + car subject (차가) + many (많아요).",
+      "hintId": "Gunakan karena hujan (비 때문에) + di jalan (길에) + subjek mobil (차가) + banyak (많아요)."
+    }
+  }
+]

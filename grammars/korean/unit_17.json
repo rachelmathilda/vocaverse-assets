@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ko_unit15_l1_01",
+    "pattern": "Indirect Speech + ~는/은/ㄴ/던 말이다 (I Mean / What I'm Saying Is)",
+    "meaningEn": "Clarifying or emphasizing what one just said or meant ('I mean... / What I'm saying is...').",
+    "meaningId": "Menjelaskan atau menekankan apa yang baru saja dikatakan atau dimaksudkan ('maksud saya... / yang saya katakan adalah...').",
+    "notesEn": {
+      "formation": "Verb: ~다는 말이다 / Adj: ~다는 말이다 / Noun: ~(이)라는 말이다 / Question: ~(느)냐는 말이다 / Imperative: ~(으)라는 말이다.",
+      "usage": "Used to clarify one's intention, double-check another person's statement, or emphasize a point.",
+      "nuance": "Can convey mild frustration or insistence depending on tone."
+    },
+    "notesId": {
+      "formation": "Kata Kerja: ~다는 말이다 / Kata Sifat: ~다는 말이다 / Kata Benda: ~(이)라는 말이다 / Pertanyaan: ~(느)냐는 말이다 / Perintah: ~(으)라는 말이다.",
+      "usage": "Digunakan untuk memperjelas maksud sendiri, memastikan kembali pernyataan orang lain, atau menekankan suatu poin.",
+      "nuance": "Dapat menyampaikan sedikit rasa frustrasi atau penegasan tergantung pada nada bicara."
+    },
+    "examples": [
+      {
+        "hangul": "지금 바로 출발하자는 말이에요.",
+        "romaja": "ji-geum ba-ro chul-bal-ha-ja-neun mal-i-e-yo.",
+        "meaningEn": "I mean we should depart right now.",
+        "meaningId": "Maksud saya, kita harus berangkat sekarang juga.",
+        "type": "statement"
+      },
+      {
+        "hangul": "그게 무슨 말이에요? 안 가겠다는 말이에요?",
+        "romaja": "geu-ge mu-seun mal-i-e-yo? an ga-ges-da-neun mal-i-e-yo?",
+        "meaningEn": "What do you mean by that? Are you saying you won't go?",
+        "meaningId": "Apa maksudnya? Maksudmu kamu tidak akan pergi?",
+        "type": "question"
+      },
+      {
+        "hangul": "다시 말해서, 시간이 없다는 말입니다.",
+        "romaja": "da-si mal-hae-seo, si-gan-i eobs-da-neun mal-im-ni-da.",
+        "meaningEn": "In other words, what I'm saying is we don't have time.",
+        "meaningId": "Dengan kata lain, maksud saya adalah kita tidak punya waktu.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which construction is used to clarify one's previous statement by saying 'What I mean is...'?",
+      "options": ["~다는 말이다", "~기 마련이다", "~아/어 봤자", "~(으)ㄹ 따름이다"],
+      "answerIndex": 0,
+      "explanationEn": "~다는 말이다 embeds an indirect quote to clarify 'what I am saying is...'.",
+      "explanationId": "~다는 말이다 menyisipkan kutipan tidak langsung untuk memperjelas 'maksud saya adalah...'."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "In other words, what I'm saying is we don't have time. -> 다시 말해서, 시간이 없다는 ___입니다.",
+      "sentenceHangul": "다시 말해서, 시간이 없다는 ___입니다.",
+      "answer": "말",
+      "answerReading": "mal",
+      "hintEn": "Insert noun meaning 'word/speech'.",
+      "hintId": "Masukan kata benda yang berarti 'kata/ucapan'."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I mean we should depart right now.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Maksud saya, kita harus berangkat sekarang juga.'",
+      "answer": "지금 바로 출발하자는 말이에요",
+      "answerReading": "ji-geum ba-ro chul-bal-ha-ja-neun mal-i-e-yo",
+      "acceptableVariants": ["지금 바로 출발하자는 말입니다"],
+      "hintEn": "Use now right away (지금 바로) + let's depart quote (출발하자는) + I mean (말이에요).",
+      "hintId": "Gunakan sekarang juga (지금 바로) + kutipan mari berangkat (출발하자는) + maksud saya (말이에요)."
+    }
+  },
+  {
+    "id": "ko_unit15_l1_02",
+    "pattern": "Verb Stem + ~(으)나 마나 (No Need to Even Check / It Goes Without Saying)",
+    "meaningEn": "Expressing that the result will be obvious regardless of whether an action is performed ('whether you do it or not').",
+    "meaningId": "Mengekspresikan bahwa hasilnya sudah jelas tertebak terlepas dari apakah tindakan tersebut dilakukan atau tidak ('dilakukan atau tidak, hasilnya tetap sama').",
+    "notesEn": {
+      "formation": "Vowel stem -> ~나 마나 / Consonant stem -> ~으나 마나.",
+      "usage": "Used when an outcome is so certain that actually checking or attempting the action is pointless.",
+      "nuance": "Slightly more opinionated than ~아/어 봤자; implies 'don't even bother checking'."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~나 마나 / Kata Dasar berakhiran Konsonan -> ~으나 마나.",
+      "usage": "Digunakan ketika suatu hasil sangat pasti sehingga benar-benar memeriksa atau mencoba tindakan tersebut menjadi tidak berguna.",
+      "nuance": "Sedikit lebih beropini dibandingkan ~아/어 봤자; menyiratkan 'tidak perlu repot-repot memeriksa'."
+    },
+    "examples": [
+      {
+        "hangul": "보나 마나 안 봐도 비디오예요.",
+        "romaja": "bo-na ma-na an bwa-do bi-di-o-ye-yo.",
+        "meaningEn": "Whether you look or not, the outcome is obvious.",
+        "meaningId": "Dilihat atau tidak, hasilnya sudah pasti jelas.",
+        "type": "statement"
+      },
+      {
+        "hangul": "물어보나 마나 안 된다고 할 거예요.",
+        "romaja": "mu-reo-bo-na ma-na an doen-da-go hal geo-ye-yo.",
+        "meaningEn": "Whether you ask or not, they will say no.",
+        "meaningId": "Ditanya atau tidak, mereka pasti akan bilang tidak boleh.",
+        "type": "statement"
+      },
+      {
+        "hangul": "먹어보나 마나 맛있을 거예요.",
+        "romaja": "meog-eo-bo-na ma-na mas-iss-eul geo-ye-yo.",
+        "meaningEn": "Whether you taste it or not, it's guaranteed to be delicious.",
+        "meaningId": "Dicicipi atau tidak, pasti rasanya enak.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What does '물어보나 마나' indicate?",
+      "options": ["Asking is useless because the outcome is obvious", "You must ask immediately", "I will ask after I finish", "Please ask politely"],
+      "answerIndex": 0,
+      "explanationEn": "~(으)나 마나 indicates that doing the action won't change or reveal anything unexpected.",
+      "explanationId": "~(으)나 마나 menunjukkan bahwa melakukan tindakan tersebut tidak akan mengubah atau mengungkapkan hal yang tidak terduga."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "Whether you ask or not, they will say no. -> 물어보___ 안 된다고 할 거예요.",
+      "sentenceHangul": "물어보___ 안 된다고 할 거예요.",
+      "answer": "나 마나",
+      "answerReading": "na ma-na",
+      "hintEn": "Insert connector indicating obvious outcome without checking.",
+      "hintId": "Masukan kata penghubung yang menunjukkan hasil jelas tanpa perlu diperiksa."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'Whether you ask or not, they will say no.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Ditanya atau tidak, mereka pasti akan bilang tidak boleh.'",
+      "answer": "물어보나 마나 안 된다고 할 거예요",
+      "answerReading": "mu-reo-bo-na ma-na an doen-da-go hal geo-ye-yo",
+      "acceptableVariants": ["물어보나 마나 안 된다고 할 겁니다"],
+      "hintEn": "Use ask (물어보) + whether or not (나 마나) + won't work quote (안 된다고) + will say (할 거예요).",
+      "hintId": "Gunakan bertanya (물어보) + dilakukan atau tidak (나 마나) + kutipan tidak bisa (안 된다고) + akan berkata (할 거예요)."
+    }
+  },
+  {
+    "id": "ko_unit15_l2_01",
+    "pattern": "Verb/Adj Stem + ~(으)ㄹ 리가 없다 (No Way That... / Impossible)",
+    "meaningEn": "Expressing strong disbelief or conviction that something cannot be true ('there is no way / impossible').",
+    "meaningId": "Mengekspresikan ketidakpercayaan yang kuat atau keyakinan bahwa sesuatu tidak mungkin benar ('tidak mungkin / tidak ada alasan bahwa').",
+    "notesEn": {
+      "formation": "Vowel stem -> ~ㄹ 리가 없다 / Consonant stem -> ~을 리가 없다. Past: ~았/었을 리가 없다.",
+      "usage": "Used when rejecting a possibility based on logical reasoning or past evidence.",
+      "nuance": "리 refers to 'reason/logic'. Directly means 'there exists no logic for X'."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~ㄹ 리가 없다 / Kata Dasar berakhiran Konsonan -> ~을 리가 없다. Lampau: ~았/었을 리가 없다.",
+      "usage": "Digunakan saat menolak suatu kemungkinan berdasarkan penalaran logis atau bukti masa lalu.",
+      "nuance": "리 mengacu pada 'alasan/logika'. Secara harfiah berarti 'tidak ada logika untuk X'."
+    },
+    "examples": [
+      {
+        "hangul": "그 사람이 거짓말을 했을 리가 없어요.",
+        "romaja": "geu sa-ram-i geo-jit-mal-eul haes-seul ri-ga eobs-eo-yo.",
+        "meaningEn": "There is no way that person lied.",
+        "meaningId": "Tidak mungkin orang itu berbohong.",
+        "type": "statement"
+      },
+      {
+        "hangul": "벌써 도착했을 리가 없어요.",
+        "romaja": "beol-sseo do-chak-haes-seul ri-ga eobs-eo-yo.",
+        "meaningEn": "There is no way they have already arrived.",
+        "meaningId": "Tidak mungkin mereka sudah sampai.",
+        "type": "statement"
+      },
+      {
+        "hangul": "그 소문이 사실일 리가 없어요.",
+        "romaja": "geu so-mun-i sa-sir-il ri-ga eobs-eo-yo.",
+        "meaningEn": "There is no way that rumor is true.",
+        "meaningId": "Tidak mungkin rumor itu benar.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which sentence means 'There is no way that person lied'?",
+      "options": ["그 사람이 거짓말을 했을 리가 없어요", "그 사람이 거짓말을 했을 수밖에 없어요", "그 사람이 거짓말을 했을 뿐이에요", "그 사람이 거짓말을 하는 바람에"],
+      "answerIndex": 0,
+      "explanationEn": "~(으)ㄹ 리가 없다 expresses strong doubt/impossibility ('no way').",
+      "explanationId": "~(으)ㄹ 리가 없다 mengekspresikan keraguan kuat/ketidakmungkinan ('tidak mungkin')."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "There is no way that person lied. -> 그 사람이 거짓말을 했을 ___ 없어요.",
+      "sentenceHangul": "그 사람이 거짓말을 했을 ___ 없어요.",
+      "answer": "리가",
+      "answerReading": "ri-ga",
+      "hintEn": "Insert bound noun 'reason/logic' with subject particle.",
+      "hintId": "Masukan kata benda terikat 'alasan/logika' dengan partikel subjek."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'There is no way that person lied.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Tidak mungkin orang itu berbohong.'",
+      "answer": "그 사람이 거짓말을 했을 리가 없어요",
+      "answerReading": "geu sa-ram-i geo-jit-mal-eul haes-seul ri-ga eobs-eo-yo",
+      "acceptableVariants": ["그 사람이 거짓말을 했을 리가 없습니다"],
+      "hintEn": "Use that person (그 사람이) + lied past modifier (거짓말을 했을) + no way (리가 없어요).",
+      "hintId": "Gunakan orang itu (그 사람이) + penjelas berbohong lampau (거짓말을 했을) + tidak mungkin (리가 없어요)."
+    }
+  },
+  {
+    "id": "ko_unit15_l2_02",
+    "pattern": "Verb Stem + ~기 십상이다 (Easy to / Likely to - Negative Outcome)",
+    "meaningEn": "Expressing a high risk or tendency of a negative outcome occurring ('apt to / easy to').",
+    "meaningId": "Mengekspresikan risiko tinggi atau kecenderungan terjadinya hasil negatif ('mudah sekali / rawan untuk').",
+    "notesEn": {
+      "formation": "Verb Stem + ~기 십상이다.",
+      "usage": "Warns about a common mistake or negative tendency if careful attention is not paid.",
+      "nuance": "Synonymous with ~기 쉽다, but almost exclusively used for negative/unfavorable pitfalls."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja + ~기 십상이다.",
+      "usage": "Memeperingatkan tentang kesalahan umum atau kecenderungan negatif jika tidak berhati-hati.",
+      "nuance": "Sinonim dengan ~기 쉽다, tetapi hampir secara eksklusif digunakan untuk jebakan/hasil yang negatif."
+    },
+    "examples": [
+      {
+        "hangul": "서두르다 보면 실수하기 십상이에요.",
+        "romaja": "seo-du-reu-da bo-myeon sil-su-ha-gi sip-sang-i-e-yo.",
+        "meaningEn": "If you rush, it is easy to make a mistake.",
+        "meaningId": "Jika terburu-buru, sangat rawan membuat kesalahan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "방심하면 사고가 나기 십상입니다.",
+        "romaja": "bang-sim-ha-myeon sa-go-ga na-gi sip-sang-im-ni-da.",
+        "meaningEn": "If you let your guard down, an accident is apt to happen.",
+        "meaningId": "Jika lengah, sangat mudah terjadi kecelakaan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "초보자는 길을 잃기 십상이에요.",
+        "romaja": "cho-bo-ja-neun gil-eul il-gi sip-sang-i-e-yo.",
+        "meaningEn": "Beginners are apt to lose their way.",
+        "meaningId": "Pemula sangat rawan tersesat.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What nuance does '~기 십상이다' carry?",
+      "options": ["High likelihood of a negative pitfall/mistake", "High probability of positive success", "Desire to accomplish something", "Obligation to obey rules"],
+      "answerIndex": 0,
+      "explanationEn": "~기 십상이다 specifically highlights vulnerability to a negative outcome.",
+      "explanationId": "~기 십상이다 secara khusus menyoroti kerawanan terhadap hasil negatif."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "If you rush, it is easy to make a mistake. -> 서두르다 보면 실수하___.",
+      "sentenceHangul": "서두르다 보면 실수하___.",
+      "answer": "기 십상이에요",
+      "answerReading": "gi sip-sang-i-e-yo",
+      "hintEn": "Insert pattern meaning 'apt to make a negative mistake'.",
+      "hintId": "Masukan pola yang berarti 'rawan membuat kesalahan negatif'."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'If you rush, it is easy to make a mistake.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Jika terburu-buru, sangat rawan membuat kesalahan.'",
+      "answer": "서두르다 보면 실수하기 십상이에요",
+      "answerReading": "seo-du-reu-da bo-myeon sil-su-ha-gi sip-sang-i-e-yo",
+      "acceptableVariants": ["서두르다 보면 실수하기 십상입니다"],
+      "hintEn": "Use rush while doing (서두르다 보면) + make mistake (실수하) + apt to (기 십상이에요).",
+      "hintId": "Gunakan terburu-buru saat melakukan (서두르다 보면) + buat kesalahan (실수하) + rawan (기 십상이에요)."
+    }
+  },
+  {
+    "id": "ko_unit15_l2_03",
+    "pattern": "Verb Stem + ~는 한 (As Long As / On Condition That)",
+    "meaningEn": "Setting a condition or boundary ('as long as / provided that').",
+    "meaningId": "Menetapkan kondisi atau batasan ('selama / asalkan').",
+    "notesEn": {
+      "formation": "Verb Stem + ~는 한. Past/Completed: ~(으)ㄴ 한.",
+      "usage": "Indicates that the state or action in the second clause remains valid as long as the condition in the first clause continues.",
+      "nuance": "Creates a logical boundary or threshold for the main action."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja + ~는 한. Lampau/Selesai: ~(으)ㄴ 한.",
+      "usage": "Menunjukkan bahwa kondisi atau tindakan pada klausa kedua tetap berlaku selama kondisi pada klausa pertama terus berlanjut.",
+      "nuance": "Menciptakan batasan logis atau ambang batas untuk tindakan utama."
+    },
+    "examples": [
+      {
+        "hangul": "내가 살아 있는 한 너를 지켜줄게.",
+        "romaja": "nae-ga sal-a it-neun han neo-reul ji-kyeo-jul-ge.",
+        "meaningEn": "As long as I am alive, I will protect you.",
+        "meaningId": "Selama aku masih hidup, aku akan melindungimu.",
+        "type": "statement"
+      },
+      {
+        "hangul": "최선을 다하는 한 후회는 없을 거예요.",
+        "romaja": "choe-seon-eul da-ha-neun han hu-hoe-neun eobs-eul geo-ye-yo.",
+        "meaningEn": "As long as you do your best, there will be no regrets.",
+        "meaningId": "Selama kamu melakukan yang terbaik, tidak akan ada penyesalan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "특별한 이유가 없는 한 참여해야 합니다.",
+        "romaja": "teuk-byeol-han i-yu-ga eobs-neun han cham-yeo-hae-ya ham-ni-da.",
+        "meaningEn": "Unless there is a special reason, you must participate.",
+        "meaningId": "Selama tidak ada alasan khusus, Anda harus berpartisipasi.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which connector means 'as long as / provided that'?",
+      "options": ["~는 한", "~는 바람에", "~기 마련이다", "~아/어 봤자"],
+      "answerIndex": 0,
+      "explanationEn": "~는 한 establishes a temporal or conditional limit ('as long as').",
+      "explanationId": "~는 한 menetapkan batasan temporal atau bersyarat ('selama')."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "As long as I am alive, I will protect you. -> 내가 살아 있는 ___ 너를 지켜줄게.",
+      "sentenceHangul": "내가 살아 있는 ___ 너를 지켜줄게.",
+      "answer": "한",
+      "answerReading": "han",
+      "hintEn": "Insert bound noun 'limit/boundary'.",
+      "hintId": "Masukan kata benda terikat 'batasan/limit'."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'As long as I am alive, I will protect you.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Selama aku masih hidup, aku akan melindungimu.'",
+      "answer": "내가 살아 있는 한 너를 지켜줄게",
+      "answerReading": "nae-ga sal-a it-neun han neo-reul ji-kyeo-jul-ge",
+      "acceptableVariants": ["내가 살아 있는 한 너를 지켜줄 거예요", "제가 살아 있는 한 당신을 지켜드릴게요"],
+      "hintEn": "Use I (내가) + alive modifier (살아 있는) + as long as (한) + protect you (너를 지켜줄게).",
+      "hintId": "Gunakan aku (내가) + penjelas hidup (살아 있는) + selama (한) + melindungimu (너를 지켜줄게)."
+    }
+  }
+]

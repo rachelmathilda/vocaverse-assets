@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ko_unit4_l1_01",
+    "pattern": "Verb Stem + ~고 있다 (Present Continuous Tense)",
+    "meaningEn": "Present continuous tense ('to be -ing').",
+    "meaningId": "Bentuk sedang berlangsung ('sedang melakukan...').",
+    "notesEn": {
+      "formation": "Verb Stem + ~고 있다 (Conjugates to ~고 있어요 / ~고 있습니다).",
+      "usage": "Indicates an action currently in progress at the time of speaking.",
+      "nuance": "Applies directly to active verbs regardless of whether the stem ends in a vowel or consonant."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja + ~고 있다 (Dikonjugasikan menjadi ~고 있어요 / ~고 있습니다).",
+      "usage": "Menunjukkan tindakan yang sedang berlangsung pada saat berbicara.",
+      "nuance": "Berlaku langsung untuk kata kerja aktif tanpa memandang apakah kata dasar berakhiran vokal atau konsonan."
+    },
+    "examples": [
+      {
+        "hangul": "지금 음악을 듣고 있어요.",
+        "romaja": "ji-geum eu-mag-eul deut-go is-seo-yo.",
+        "meaningEn": "I am listening to music right now.",
+        "meaningId": "Saya sedang mendengarkan musik sekarang.",
+        "type": "statement"
+      },
+      {
+        "hangul": "친구는 밥을 먹고 있습니다.",
+        "romaja": "chin-gu-neun bap-eul meok-go is-seum-ni-da.",
+        "meaningEn": "My friend is eating a meal.",
+        "meaningId": "Teman saya sedang makan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "무엇을 하고 있어요?",
+        "romaja": "mu-eos-eul ha-go is-seo-yo?",
+        "meaningEn": "What are you doing?",
+        "meaningId": "Apa yang sedang kamu lakukan?",
+        "type": "question"
+      }
+    ],
+    "quiz": {
+      "question": "How do you conjugate '공부하다' (to study) into the present continuous polite form?",
+      "options": ["공부하고 있어요", "공부했어요", "공부할 거예요", "공부하 있어요"],
+      "answerIndex": 0,
+      "explanationEn": "Attach ~고 있다 to the stem 공부하, yielding 공부하고 있어요 in informal polite style.",
+      "explanationId": "Tempelkan ~고 있다 pada kata dasar 공부하, menghasilkan 공부하고 있어요 dalam gaya sopan informal."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I am listening to music right now. -> 지금 음악을 듣___ 있어요.",
+      "sentenceHangul": "지금 음악을 듣___ 있어요.",
+      "answer": "고",
+      "answerReading": "go",
+      "hintEn": "Attach the particle suffix connecting the verb stem to 있다.",
+      "hintId": "Tempelkan akhiran partikel yang menghubungkan kata dasar kata kerja ke 있다."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'What are you doing?'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Apa yang sedang kamu lakukan?'",
+      "answer": "무엇을 하고 있어요?",
+      "answerReading": "mu-eos-eul ha-go is-seo-yo?",
+      "acceptableVariants": ["뭐 하고 있어요?", "무엇을 하고 있습니까?"],
+      "hintEn": "Use what (무엇을) + do stem (하) + continuous (고 있어요?).",
+      "hintId": "Gunakan apa (무엇을) + kata dasar lakukan (하) + sedang berlangsung (고 있어요?)."
+    }
+  },
+  {
+    "id": "ko_unit4_l1_02",
+    "pattern": "Verb Stem + ~고 있었다 (Past Continuous Tense)",
+    "meaningEn": "Past continuous tense ('was/were -ing').",
+    "meaningId": "Bentuk lampau sedang berlangsung ('dulu sedang...').",
+    "notesEn": {
+      "formation": "Verb Stem + ~고 있었다 (Conjugates to ~고 있었어요 / ~고 있었습니다).",
+      "usage": "Expresses an action that was ongoing at a specific point in the past.",
+      "nuance": "Combines the continuous aspect suffix ~고 with past tense auxiliary 있었다."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja + ~고 있었다 (Dikonjugasikan menjadi ~고 있었어요 / ~고 있었습니다).",
+      "usage": "Mengekspresikan tindakan yang sedang berlangsung pada titik waktu tertentu di masa lalu.",
+      "nuance": "Menggabungkan akhiran aspek keberlanjutan ~고 dengan kata kerja bantu masa lalu 있었다."
+    },
+    "examples": [
+      {
+        "hangul": "그때 책을 읽고 있었어요.",
+        "romaja": "geu-ttae chaeg-eul ilg-go is-seos-seo-yo.",
+        "meaningEn": "I was reading a book at that time.",
+        "meaningId": "Saya sedang membaca buku pada saat itu.",
+        "type": "statement"
+      },
+      {
+        "hangul": "전화했을 때 자고 있었어요.",
+        "romaja": "jeon-hwa-haess-eul ttae ja-go is-seos-seo-yo.",
+        "meaningEn": "I was sleeping when you called.",
+        "meaningId": "Saya sedang tidur ketika kamu menelepon.",
+        "type": "statement"
+      },
+      {
+        "hangul": "비가 오고 있었습니다.",
+        "romaja": "bi-ga o-go is-seos-seum-ni-da.",
+        "meaningEn": "It was raining.",
+        "meaningId": "Hujan sedang turun.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which form translates to 'was sleeping'?",
+      "options": ["자고 있었어요", "자고 있어요", "잤어요", "자겠어요"],
+      "answerIndex": 0,
+      "explanationEn": "자다 stem (자) + ~고 있었어요 indicates past continuous action.",
+      "explanationId": "Kata dasar 자다 (자) + ~고 있었어요 menunjukkan tindakan yang dulu sedang berlangsung."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I was reading a book. -> 책을 읽고 ___.",
+      "sentenceHangul": "책을 읽고 ___.",
+      "answer": "있었어요",
+      "answerReading": "is-seos-seo-yo",
+      "hintEn": "Use past continuous auxiliary ending in informal polite style.",
+      "hintId": "Gunakan akhiran bantu masa lalu sedang berlangsung dalam gaya sopan informal."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I was reading a book at that time.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya sedang membaca buku pada saat itu.'",
+      "answer": "그때 책을 읽고 있었어요",
+      "answerReading": "geu-ttae chaeg-eul ilg-go is-seos-seo-yo",
+      "acceptableVariants": ["그때 책을 읽고 있었습니다", "저는 그때 책을 읽고 있었어요"],
+      "hintEn": "Use at that time (그때) + book (책을) + read (읽) + past continuous (고 있었어요).",
+      "hintId": "Gunakan pada saat itu (그때) + buku (책을) + membaca (읽) + lampau berlangsung (고 있었어요)."
+    }
+  },
+  {
+    "id": "ko_unit4_l2_01",
+    "pattern": "Honorific Subject Particle ~께서 / ~께서는",
+    "meaningEn": "Honorific subject and topic particles.",
+    "meaningId": "Partikel subjek dan topik bentuk honorifik (penghormatan).",
+    "notesEn": {
+      "formation": "Replaces ~이/가 with ~께서, and ~은/는 with ~께서는.",
+      "usage": "Used when the subject of the sentence is a person of higher status or elder relative deserving respect.",
+      "nuance": "Demonstrates respect directly to the subject performing the action."
+    },
+    "notesId": {
+      "formation": "Menggantikan ~이/가 dengan ~께서, dan ~은/는 dengan ~께서는.",
+      "usage": "Digunakan ketika subjek kalimat adalah seseorang dengan status lebih tinggi atau kerabat lebih tua yang dihormati.",
+      "nuance": "Menunjukkan rasa hormat secara langsung kepada subjek yang melakukan tindakan."
+    },
+    "examples": [
+      {
+        "hangul": "선생님께서 오셨습니다.",
+        "romaja": "seon-saeng-nim-kke-seo o-syeos-seum-ni-da.",
+        "meaningEn": "The teacher has arrived.",
+        "meaningId": "Guru telah datang.",
+        "type": "statement"
+      },
+      {
+        "hangul": "할머니께서 진지를 드십니다.",
+        "romaja": "hal-meo-ni-kke-seo jin-ji-reul deu-sim-ni-da.",
+        "meaningEn": "Grandmother is eating a meal.",
+        "meaningId": "Nenek sedang makan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "아버지께서는 회사에 가십니다.",
+        "romaja": "a-beo-ji-kke-seo-neun hoe-sa-e ga-sim-ni-da.",
+        "meaningEn": "Father goes to the company.",
+        "meaningId": "Ayah pergi ke kantor.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which particle respectfully replaces '~이/가' for honored subjects like '선생님'?",
+      "options": ["께서", "에게", "한테", "에서"],
+      "answerIndex": 0,
+      "explanationEn": "~께서 replaces standard subject particles ~이/가 when referring to respected subjects.",
+      "explanationId": "~께서 menggantikan partikel subjek standar ~이/가 saat merujuk pada subjek yang dihormati."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "The teacher arrived. -> 선생님___ 오셨어요.",
+      "sentenceHangul": "선생님___ 오셨어요.",
+      "answer": "께서",
+      "answerReading": "kke-seo",
+      "hintEn": "Use honorific subject particle.",
+      "hintId": "Gunakan partikel subjek bentuk honorifik."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean using honorific particle: 'The teacher arrived.'",
+      "promptId": "Terjemahkan ke bahasa Korea menggunakan partikel honorifik: 'Guru telah datang.'",
+      "answer": "선생님께서 오셨습니다",
+      "answerReading": "seon-saeng-nim-kke-seo o-syeos-seum-ni-da",
+      "acceptableVariants": ["선생님께서 오셨어요"],
+      "hintEn": "Use teacher (선생님) + honorific subject particle (께서) + arrived (오셨습니다).",
+      "hintId": "Gunakan guru (선생님) + partikel subjek honorifik (께서) + datang lampau (오셨습니다)."
+    }
+  },
+  {
+    "id": "ko_unit4_l2_02",
+    "pattern": "Verb/Adj Stem + ~(으)시~ (Honorific Infix)",
+    "meaningEn": "Honorific verb infix showing respect to the subject.",
+    "meaningId": "Sisipan kata kerja honorifik untuk menunjukkan rasa hormat pada subjek.",
+    "notesEn": {
+      "formation": "Stem + ~시~ (vowel stem) / ~으시~ (consonant stem). Present informal polite: ~(으)세요.",
+      "usage": "Elevates the subject performing the action or experiencing the state.",
+      "nuance": "Essential for polite dialogue when addressing elders, teachers, customers, or superiors."
+    },
+    "notesId": {
+      "formation": "Kata Dasar + ~시~ (akhiran vokal) / ~으시~ (akhiran konsonan). Bentuk sopan informal sekarang: ~(으)세요.",
+      "usage": "Meninggikan subjek yang melakukan tindakan atau mengalami kondisi.",
+      "nuance": "Sangat penting untuk dialog sopan saat berbicara dengan orang tua, guru, pelanggan, atau atasan."
+    },
+    "examples": [
+      {
+        "hangul": "어머니가 요리하세요.",
+        "romaja": "eo-meo-ni-ga yo-ri-ha-se-yo.",
+        "meaningEn": "Mother cooks.",
+        "meaningId": "Ibu memasak.",
+        "type": "statement"
+      },
+      {
+        "hangul": "선생님, 읽으세요.",
+        "romaja": "seon-saeng-nim, ilg-eu-se-yo.",
+        "meaningEn": "Teacher, please read.",
+        "meaningId": "Guru, silakan baca.",
+        "type": "imperative"
+      },
+      {
+        "hangul": "아버지는 집에 계십니다.",
+        "romaja": "a-beo-ji-neun jip-e gye-sim-ni-da.",
+        "meaningEn": "Father is at home (계시다 is honorific of 있다).",
+        "meaningId": "Ayah ada di rumah (계시다 adalah bentuk honorifik dari 있다).",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What is the present informal polite honorific conjugation for '가다' (to go)?",
+      "options": ["가세요", "가요", "갑니다", "가셨어요"],
+      "answerIndex": 0,
+      "explanationEn": "가다 stem (가) + honorific ending ~세요 creates 가세요.",
+      "explanationId": "Kata dasar 가다 (가) + akhiran honorifik ~세요 membentuk 가세요."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "Mother cooks. -> 어머니가 요리하___.",
+      "sentenceHangul": "어머니가 요리하___.",
+      "answer": "세요",
+      "answerReading": "se-yo",
+      "hintEn": "Attach honorific present informal ending.",
+      "hintId": "Tempelkan akhiran sopan informal honorifik sekarang."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'Mother cooks.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Ibu memasak.'",
+      "answer": "어머니가 요리하세요",
+      "answerReading": "eo-meo-ni-ga yo-ri-ha-se-yo",
+      "acceptableVariants": ["어머니께서 요리하십니다", "어머니께서 요리하세요"],
+      "hintEn": "Use mother (어머니가) + cook honorific (요리하세요).",
+      "hintId": "Gunakan ibu (어머니가) + memasak honorifik (요리하세요)."
+    }
+  },
+  {
+    "id": "ko_unit4_l2_03",
+    "pattern": "Honorific Vocabulary Substitutions",
+    "meaningEn": "Special honorific vocabulary words (드시다, 계시다, 주무시다, etc.).",
+    "meaningId": "Kosakata honorifik khusus (드시다, 계시다, 주무시다, dll.).",
+    "notesEn": {
+      "formation": "Replaces basic verbs/nouns: 먹다/마시다 -> 드시다, 있다 -> 계시다, 자다 -> 주무시다, 밥 -> 진지, 집 -> 댁.",
+      "usage": "Used instead of adding ~(으)시~ when inherent honorific terms exist.",
+      "nuance": "Always takes precedence over regular verb honorific suffix additions."
+    },
+    "notesId": {
+      "formation": "Menggantikan kata kerja/benda dasar: 먹다/마시다 -> 드시다, 있다 -> 계시다, 자다 -> 주무시다, 밥 -> 진지, 집 -> 댁.",
+      "usage": "Digunakan daripada menambahkan ~(으)시~ jika kata honorifik bawaan sudah tersedia.",
+      "nuance": "Selalu diutamakan daripada penambahan akhiran honorifik pada kata kerja biasa."
+    },
+    "examples": [
+      {
+        "hangul": "할아버지께서 주무십니다.",
+        "romaja": "hal-a-beo-ji-kke-seo ju-mu-sim-ni-da.",
+        "meaningEn": "Grandfather is sleeping.",
+        "meaningId": "Kakek sedang tidur.",
+        "type": "statement"
+      },
+      {
+        "hangul": "맛있게 드세요.",
+        "romaja": "mas-iss-ge deu-se-yo.",
+        "meaningEn": "Please eat deliciously (Enjoy your meal).",
+        "meaningId": "Silakan makan dengan nikmat (Selamat makan).",
+        "type": "imperative"
+      },
+      {
+        "hangul": "선생님 댁에 갔어요.",
+        "romaja": "seon-saeng-nim daeg-e gas-seo-yo.",
+        "meaningEn": "I went to the teacher's house.",
+        "meaningId": "Saya pergi ke rumah guru.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What is the honorific equivalent of '자다' (to sleep)?",
+      "options": ["주무시다", "드시다", "계시다", "말씀하시다"],
+      "answerIndex": 0,
+      "explanationEn": "주무시다 is the dedicated honorific verb for '자다'.",
+      "explanationId": "주무시다 adalah kata kerja honorifik khusus untuk '자다'."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "Grandfather is sleeping. -> 할아버지께서 ___.",
+      "sentenceHangul": "할아버지께서 ___.",
+      "answer": "주무세요",
+      "answerReading": "ju-mu-se-yo",
+      "hintEn": "Conjugate honorific verb for sleep in present polite style.",
+      "hintId": "Konjugasikan kata kerja honorifik untuk tidur dalam gaya sopan sekarang."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'Enjoy your meal / Please eat deliciously.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Selamat makan / Silakan makan dengan nikmat.'",
+      "answer": "맛있게 드세요",
+      "answerReading": "mas-iss-ge deu-se-yo",
+      "acceptableVariants": ["맛있게 드십시오"],
+      "hintEn": "Use deliciously (맛있게) + eat honorific (드세요).",
+      "hintId": "Gunakan dengan nikmat (맛있게) + makan honorifik (드세요)."
+    }
+  }
+]

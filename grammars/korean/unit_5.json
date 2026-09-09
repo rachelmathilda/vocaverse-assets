@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ko_unit3_l3_01",
+    "pattern": "Time Relative Words (어제 / 오늘 / 내일 / 지금)",
+    "meaningEn": "Basic time anchor words (Yesterday / Today / Tomorrow / Now).",
+    "meaningId": "Kata acuan waktu dasar (Kemarin / Hari ini / Besok / Sekarang).",
+    "notesEn": {
+      "formation": "Standalone time adverbs placed before verbs or at the start of sentences.",
+      "usage": "Establishes the time frame of a sentence.",
+      "nuance": "Remember that relative time adverbs like 어제, 오늘, 내일, and 지금 do NOT take the time particle ~에."
+    },
+    "notesId": {
+      "formation": "Kata keterangan waktu mandiri yang diletakkan sebelum kata kerja atau di awal kalimat.",
+      "usage": "Menentukan kerangka waktu dari suatu kalimat.",
+      "nuance": "Ingat bahwa kata keterangan waktu relatif seperti 어제, 오늘, 내일, dan 지금 TIDAK menggunakan partikel waktu ~에."
+    },
+    "examples": [
+      {
+        "hangul": "오늘 무엇을 해요?",
+        "romaja": "o-neul mu-eos-eul hae-yo?",
+        "meaningEn": "What are you doing today?",
+        "meaningId": "Apa yang kamu lakukan hari ini?",
+        "type": "question"
+      },
+      {
+        "hangul": "어제 친구를 만났어요.",
+        "romaja": "eo-je chin-gu-reul man-nas-seo-yo.",
+        "meaningEn": "I met a friend yesterday.",
+        "meaningId": "Saya bertemu teman kemarin.",
+        "type": "statement"
+      },
+      {
+        "hangul": "지금 공부해요.",
+        "romaja": "ji-geum gong-bu-hae-yo.",
+        "meaningEn": "I am studying now.",
+        "meaningId": "Saya sedang belajar sekarang.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which time word correctly fills the blank for 'I studied yesterday'? -> ___ 공부했어요.",
+      "options": ["어제", "내일", "지금", "오늘"],
+      "answerIndex": 0,
+      "explanationEn": "공부했어요 is in the past tense, so '어제' (yesterday) fits logically.",
+      "explanationId": "공부했어요 dalam bentuk lampau, jadi '어제' (kemarin) cocok secara logis."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I am studying now. -> ___ 공부해요.",
+      "sentenceHangul": "___ 공부해요.",
+      "answer": "지금",
+      "answerReading": "ji-geum",
+      "hintEn": "Korean word for 'now'.",
+      "hintId": "Kata bahasa Korea untuk 'sekarang'."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'What are you doing today?'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Apa yang kamu lakukan hari ini?'",
+      "answer": "오늘 무엇을 해요?",
+      "answerReading": "o-neul mu-eos-eul hae-yo?",
+      "acceptableVariants": ["오늘 뭐 해요?", "오늘 무엇을 합니까?"],
+      "hintEn": "Use today (오늘) + what (무엇을) + do (해요?).",
+      "hintId": "Gunakan hari ini (오늘) + apa (무엇을) + melakukan (해요?)."
+    }
+  },
+  {
+    "id": "ko_unit3_l3_02",
+    "pattern": "Time Noun + 동안 (Duration / For a period)",
+    "meaningEn": "Expressing duration ('for / during a time period').",
+    "meaningId": "Mengekspresikan durasi ('selama suatu jangka waktu').",
+    "notesEn": {
+      "formation": "Time Duration Noun + 동안.",
+      "usage": "Indicates the total length of time during which an action or state occurs.",
+      "nuance": "Can be attached to time quantities (3시간 동안 = for 3 hours) or nouns representing periods (방학 동안 = during vacation)."
+    },
+    "notesId": {
+      "formation": "Kata Benda Durasi Waktu + 동안.",
+      "usage": "Menunjukkan total jangka waktu di mana suatu tindakan atau keadaan terjadi.",
+      "nuance": "Dapat ditempelkan pada kuantitas waktu (3시간 동안 = selama 3 jam) atau kata benda yang mewakili periode (방학 동안 = selama liburan)."
+    },
+    "examples": [
+      {
+        "hangul": "두 시간 동안 공부했어요.",
+        "romaja": "du si-gan dong-an gong-bu-haes-seo-yo.",
+        "meaningEn": "I studied for two hours.",
+        "meaningId": "Saya belajar selama dua jam.",
+        "type": "statement"
+      },
+      {
+        "hangul": "방학 동안 여행을 갈 거예요.",
+        "romaja": "bang-hak dong-an yeo-haeng-eul gal geo-ye-yo.",
+        "meaningEn": "I will go traveling during vacation.",
+        "meaningId": "Saya akan bepergian selama liburan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "얼마 동안 한국에 있었어요?",
+        "romaja": "eol-ma dong-an han-gug-e is-seos-seo-yo?",
+        "meaningEn": "How long (for how much time) were you in Korea?",
+        "meaningId": "Berapa lama kamu berada di Korea?",
+        "type": "question"
+      }
+    ],
+    "quiz": {
+      "question": "How do you say 'for two hours' in Korean?",
+      "options": ["두 시간 동안", "두 시 동안", "두 시간 에", "두 시 에"],
+      "answerIndex": 0,
+      "explanationEn": "시간 denotes duration/hours, combined with 동안 (두 시간 동안). 시 alone denotes a specific time on the clock.",
+      "explanationId": "시간 menunjukkan durasi/jam, digabungkan dengan 동안 (두 시간 동안). 시 saja menunjukkan jam spesifik pada jam."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I studied for two hours. -> 두 시간 ___ 공부했어요.",
+      "sentenceHangul": "두 시간 ___ 공부했어요.",
+      "answer": "동안",
+      "answerReading": "dong-an",
+      "hintEn": "Attach duration marker meaning 'for/during'.",
+      "hintId": "Tempelkan penanda durasi yang berarti 'selama'."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I studied for two hours.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya belajar selama dua jam.'",
+      "answer": "두 시간 동안 공부했어요",
+      "answerReading": "du si-gan dong-an gong-bu-haes-seo-yo",
+      "acceptableVariants": ["저는 두 시간 동안 공부했어요", "두 시간 동안 공부했습니다"],
+      "hintEn": "Use two hours (두 시간) + duration particle 동안 + studied (공부했어요).",
+      "hintId": "Gunakan dua jam (두 시간) + partikel durasi 동안 + belajar lampau (공부했어요)."
+    }
+  },
+  {
+    "id": "ko_unit3_l3_03",
+    "pattern": "Time Noun + 부터 ~ 까지 (From ... To ...)",
+    "meaningEn": "Time interval markers ('from ... to ...').",
+    "meaningId": "Penanda interval waktu ('dari ... sampai ...').",
+    "notesEn": {
+      "formation": "Start Time + 부터 + End Time + 까지.",
+      "usage": "Specifies starting and ending points for time durations.",
+      "nuance": "When marking locations, use 에서 ~ 까지 instead of 부터 ~ 까지."
+    },
+    "notesId": {
+      "formation": "Waktu Mulai + 부터 + Waktu Selesai + 까지.",
+      "usage": "Menentukan titik awal dan akhir untuk durasi waktu.",
+      "nuance": "Ketika menandai lokasi, gunakan 에서 ~ 까지 sebagai ganti 부터 ~ 까지."
+    },
+    "examples": [
+      {
+        "hangul": "9시부터 5시까지 일해요.",
+        "romaja": "a-hop-si-bu-teo daseot-si-kka-ji il-hae-yo.",
+        "meaningEn": "I work from 9 o'clock to 5 o'clock.",
+        "meaningId": "Saya bekerja dari jam 9 sampai jam 5.",
+        "type": "statement"
+      },
+      {
+        "hangul": "월요일부터 금요일까지 수업이 있어요.",
+        "romaja": "wol-yo-il-bu-teo geum-yo-il-kka-ji su-eob-i is-seo-yo.",
+        "meaningEn": "There are classes from Monday to Friday.",
+        "meaningId": "Ada kelas dari hari Senin sampai Jumat.",
+        "type": "statement"
+      },
+      {
+        "hangul": "언제부터 한국어를 배웠어요?",
+        "romaja": "eon-je-bu-teo han-guk-eo-reul bae-wos-seo-yo?",
+        "meaningEn": "Since when did you learn Korean?",
+        "meaningId": "Sejak kapan kamu belajar bahasa Korea?",
+        "type": "question"
+      }
+    ],
+    "quiz": {
+      "question": "Which particle pair indicates 'from (time) to (time)'?",
+      "options": ["부터 ~ 까지", "에서 ~ 까지", "하고 ~ 과", "에 ~ 에서"],
+      "answerIndex": 0,
+      "explanationEn": "부터 is used for starting time, and 까지 is used for ending time/limit.",
+      "explanationId": "부터 digunakan untuk waktu mulai, dan 까지 digunakan untuk waktu selesai/batas."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I work from 9 o'clock to 5 o'clock. -> 9시___ 5시까지 일해요.",
+      "sentenceHangul": "9시___ 5시까지 일해요.",
+      "answer": "부터",
+      "answerReading": "bu-teo",
+      "hintEn": "Attach the 'from (time)' particle to 9시.",
+      "hintId": "Tempelkan partikel 'dari (waktu)' pada 9시."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I work from 9 o'clock to 5 o'clock.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya bekerja dari jam 9 sampai jam 5.'",
+      "answer": "9시부터 5시까지 일해요",
+      "answerReading": "a-hop-si-bu-teo daseot-si-kka-ji il-hae-yo",
+      "acceptableVariants": ["9시부터 5시까지 일합니다", "저는 9시부터 5시까지 일해요"],
+      "hintEn": "Use 9 o'clock from (9시부터) + 5 o'clock to (5시까지) + work (일해요).",
+      "hintId": "Gunakan jam 9 dari (9시부터) + jam 5 sampai (5시까지) + bekerja (일해요)."
+    }
+  }
+]

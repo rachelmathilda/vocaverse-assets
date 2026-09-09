@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ko_unit11_l1_01",
+    "pattern": "Verb Stem + ~이/히/리/기/되다 (Passive Voice)",
+    "meaningEn": "Expressing passive action ('is done / is being made / becomes').",
+    "meaningId": "Mengekspresikan tindakan pasif ('dilakukan / dibuat / menjadi').",
+    "notesEn": {
+      "formation": "Base Verbs add ~이/히/리/기 or 하다 becomes 되다.",
+      "usage": "Used when the subject experiences or receives an action rather than performing it.",
+      "nuance": "Different stems take specific passive suffixes (e.g., 보다 -> 보이다, 먹다 -> 먹히다, 열다 -> 열리다, 닫다 -> 닫히다)."
+    },
+    "notesId": {
+      "formation": "Kata Kerja Dasar ditambah ~이/히/리/기 atau 하다 menjadi 되다.",
+      "usage": "Digunakan ketika subjek mengalami atau menerima tindakan, bukan melakukannya.",
+      "nuance": "Kata dasar yang berbeda menggunakan akhiran pasif tertentu (contoh: 보다 -> 보이다, 먹다 -> 먹히다, 열다 -> 열리다, 닫다 -> 닫히다)."
+    },
+    "examples": [
+      {
+        "hangul": "문이 열렸어요.",
+        "romaja": "mun-i yeol-lyeos-seo-yo.",
+        "meaningEn": "The door was opened / opened.",
+        "meaningId": "Pintunya terbuka / dibuka.",
+        "type": "statement"
+      },
+      {
+        "hangul": "저 멀리 산이 보입니다.",
+        "romaja": "jeo meol-li san-i bo-im-ni-da.",
+        "meaningEn": "The mountain can be seen far away.",
+        "meaningId": "Gunung terlihat di kejauhan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "약속이 취소되었어요.",
+        "romaja": "yak-so-gi chwi-so-doe-eos-seo-yo.",
+        "meaningEn": "The appointment was canceled.",
+        "meaningId": "Janji telah dibatalkan.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What is the passive form of '열다' (to open)?",
+      "options": ["열리다", "열히다", "열기다", "열이다"],
+      "answerIndex": 0,
+      "explanationEn": "열다 takes the passive suffix ~리~ to become 열리다 (to be opened).",
+      "explanationId": "열다 menggunakan akhiran pasif ~리~ untuk menjadi 열리다 (terbuka/dibuka)."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "The door was opened. -> 문이 열___어요.",
+      "sentenceHangul": "문이 열___어요.",
+      "answer": "렸",
+      "answerReading": "ryeot",
+      "hintEn": "Combine passive suffix ~리~ with past tense ~었~.",
+      "hintId": "Gabungkan akhiran pasif ~리~ dengan bentuk lampau ~었~."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'The door was opened.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Pintunya terbuka.'",
+      "answer": "문이 열렸어요",
+      "answerReading": "mun-i yeol-lyeos-seo-yo",
+      "acceptableVariants": ["문이 열렸습니다", "문이 열리었습니다"],
+      "hintEn": "Use door subject (문이) + open passive past (열렸어요).",
+      "hintId": "Gunakan subjek pintu (문이) + pasif buka lampau (열렸어요)."
+    }
+  },
+  {
+    "id": "ko_unit11_l1_02",
+    "pattern": "Verb Stem + ~이/히/리/기/우/추 (Causative Voice 'Make/Have someone do')",
+    "meaningEn": "Causative expression ('make / cause / let someone do something').",
+    "meaningId": "Ekspresi kausatif ('membuat / menyuruh / membiarkan seseorang melakukan sesuatu').",
+    "notesEn": {
+      "formation": "Base verbs take ~이/히/리/기/우/추 or Verb Stem + ~게 하다.",
+      "usage": "Used when the subject makes or enables another person/object to perform an action.",
+      "nuance": "Common verbs: 먹다 -> 먹이다 (feed), 자다 -> 재우다 (put to sleep), 입다 -> 입히다 (dress someone)."
+    },
+    "notesId": {
+      "formation": "Kata kerja dasar ditambah ~이/히/리/기/우/추 atau Kata Dasar + ~게 하다.",
+      "usage": "Digunakan ketika subjek membuat atau menyebabkan orang/benda lain melakukan suatu tindakan.",
+      "nuance": "Kata kerja umum: 먹다 -> 먹이다 (menyuapi/gabung makan), 자다 -> 재우다 (menidurkan), 입다 -> 입히다 (mengenakan pakaian ke orang lain)."
+    },
+    "examples": [
+      {
+        "hangul": "아이에게 옷을 입혀요.",
+        "romaja": "a-i-e-ge os-eul ip-hyeo-yo.",
+        "meaningEn": "I dress the child (make the child wear clothes).",
+        "meaningId": "Saya mengenakan pakaian pada anak.",
+        "type": "statement"
+      },
+      {
+        "hangul": "아기를 재웠어요.",
+        "romaja": "a-gi-reul jae-woos-seo-yo.",
+        "meaningEn": "I put the baby to sleep.",
+        "meaningId": "Saya menidurkan bayi.",
+        "type": "statement"
+      },
+      {
+        "hangul": "동생에게 빵을 먹였어요.",
+        "romaja": "dong-saeng-e-ge ppang-eul meog-yeos-seo-yo.",
+        "meaningEn": "I fed my younger sibling bread.",
+        "meaningId": "Saya menyuapi adik roti.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What is the causative form of '입다' (to wear) meaning 'to dress someone'?",
+      "options": ["입히다", "입이다", "입리다", "입기다"],
+      "answerIndex": 0,
+      "explanationEn": "입다 takes ~히~ to become 입히다 (to dress someone).",
+      "explanationId": "입다 menggunakan ~히~ untuk menjadi 입히다 (mengenakan pakaian ke orang lain)."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I dress the child. -> 아이에게 옷을 입___요.",
+      "sentenceHangul": "아이에게 옷을 입___요.",
+      "answer": "혀",
+      "answerReading": "hyeo",
+      "hintEn": "Conjugate causative stem 입히~ into standard polite present style (~혀요).",
+      "hintId": "Konjugasikan kata dasar kausatif 입히~ ke bentuk sopan standar (~혀요)."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I dress the child.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya mengenakan pakaian pada anak.'",
+      "answer": "아이에게 옷을 입혀요",
+      "answerReading": "a-i-e-ge os-eul ip-hyeo-yo",
+      "acceptableVariants": ["아이에게 옷을 입힙니다"],
+      "hintEn": "Use child to (아이에게) + clothes (옷을) + dress causative (입혀요).",
+      "hintId": "Gunakan kepada anak (아이에게) + pakaian (옷을) + kausatif pakai (입혀요)."
+    }
+  },
+  {
+    "id": "ko_unit11_l2_01",
+    "pattern": "Verb Stem + ~자마자 (As soon as)",
+    "meaningEn": "Immediate sequential action ('as soon as / right after').",
+    "meaningId": "Tindakan berurutan secara langsung ('segera setelah / begitu...').",
+    "notesEn": {
+      "formation": "Verb Stem + ~자마자.",
+      "usage": "Indicates that the action in the second clause happens immediately after the action in the first clause.",
+      "nuance": "Do not attach tense markers (~았/었~) to ~자마자; tense is expressed in the final verb."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja + ~자마자.",
+      "usage": "Menunjukkan bahwa tindakan pada klausa kedua terjadi segera setelah tindakan pada klausa pertama selesai.",
+      "nuance": "Jangan menempelkan penanda waktu (~았/었~) pada ~자마자; bentuk waktu dinyatakan pada kata kerja akhir."
+    },
+    "examples": [
+      {
+        "hangul": "집에 오자마자 손을 씻었어요.",
+        "romaja": "jib-e o-ja-ma-ja son-eul ssiss-eos-seo-yo.",
+        "meaningEn": "As soon as I came home, I washed my hands.",
+        "meaningId": "Segera setelah sampai di rumah, saya mencuci tangan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "수업이 끝나자마자 친구를 만났어요.",
+        "romaja": "su-eob-i kkeut-na-ja-ma-ja chin-gu-reul man-nas-seo-yo.",
+        "meaningEn": "Right after class finished, I met my friend.",
+        "meaningId": "Begitu kelas selesai, saya bertemu teman.",
+        "type": "statement"
+      },
+      {
+        "hangul": "알람이 울리자마자 일어났어요.",
+        "romaja": "al-lam-i ul-ri-ja-ma-ja il-eo-nas-seo-yo.",
+        "meaningEn": "As soon as the alarm rang, I woke up.",
+        "meaningId": "Begitu alarm berbunyi, saya langsung bangun.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which connector means 'as soon as' attached to verb stems?",
+      "options": ["~자마자", "~기 전에", "~을 때", "~면서"],
+      "answerIndex": 0,
+      "explanationEn": "~자마자 indicates an immediate sequence of two actions.",
+      "explanationId": "~자마자 menunjukkan urutan langsung dari dua tindakan."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "As soon as I came home, I washed my hands. -> 집에 오___ 손을 씻었어요.",
+      "sentenceHangul": "집에 오___ 손을 씻었어요.",
+      "answer": "자마자",
+      "answerReading": "ja-ma-ja",
+      "hintEn": "Attach 'as soon as' connector to verb stem 오.",
+      "hintId": "Tempelkan penghubung 'segera setelah' pada kata dasar 오."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'As soon as I came home, I washed my hands.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Segera setelah sampai di rumah, saya mencuci tangan.'",
+      "answer": "집에 오자마자 손을 씻었어요",
+      "answerReading": "jib-e o-ja-ma-ja son-eul ssiss-eos-seo-yo",
+      "acceptableVariants": ["집에 오자마자 손을 씻었습니다"],
+      "hintEn": "Use home to (집에) + come as soon as (오자마자) + hands (손을) + washed (씻었어요).",
+      "hintId": "Gunakan ke rumah (집에) + begitu datang (오자마자) + tangan (손을) + mencuci lampau (씻었어요)."
+    }
+  },
+  {
+    "id": "ko_unit11_l2_02",
+    "pattern": "Verb Stem + ~(으)면서 (Simultaneous Action 'While')",
+    "meaningEn": "Simultaneous actions performed by the same subject ('while doing').",
+    "meaningId": "Tindakan bersamaan yang dilakukan oleh subjek yang sama ('sambil / seraya').",
+    "notesEn": {
+      "formation": "Vowel stem -> ~면서 / Consonant stem -> ~으면서.",
+      "usage": "Connects two actions happening at the exact same time by one person.",
+      "nuance": "The subjects of both clauses must be identical."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~면서 / Kata Dasar berakhiran Konsonan -> ~으면서.",
+      "usage": "Menghubungkan dua tindakan yang terjadi pada waktu yang bersamaan oleh satu orang.",
+      "nuance": "Subjek dari kedua klausa harus sama."
+    },
+    "examples": [
+      {
+        "hangul": "음악을 들으면서 공부해요.",
+        "romaja": "eu-mag-eul deu-reu-myeon-seo gong-bu-hae-yo.",
+        "meaningEn": "I study while listening to music.",
+        "meaningId": "Saya belajar sambil mendengarkan musik.",
+        "type": "statement"
+      },
+      {
+        "hangul": "밥을 먹으면서 TV를 봐요.",
+        "romaja": "bab-eul meog-eu-myeon-seo ti-bi-reul bwa-yo.",
+        "meaningEn": "I watch TV while eating a meal.",
+        "meaningId": "Saya menonton TV sambil makan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "운전하면서 전화하면 안 돼요.",
+        "romaja": "un-jeon-ha-myeon-seo jeon-hwa-ha-myeon an dwae-yo.",
+        "meaningEn": "You must not talk on the phone while driving.",
+        "meaningId": "Tidak boleh menelepon sambil mengemudi.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "How do you combine '듣다' (to listen) with 'while'?",
+      "options": ["들으면서", "듣으면서", "듣면서", "들으자마자"],
+      "answerIndex": 0,
+      "explanationEn": "듣다 is a ㄷ-irregular verb; ㄷ changes to ㄹ before a vowel, becoming 들으면서.",
+      "explanationId": "듣다 adalah kata kerja tidak beraturan ㄷ; ㄷ berubah menjadi ㄹ di depan vokal, menjadi 들으면서."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I study while listening to music. -> 음악을 들___ 공부해요.",
+      "sentenceHangul": "음악을 들___ 공부해요.",
+      "answer": "으면서",
+      "answerReading": "eu-myeon-seo",
+      "hintEn": "Attach 'while' suffix to irregular stem 들.",
+      "hintId": "Tempelkan akhiran 'sambil' pada kata dasar tidak beraturan 들."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I study while listening to music.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya belajar sambil mendengarkan musik.'",
+      "answer": "음악을 들으면서 공부해요",
+      "answerReading": "eu-mag-eul deu-reu-myeon-seo gong-bu-hae-yo",
+      "acceptableVariants": ["음악을 들으면서 공부합니다"],
+      "hintEn": "Use music (음악을) + listen while (들으면서) + study (공부해요).",
+      "hintId": "Gunakan musik (음악을) + sambil mendengarkan (들으면서) + belajar (공부해요)."
+    }
+  },
+  {
+    "id": "ko_unit11_l2_03",
+    "pattern": "Verb/Adj Stem + ~(으)ㄴ/는 대신에 (In exchange for / Instead of)",
+    "meaningEn": "Substitution or compensation ('instead of / in exchange for').",
+    "meaningId": "Penggantian atau kompensasi ('sebagai ganti / alih-alih').",
+    "notesEn": {
+      "formation": "Present Verb: ~는 대신에 / Past Verb & Adj: ~(으)ㄴ 대신에 / Noun: Noun + 대신에.",
+      "usage": "Indicates substituting one action/thing for another, or providing a compensation.",
+      "nuance": "Can also contrast two opposing characteristics of something."
+    },
+    "notesId": {
+      "formation": "Kata Kerja Present: ~는 대신에 / Kata Kerja Lampau & Kata Sifat: ~(으)ㄴ 대신에 / Kata Benda: Kata Benda + 대신에.",
+      "usage": "Menunjukkan penggantian suatu tindakan/benda dengan yang lain, atau memberikan kompensasi.",
+      "nuance": "Juga dapat membandingkan dua sifat yang berlawanan dari sesuatu."
+    },
+    "examples": [
+      {
+        "hangul": "커피 대신에 물을 마셔요.",
+        "romaja": "keo-pi dae-sin-e mul-eul ma-syeo-yo.",
+        "meaningEn": "I drink water instead of coffee.",
+        "meaningId": "Saya minum air putih sebagai ganti kopi.",
+        "type": "statement"
+      },
+      {
+        "hangul": "제가 밥을 사는 대신에 커피를 사 주세요.",
+        "romaja": "je-ga bab-eul sa-neun dae-sin-e keo-pi-reul sa ju-se-yo.",
+        "meaningEn": "In exchange for me buying lunch, please buy me coffee.",
+        "meaningId": "Sebagai ganti saya traktir makan, tolong belikan saya kopi.",
+        "type": "imperative"
+      },
+      {
+        "hangul": "이 방은 작은 대신에 값이 싸요.",
+        "romaja": "i bang-eun ja-geun dae-sin-e gap-si ssa-yo.",
+        "meaningEn": "This room is cheap, in exchange for being small.",
+        "meaningId": "Kamar ini harganya murah, tetapi ukurannya kecil.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which phrase correctly means 'instead of coffee' using a noun?",
+      "options": ["커피 대신에", "커피 대신하는", "커피 대신이고", "커피 대신에서"],
+      "answerIndex": 0,
+      "explanationEn": "Nouns take 대신에 directly (커피 대신에).",
+      "explanationId": "Kata benda menggunakan 대신에 secara langsung (커피 대신에)."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I drink water instead of coffee. -> 커피 ___ 물을 마셔요.",
+      "sentenceHangul": "커피 ___ 물을 마셔요.",
+      "answer": "대신에",
+      "answerReading": "dae-sin-e",
+      "hintEn": "Attach 'instead of' directly to noun 커피.",
+      "hintId": "Tempelkan 'sebagai ganti' secara langsung pada kata benda 커피."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I drink water instead of coffee.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya minum air putih sebagai ganti kopi.'",
+      "answer": "커피 대신에 물을 마셔요",
+      "answerReading": "keo-pi dae-sin-e mul-eul ma-syeo-yo",
+      "acceptableVariants": ["커피 대신 물을 마셔요", "커피 대신에 물을 마십니다"],
+      "hintEn": "Use coffee instead (커피 대신에) + water (물을) + drink (마셔요).",
+      "hintId": "Gunakan alih-alih kopi (커피 대신에) + air (물을) + minum (마셔요)."
+    }
+  }
+]

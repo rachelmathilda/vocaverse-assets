@@ -1,0 +1,3640 @@
+[
+  {
+    "id": "rad_zh_1",
+    "radical": "一",
+    "meaningEn": "one",
+    "meaningId": "satu",
+    "strokeCount": 1,
+    "examples": [
+      "𪛙",
+      "丁",
+      "丂",
+      "七",
+      "丄",
+      "丅"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_2",
+    "radical": "丨",
+    "meaningEn": "line",
+    "meaningId": "baris",
+    "strokeCount": 1,
+    "examples": [
+      "丩",
+      "𠁡",
+      "𠁢",
+      "㐃",
+      "㐄",
+      "个"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_3",
+    "radical": "丶",
+    "meaningEn": "dot",
+    "meaningId": "titik",
+    "strokeCount": 1,
+    "examples": [
+      "丷",
+      "𪜊",
+      "丸",
+      "义",
+      "𠁼",
+      "𠁽"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_4",
+    "radical": "丿",
+    "meaningEn": "slash",
+    "meaningId": "garis miring",
+    "strokeCount": 1,
+    "examples": [
+      "乀",
+      "乁",
+      "乁",
+      "㐅",
+      "乂",
+      "乃"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_5",
+    "radical": "乙",
+    "meaningEn": "second",
+    "meaningId": "kedua",
+    "strokeCount": 1,
+    "examples": [
+      "乚",
+      "乛",
+      "𠃉",
+      "𠃊",
+      "𠃋",
+      "𠃌"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_6",
+    "radical": "亅",
+    "meaningEn": "hook",
+    "meaningId": "kait",
+    "strokeCount": 1,
+    "examples": [
+      "𠄌",
+      "了",
+      "了",
+      "𠄍",
+      "𠄎",
+      "𠄏"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_7",
+    "radical": "二",
+    "meaningEn": "two",
+    "meaningId": "dua",
+    "strokeCount": 2,
+    "examples": [
+      "𠄞",
+      "𠄟",
+      "𠄠",
+      "亍",
+      "于",
+      "亏"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_8",
+    "radical": "亠",
+    "meaningEn": "lid",
+    "meaningId": "tutup",
+    "strokeCount": 2,
+    "examples": [
+      "亡",
+      "亢",
+      "亣",
+      "𠅁",
+      "𠅂",
+      "𪜠"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_9",
+    "radical": "人",
+    "meaningEn": "person",
+    "meaningId": "orang",
+    "strokeCount": 2,
+    "examples": [
+      "亻",
+      "𠆢",
+      "亼",
+      "亽",
+      "亾",
+      "亿"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_10",
+    "radical": "儿",
+    "meaningEn": "legs",
+    "meaningId": "kaki",
+    "strokeCount": 2,
+    "examples": [
+      "兀",
+      "兀",
+      "允",
+      "兂",
+      "元",
+      "𠑶"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_11",
+    "radical": "入",
+    "meaningEn": "enter",
+    "meaningId": "enter",
+    "strokeCount": 2,
+    "examples": [
+      "兦",
+      "𠓛",
+      "內",
+      "𠓜",
+      "𠓝",
+      "𠓞"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_12",
+    "radical": "八",
+    "meaningEn": "eight",
+    "meaningId": "delapan",
+    "strokeCount": 2,
+    "examples": [
+      "𠔀",
+      "公",
+      "六",
+      "兮",
+      "兯",
+      "六"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_13",
+    "radical": "冂",
+    "meaningEn": "down box",
+    "meaningId": "kotak bawah",
+    "strokeCount": 2,
+    "examples": [
+      "𠔼",
+      "𰃦",
+      "冃",
+      "冄",
+      "内",
+      "円"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_14",
+    "radical": "冖",
+    "meaningEn": "cover",
+    "meaningId": "sampul",
+    "strokeCount": 2,
+    "examples": [
+      "㓀",
+      "㓁",
+      "冗",
+      "冘",
+      "𠕳",
+      "𠕴"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_15",
+    "radical": "冫",
+    "meaningEn": "ice",
+    "meaningId": "es",
+    "strokeCount": 2,
+    "examples": [
+      "𠖬",
+      "𫤾",
+      "㓅",
+      "𠖭",
+      "𭂆",
+      "𭂇"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_16",
+    "radical": "几",
+    "meaningEn": "table",
+    "meaningId": "tabel",
+    "strokeCount": 2,
+    "examples": [
+      "𠘧",
+      "𠘨",
+      "凡",
+      "凢",
+      "凣",
+      "𪛝"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_17",
+    "radical": "凵",
+    "meaningEn": "open box",
+    "meaningId": "kotak terbuka",
+    "strokeCount": 2,
+    "examples": [
+      "𠙴",
+      "凵",
+      "𠙵",
+      "凶",
+      "𠙶",
+      "𠙷"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_18",
+    "radical": "刀",
+    "meaningEn": "knife",
+    "meaningId": "pisau",
+    "strokeCount": 2,
+    "examples": [
+      "刁",
+      "刂",
+      "𠚣",
+      "刃",
+      "刄",
+      "𠚤"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_19",
+    "radical": "力",
+    "meaningEn": "power",
+    "meaningId": "daya",
+    "strokeCount": 2,
+    "examples": [
+      "力",
+      "劜",
+      "𠠲",
+      "𫦤",
+      "劝",
+      "办"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_20",
+    "radical": "勹",
+    "meaningEn": "wrap",
+    "meaningId": "bungkus",
+    "strokeCount": 2,
+    "examples": [
+      "勺",
+      "勺",
+      "勺",
+      "勻",
+      "勼",
+      "勽"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_21",
+    "radical": "匕",
+    "meaningEn": "ladle",
+    "meaningId": "ladle",
+    "strokeCount": 2,
+    "examples": [
+      "𠤎",
+      "𪟨",
+      "㔫",
+      "化",
+      "𠤏",
+      "𫧇"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_22",
+    "radical": "匚",
+    "meaningEn": "right open box",
+    "meaningId": "kotak terbuka kanan",
+    "strokeCount": 2,
+    "examples": [
+      "𠤬",
+      "𠤭",
+      "𫧋",
+      "𭅔",
+      "匛",
+      "匜"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_23",
+    "radical": "匸",
+    "meaningEn": "hiding enclosure",
+    "meaningId": "menyembunyikan penutupan",
+    "strokeCount": 2,
+    "examples": [
+      "匹",
+      "区",
+      "𠥭",
+      "𠤲",
+      "𠥮",
+      "𠥯"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_24",
+    "radical": "十",
+    "meaningEn": "ten",
+    "meaningId": "sepuluh",
+    "strokeCount": 2,
+    "examples": [
+      "卂",
+      "千",
+      "㔹",
+      "卅",
+      "卆",
+      "升"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_25",
+    "radical": "卜",
+    "meaningEn": "divination",
+    "meaningId": "ramalan",
+    "strokeCount": 2,
+    "examples": [
+      "𠧒",
+      "卝",
+      "卞",
+      "𪟽",
+      "卟",
+      "占"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_26",
+    "radical": "卩",
+    "meaningEn": "seal",
+    "meaningId": "seal",
+    "strokeCount": 2,
+    "examples": [
+      "𰆊",
+      "㔾",
+      "㔿",
+      "卪",
+      "卫",
+      "𭅲"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_27",
+    "radical": "厂",
+    "meaningEn": "cliff",
+    "meaningId": "tebing",
+    "strokeCount": 2,
+    "examples": [
+      "厃",
+      "厄",
+      "厅",
+      "历",
+      "𠨬",
+      "𠨬"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_28",
+    "radical": "厶",
+    "meaningEn": "private",
+    "meaningId": "private",
+    "strokeCount": 2,
+    "examples": [
+      "𠫓",
+      "𠫔",
+      "𠫕",
+      "𠫖",
+      "𱑢",
+      "㕕"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_29",
+    "radical": "又",
+    "meaningEn": "again",
+    "meaningId": "lagi",
+    "strokeCount": 2,
+    "examples": [
+      "叉",
+      "𭆥",
+      "㕚",
+      "㕛",
+      "及",
+      "友"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_30",
+    "radical": "口",
+    "meaningEn": "mouth",
+    "meaningId": "mulut",
+    "strokeCount": 3,
+    "examples": [
+      "𠮙",
+      "𠮚",
+      "𠮛",
+      "𠮜",
+      "𠮝",
+      "𠮞"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_31",
+    "radical": "囗",
+    "meaningEn": "enclosure",
+    "meaningId": "penutupan",
+    "strokeCount": 3,
+    "examples": [
+      "𡆠",
+      "𡆡",
+      "𡆢",
+      "𲘞",
+      "㘝",
+      "囙"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_32",
+    "radical": "土",
+    "meaningEn": "earth",
+    "meaningId": "bumi",
+    "strokeCount": 3,
+    "examples": [
+      "圠",
+      "圡",
+      "龶",
+      "𡈼",
+      "𡈽",
+      "𡈾"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_33",
+    "radical": "士",
+    "meaningEn": "scholar",
+    "meaningId": "sarjana",
+    "strokeCount": 3,
+    "examples": [
+      "壬",
+      "壭",
+      "𡔛",
+      "壮",
+      "𡔜",
+      "𮰰"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_34",
+    "radical": "夂",
+    "meaningEn": "go",
+    "meaningId": "pergi",
+    "strokeCount": 3,
+    "examples": [
+      "𡕒",
+      "夃",
+      "处",
+      "𡕓",
+      "𡕔",
+      "𭐝"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_35",
+    "radical": "夊",
+    "meaningEn": "go slowly",
+    "meaningId": "pergi perlahan-lahan",
+    "strokeCount": 3,
+    "examples": [
+      "𭐟",
+      "𡕞",
+      "𡕟",
+      "夋",
+      "𡕠",
+      "𡕡"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_36",
+    "radical": "夕",
+    "meaningEn": "night",
+    "meaningId": "malam",
+    "strokeCount": 3,
+    "examples": [
+      "㚈",
+      "外",
+      "夗",
+      "夘",
+      "𡖄",
+      "𡖅"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_37",
+    "radical": "大",
+    "meaningEn": "big",
+    "meaningId": "besar",
+    "strokeCount": 3,
+    "examples": [
+      "夨",
+      "天",
+      "太",
+      "夫",
+      "夬",
+      "夭"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_38",
+    "radical": "女",
+    "meaningEn": "woman",
+    "meaningId": "wanita",
+    "strokeCount": 3,
+    "examples": [
+      "女",
+      "𡚦",
+      "𫰆",
+      "𰋵",
+      "𱙁",
+      "㚢"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_39",
+    "radical": "子",
+    "meaningEn": "child",
+    "meaningId": "anak",
+    "strokeCount": 3,
+    "examples": [
+      "孑",
+      "孒",
+      "孓",
+      "𡤼",
+      "孔",
+      "𡤽"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_40",
+    "radical": "宀",
+    "meaningEn": "roof",
+    "meaningId": "atap",
+    "strokeCount": 3,
+    "examples": [
+      "㝉",
+      "𡦹",
+      "㝊",
+      "㝋",
+      "宁",
+      "宂"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_41",
+    "radical": "寸",
+    "meaningEn": "inch",
+    "meaningId": "inci",
+    "strokeCount": 3,
+    "examples": [
+      "𡬝",
+      "㝳",
+      "对",
+      "寺",
+      "寻",
+      "导"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_42",
+    "radical": "𰍧",
+    "meaningEn": "small",
+    "meaningId": "kecil",
+    "strokeCount": -1,
+    "examples": [
+      "𰍨",
+      "小",
+      "𡭔",
+      "𭕄",
+      "尐",
+      "少"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_43",
+    "radical": "尢",
+    "meaningEn": "lame",
+    "meaningId": "lame",
+    "strokeCount": 3,
+    "examples": [
+      "尣",
+      "𡯁",
+      "𡯂",
+      "尢",
+      "尤",
+      "𡯃"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_44",
+    "radical": "尸",
+    "meaningEn": "corpse",
+    "meaningId": "mayat",
+    "strokeCount": 3,
+    "examples": [
+      "𡰣",
+      "尺",
+      "𪛛",
+      "𰍰",
+      "𲜲",
+      "㞋"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_45",
+    "radical": "䶹",
+    "meaningEn": "sprout",
+    "meaningId": "tunas",
+    "strokeCount": 3,
+    "examples": [
+      "屮",
+      "屮",
+      "𡳾",
+      "屮",
+      "㞢",
+      "屯"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_46",
+    "radical": "山",
+    "meaningEn": "mountain",
+    "meaningId": "gunung",
+    "strokeCount": 3,
+    "examples": [
+      "乢",
+      "屲",
+      "𡴭",
+      "𡴮",
+      "𡴯",
+      "㞤"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_47",
+    "radical": "𡿨",
+    "meaningEn": "river",
+    "meaningId": "sungai",
+    "strokeCount": -2,
+    "examples": [
+      "巜",
+      "巛",
+      "川",
+      "𡿦",
+      "𫶧",
+      "𡿧"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_48",
+    "radical": "工",
+    "meaningEn": "work",
+    "meaningId": "kerja",
+    "strokeCount": 3,
+    "examples": [
+      "𪛜",
+      "㠪",
+      "𢀑",
+      "𢀒",
+      "𢀓",
+      "𢀔"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_49",
+    "radical": "己",
+    "meaningEn": "oneself",
+    "meaningId": "Sendiri",
+    "strokeCount": 3,
+    "examples": [
+      "已",
+      "巳",
+      "巴",
+      "𢀳",
+      "㠯",
+      "𢀴"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_50",
+    "radical": "巾",
+    "meaningEn": "towel",
+    "meaningId": "Handuk",
+    "strokeCount": 3,
+    "examples": [
+      "巿",
+      "帀",
+      "币",
+      "㠲",
+      "㠳",
+      "市"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_51",
+    "radical": "干",
+    "meaningEn": "dry",
+    "meaningId": "kering",
+    "strokeCount": 3,
+    "examples": [
+      "平",
+      "𢆉",
+      "年",
+      "幵",
+      "年",
+      "𫷔"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_52",
+    "radical": "乡",
+    "meaningEn": "thread",
+    "meaningId": "thread",
+    "strokeCount": 3,
+    "examples": [
+      "幺",
+      "幻",
+      "𢆯",
+      "𢆰",
+      "𢆱",
+      "𭙈"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_53",
+    "radical": "广",
+    "meaningEn": "shelter",
+    "meaningId": "tempat tinggal",
+    "strokeCount": 3,
+    "examples": [
+      "庀",
+      "庁",
+      "庂",
+      "広",
+      "𠆲",
+      "𫷥"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_54",
+    "radical": "廴",
+    "meaningEn": "stride",
+    "meaningId": "langkah",
+    "strokeCount": 3,
+    "examples": [
+      "𢌗",
+      "㢟",
+      "廵",
+      "𢌘",
+      "𢌙",
+      "𢌚"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_55",
+    "radical": "廾",
+    "meaningEn": "hands joined",
+    "meaningId": "tangan bergabung",
+    "strokeCount": 3,
+    "examples": [
+      "𢌬",
+      "廾",
+      "廿",
+      "开",
+      "𢌭",
+      "弁"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_56",
+    "radical": "𫠠",
+    "meaningEn": "shoot with a bow",
+    "meaningId": "Shoot with a bow",
+    "strokeCount": -1,
+    "examples": [
+      "弋",
+      "𢍺",
+      "弌",
+      "𢍻",
+      "𢍼",
+      "弍"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_57",
+    "radical": "弓",
+    "meaningEn": "bow",
+    "meaningId": "busur",
+    "strokeCount": 3,
+    "examples": [
+      "𢎗",
+      "𢎘",
+      "㢧",
+      "弔",
+      "引",
+      "弖"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_58",
+    "radical": "彐",
+    "meaningEn": "snout",
+    "meaningId": "moncong",
+    "strokeCount": 3,
+    "examples": [
+      "彑",
+      "𫜹",
+      "归",
+      "当",
+      "𢑏",
+      "𢑐"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_59",
+    "radical": "彡",
+    "meaningEn": "hair",
+    "meaningId": "rambut",
+    "strokeCount": 3,
+    "examples": [
+      "𢒀",
+      "𢒁",
+      "𢒂",
+      "㣉",
+      "𢒃",
+      "𢒄"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_60",
+    "radical": "彳",
+    "meaningEn": "step",
+    "meaningId": "langkah",
+    "strokeCount": 3,
+    "examples": [
+      "𢒼",
+      "𢒽",
+      "𱝪",
+      "㣔",
+      "𢒾",
+      "𢒿"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_61",
+    "radical": "𢖩",
+    "meaningEn": "heart",
+    "meaningId": "hati",
+    "strokeCount": -1,
+    "examples": [
+      "心",
+      "忄",
+      "㣺",
+      "必",
+      "忆",
+      "𢖪"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_62",
+    "radical": "戈",
+    "meaningEn": "spear",
+    "meaningId": "Tombak",
+    "strokeCount": 4,
+    "examples": [
+      "戉",
+      "戊",
+      "戋",
+      "𢦌",
+      "𢦍",
+      "𪭉"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_63",
+    "radical": "戶",
+    "meaningEn": "door",
+    "meaningId": "pintu",
+    "strokeCount": 4,
+    "examples": [
+      "户",
+      "戸",
+      "戹",
+      "𢨤",
+      "𢨥",
+      "𭟿"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_64",
+    "radical": "手",
+    "meaningEn": "hand",
+    "meaningId": "tangan",
+    "strokeCount": 4,
+    "examples": [
+      "扌",
+      "才",
+      "龵",
+      "𭠍",
+      "扎",
+      "𢩥"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_65",
+    "radical": "支",
+    "meaningEn": "branch",
+    "meaningId": "branch",
+    "strokeCount": 4,
+    "examples": [
+      "𭣔",
+      "攰",
+      "𢺵",
+      "𭣕",
+      "𢺶",
+      "𭣖"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_66",
+    "radical": "攴",
+    "meaningEn": "rap",
+    "meaningId": "rap",
+    "strokeCount": 4,
+    "examples": [
+      "攵",
+      "收",
+      "攷",
+      "𫾦",
+      "𭣡",
+      "𰕃"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_67",
+    "radical": "文",
+    "meaningEn": "script",
+    "meaningId": "skrip",
+    "strokeCount": 4,
+    "examples": [
+      "𣁁",
+      "𫿭",
+      "㪯",
+      "斈",
+      "𣁂",
+      "𪯠"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_68",
+    "radical": "斗",
+    "meaningEn": "dipper",
+    "meaningId": "dipper",
+    "strokeCount": 4,
+    "examples": [
+      "𣁬",
+      "㪳",
+      "㪲",
+      "斘",
+      "𣁭",
+      "㪴"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_69",
+    "radical": "斤",
+    "meaningEn": "axe",
+    "meaningId": "kapak",
+    "strokeCount": 4,
+    "examples": [
+      "𣂑",
+      "斥",
+      "𭤟",
+      "𣂒",
+      "𣂓",
+      "斦"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_70",
+    "radical": "方",
+    "meaningEn": "square",
+    "meaningId": "persegi",
+    "strokeCount": 4,
+    "examples": [
+      "𭤧",
+      "㫃",
+      "𣃗",
+      "𭤨",
+      "𭤩",
+      "𭤪"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_71",
+    "radical": "无",
+    "meaningEn": "not",
+    "meaningId": "tidak",
+    "strokeCount": 4,
+    "examples": [
+      "旡",
+      "𣄭",
+      "𰕰",
+      "𣄮",
+      "𣄯",
+      "𲤌"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_72",
+    "radical": "日",
+    "meaningEn": "sun",
+    "meaningId": "matahari",
+    "strokeCount": 4,
+    "examples": [
+      "旦",
+      "旧",
+      "𣄻",
+      "𣄼",
+      "𣄽",
+      "𭥋"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_73",
+    "radical": "曰",
+    "meaningEn": "say",
+    "meaningId": "mengatakan",
+    "strokeCount": 4,
+    "examples": [
+      "曱",
+      "㬰",
+      "曲",
+      "曳",
+      "𭨘",
+      "更"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_74",
+    "radical": "月",
+    "meaningEn": "moon",
+    "meaningId": "bulan",
+    "strokeCount": 4,
+    "examples": [
+      "𣍝",
+      "有",
+      "𣍞",
+      "𪱙",
+      "𬁰",
+      "𭨤"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_75",
+    "radical": "𬂛",
+    "meaningEn": "tree",
+    "meaningId": "pohon",
+    "strokeCount": -2,
+    "examples": [
+      "木",
+      "朩",
+      "𣎳",
+      "𣎴",
+      "未",
+      "末"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_76",
+    "radical": "欠",
+    "meaningEn": "lack",
+    "meaningId": "kekurangan",
+    "strokeCount": 4,
+    "examples": [
+      "次",
+      "欢",
+      "𣢀",
+      "𭭄",
+      "次",
+      "㰝"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_77",
+    "radical": "止",
+    "meaningEn": "stop",
+    "meaningId": "berhenti",
+    "strokeCount": 4,
+    "examples": [
+      "龰",
+      "𣥂",
+      "𱤻",
+      "正",
+      "𣥃",
+      "𣥄"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_78",
+    "radical": "歹",
+    "meaningEn": "death",
+    "meaningId": "kematian",
+    "strokeCount": 4,
+    "examples": [
+      "歹",
+      "𣦵",
+      "𣦶",
+      "歺",
+      "𣦷",
+      "㱙"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_79",
+    "radical": "殳",
+    "meaningEn": "weapon",
+    "meaningId": "senjata",
+    "strokeCount": 4,
+    "examples": [
+      "㱼",
+      "𬆞",
+      "㱽",
+      "殴",
+      "𣪂",
+      "𣪃"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_80",
+    "radical": "毋",
+    "meaningEn": "mother",
+    "meaningId": "ibu",
+    "strokeCount": 4,
+    "examples": [
+      "毌",
+      "𣫬",
+      "母",
+      "毎",
+      "𣫭",
+      "𭯇"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_81",
+    "radical": "比",
+    "meaningEn": "compare",
+    "meaningId": "perbandingan",
+    "strokeCount": 4,
+    "examples": [
+      "毕",
+      "𠂱",
+      "𣬂",
+      "𣬃",
+      "𣬄",
+      "𣬅"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_82",
+    "radical": "毛",
+    "meaningEn": "fur",
+    "meaningId": "Bulu",
+    "strokeCount": 4,
+    "examples": [
+      "𣬛",
+      "𪵖",
+      "㲌",
+      "𣬜",
+      "𣬝",
+      "𣬞"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_83",
+    "radical": "氏",
+    "meaningEn": "clan",
+    "meaningId": "klan",
+    "strokeCount": 4,
+    "examples": [
+      "氐",
+      "民",
+      "𫞕",
+      "氒",
+      "𫞖",
+      "𰚷"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_84",
+    "radical": "气",
+    "meaningEn": "steam",
+    "meaningId": "uap",
+    "strokeCount": 4,
+    "examples": [
+      "氕",
+      "氖",
+      "気",
+      "氘",
+      "𣱕",
+      "𣱖"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_85",
+    "radical": "𰛄",
+    "meaningEn": "water",
+    "meaningId": "air",
+    "strokeCount": -2,
+    "examples": [
+      "𰛅",
+      "水",
+      "氵",
+      "氺",
+      "𣱱",
+      "㲸"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_86",
+    "radical": "火",
+    "meaningEn": "fire",
+    "meaningId": "api",
+    "strokeCount": 4,
+    "examples": [
+      "灬",
+      "灭",
+      "𤆂",
+      "𪸍",
+      "𭳿",
+      "㶡"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_87",
+    "radical": "爪",
+    "meaningEn": "claw",
+    "meaningId": "cakar",
+    "strokeCount": 4,
+    "examples": [
+      "爫",
+      "爫",
+      "𤓯",
+      "𤓰",
+      "𤓱",
+      "𱬴"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_88",
+    "radical": "父",
+    "meaningEn": "father",
+    "meaningId": "ayah",
+    "strokeCount": 4,
+    "examples": [
+      "爷",
+      "𭶺",
+      "𲭀",
+      "𲭁",
+      "𤕎",
+      "𤕏"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_89",
+    "radical": "爻",
+    "meaningEn": "lines on a trigram",
+    "meaningId": "baris pada trigram",
+    "strokeCount": 4,
+    "examples": [
+      "𤕜",
+      "㸚",
+      "𤕝",
+      "𪺝",
+      "爼",
+      "𤕞"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_90",
+    "radical": "丬",
+    "meaningEn": "half of a tree trunk",
+    "meaningId": "Setengah batang pohon",
+    "strokeCount": 4,
+    "examples": [
+      "爿",
+      "𤕪",
+      "𤕫",
+      "𤕬",
+      "𤕭",
+      "𲭅"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_91",
+    "radical": "片",
+    "meaningEn": "slice",
+    "meaningId": "slice",
+    "strokeCount": 4,
+    "examples": [
+      "𤖨",
+      "𤖩",
+      "𤖪",
+      "𤖫",
+      "𱭙",
+      "㸝"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_92",
+    "radical": "㸦",
+    "meaningEn": "tooth",
+    "meaningId": "gigi",
+    "strokeCount": 4,
+    "examples": [
+      "牙",
+      "𱭢",
+      "𤘅",
+      "𰠠",
+      "𤘆",
+      "𪺧"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_93",
+    "radical": "牛",
+    "meaningEn": "cow",
+    "meaningId": "sapi",
+    "strokeCount": 4,
+    "examples": [
+      "牜",
+      "𤘔",
+      "𭷓",
+      "㸨",
+      "牝",
+      "牞"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_94",
+    "radical": "犬",
+    "meaningEn": "dog",
+    "meaningId": "anjing",
+    "strokeCount": 0,
+    "examples": [
+      "犭",
+      "犮",
+      "𡗜",
+      "𤜚",
+      "𬌩",
+      "犯"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_95",
+    "radical": "𤣥",
+    "meaningEn": "profound",
+    "meaningId": "mendalam",
+    "strokeCount": -1,
+    "examples": [
+      "玄",
+      "𱮲",
+      "玅",
+      "𤣦",
+      "𲯚",
+      "玆"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_96",
+    "radical": "王",
+    "meaningEn": "jade",
+    "meaningId": "Giok",
+    "strokeCount": -1,
+    "examples": [
+      "玉",
+      "𤣩",
+      "王",
+      "玊",
+      "玌",
+      "玍"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_97",
+    "radical": "瓜",
+    "meaningEn": "melon",
+    "meaningId": "melon",
+    "strokeCount": 5,
+    "examples": [
+      "𰢛",
+      "瓝",
+      "𤫪",
+      "𪼳",
+      "㼉",
+      "㼊"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_98",
+    "radical": "瓦",
+    "meaningEn": "tile",
+    "meaningId": "ubin",
+    "strokeCount": 5,
+    "examples": [
+      "𭺛",
+      "𭺜",
+      "㼗",
+      "瓧",
+      "𤬦",
+      "𤬧"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_99",
+    "radical": "甘",
+    "meaningEn": "sweet",
+    "meaningId": "manis",
+    "strokeCount": 5,
+    "examples": [
+      "𤮺",
+      "𭺪",
+      "𭺫",
+      "甙",
+      "𤮻",
+      "𤮼"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_100",
+    "radical": "生",
+    "meaningEn": "life",
+    "meaningId": "hidup",
+    "strokeCount": 5,
+    "examples": [
+      "𤯓",
+      "𤯔",
+      "𪽁",
+      "𲰧",
+      "𤯕",
+      "𤯖"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_101",
+    "radical": "用",
+    "meaningEn": "use",
+    "meaningId": "gunakan",
+    "strokeCount": 5,
+    "examples": [
+      "甩",
+      "𱰜",
+      "甪",
+      "𤰃",
+      "𪽆",
+      "甫"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_102",
+    "radical": "田",
+    "meaningEn": "field",
+    "meaningId": "field",
+    "strokeCount": 5,
+    "examples": [
+      "由",
+      "甲",
+      "申",
+      "甴",
+      "电",
+      "𤰒"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_103",
+    "radical": "疋",
+    "meaningEn": "cloth",
+    "meaningId": "kain",
+    "strokeCount": 5,
+    "examples": [
+      "𤴓",
+      "𤴔",
+      "𤴕",
+      "𭻾",
+      "疌",
+      "𤴖"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_104",
+    "radical": "疒",
+    "meaningEn": "ill",
+    "meaningId": "III",
+    "strokeCount": 5,
+    "examples": [
+      "𤴥",
+      "𬏚",
+      "㽱",
+      "㽲",
+      "疓",
+      "疔"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_105",
+    "radical": "癶",
+    "meaningEn": "foot steps",
+    "meaningId": "langkah kaki",
+    "strokeCount": 5,
+    "examples": [
+      "𭼽",
+      "𤼥",
+      "𤼦",
+      "𱱴",
+      "𲱾",
+      "癷"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_106",
+    "radical": "白",
+    "meaningEn": "white",
+    "meaningId": "putih",
+    "strokeCount": 5,
+    "examples": [
+      "百",
+      "癿",
+      "𤼽",
+      "𤼾",
+      "𬐃",
+      "𰤒"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_107",
+    "radical": "皮",
+    "meaningEn": "skin",
+    "meaningId": "kulit",
+    "strokeCount": 5,
+    "examples": [
+      "𤿆",
+      "𤿇",
+      "𰤞",
+      "𱱿",
+      "㿪",
+      "皯"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_108",
+    "radical": "皿",
+    "meaningEn": "dish",
+    "meaningId": "hidangan",
+    "strokeCount": 5,
+    "examples": [
+      "盀",
+      "盁",
+      "𥀿",
+      "𥁀",
+      "𰤲",
+      "𰤳"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_109",
+    "radical": "目",
+    "meaningEn": "eye",
+    "meaningId": "mata",
+    "strokeCount": 5,
+    "examples": [
+      "𥃤",
+      "𥃥",
+      "䀎",
+      "䀏",
+      "盯",
+      "𥃦"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_110",
+    "radical": "矛",
+    "meaningEn": "spear",
+    "meaningId": "Tombak",
+    "strokeCount": 5,
+    "examples": [
+      "𭿵",
+      "𥍝",
+      "𭿶",
+      "𰦍",
+      "䂆",
+      "𥍞"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_111",
+    "radical": "矢",
+    "meaningEn": "arrow",
+    "meaningId": "panah",
+    "strokeCount": 5,
+    "examples": [
+      "𰦒",
+      "矣",
+      "𥎦",
+      "𥎧",
+      "𭿽",
+      "𰦓"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_112",
+    "radical": "石",
+    "meaningEn": "stone",
+    "meaningId": "batu",
+    "strokeCount": 5,
+    "examples": [
+      "䂖",
+      "𥐕",
+      "𥐖",
+      "䂖",
+      "𲳈",
+      "䂗"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_113",
+    "radical": "示",
+    "meaningEn": "spirit",
+    "meaningId": "Semangat",
+    "strokeCount": 5,
+    "examples": [
+      "礻",
+      "𥘅",
+      "礼",
+      "礼",
+      "𥘆",
+      "䃼"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_114",
+    "radical": "禸",
+    "meaningEn": "track",
+    "meaningId": "trek",
+    "strokeCount": 0,
+    "examples": [
+      "𥜻",
+      "禹",
+      "禺",
+      "𥜼",
+      "𱵹",
+      "离"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_115",
+    "radical": "禾",
+    "meaningEn": "grain",
+    "meaningId": "butir",
+    "strokeCount": 5,
+    "examples": [
+      "𥝌",
+      "𥝍",
+      "𥝎",
+      "𥝏",
+      "𫀦",
+      "䄦"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_116",
+    "radical": "穴",
+    "meaningEn": "cave",
+    "meaningId": "gua",
+    "strokeCount": 5,
+    "examples": [
+      "𥤢",
+      "穵",
+      "䆑",
+      "究",
+      "穷",
+      "𥤣"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_117",
+    "radical": "立",
+    "meaningEn": "stand",
+    "meaningId": "berdiri",
+    "strokeCount": 5,
+    "examples": [
+      "立",
+      "䇂",
+      "𬔖",
+      "竌",
+      "竍",
+      "𥩕"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_118",
+    "radical": "竹",
+    "meaningEn": "bamboo",
+    "meaningId": "bambu",
+    "strokeCount": 6,
+    "examples": [
+      "𥫗",
+      "𥫘",
+      "竺",
+      "竻",
+      "𥫙",
+      "𥫚"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_119",
+    "radical": "米",
+    "meaningEn": "rice",
+    "meaningId": "beras",
+    "strokeCount": 6,
+    "examples": [
+      "𥸥",
+      "𥸦",
+      "𬖋",
+      "籴",
+      "籵",
+      "籶"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_120",
+    "radical": "糸",
+    "meaningEn": "silk",
+    "meaningId": "sutra",
+    "strokeCount": 0,
+    "examples": [
+      "糹",
+      "纟",
+      "糺",
+      "系",
+      "𫄙",
+      "𱹪"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_121",
+    "radical": "缶",
+    "meaningEn": "jar",
+    "meaningId": "jar",
+    "strokeCount": 6,
+    "examples": [
+      "𦈢",
+      "缷",
+      "𰭂",
+      "𰭃",
+      "䍂",
+      "缸"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_122",
+    "radical": "䍏",
+    "meaningEn": "net",
+    "meaningId": "net",
+    "strokeCount": 6,
+    "examples": [
+      "网",
+      "罒",
+      "罓",
+      "𦉪",
+      "𦉫",
+      "𦉭"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_123",
+    "radical": "𦍍",
+    "meaningEn": "sheep",
+    "meaningId": "domba",
+    "strokeCount": -1,
+    "examples": [
+      "羊",
+      "𦍋",
+      "𦍌",
+      "羋",
+      "羌",
+      "𦍎"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_124",
+    "radical": "羽",
+    "meaningEn": "feather",
+    "meaningId": "bulu",
+    "strokeCount": 6,
+    "examples": [
+      "羽",
+      "𦏳",
+      "𰭝",
+      "𦏲",
+      "𮶈",
+      "𲹑"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_125",
+    "radical": "耂",
+    "meaningEn": "old",
+    "meaningId": "lama",
+    "strokeCount": -2,
+    "examples": [
+      "𰭧",
+      "老",
+      "考",
+      "老",
+      "𦒱",
+      "𦒲"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_126",
+    "radical": "𦓐",
+    "meaningEn": "and",
+    "meaningId": "dan",
+    "strokeCount": -1,
+    "examples": [
+      "而",
+      "𦓎",
+      "𦓏",
+      "𦓑",
+      "𱻰",
+      "𲹢"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_127",
+    "radical": "耒",
+    "meaningEn": "plow",
+    "meaningId": "bajak",
+    "strokeCount": 6,
+    "examples": [
+      "𦓤",
+      "耓",
+      "𦓥",
+      "𦓦",
+      "𦓧",
+      "𮋣"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_128",
+    "radical": "耳",
+    "meaningEn": "ear",
+    "meaningId": "telinga",
+    "strokeCount": 6,
+    "examples": [
+      "䎲",
+      "耴",
+      "𦔮",
+      "𲹨",
+      "耵",
+      "𦔯"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_129",
+    "radical": "肀",
+    "meaningEn": "brush",
+    "meaningId": "sikat",
+    "strokeCount": -2,
+    "examples": [
+      "𦘒",
+      "聿",
+      "𮌁",
+      "𰭼",
+      "𦘓",
+      "𬚪"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_130",
+    "radical": "肉",
+    "meaningEn": "meat",
+    "meaningId": "daging",
+    "strokeCount": 6,
+    "examples": [
+      "𮌇",
+      "𱼀",
+      "肊",
+      "𰭾",
+      "䏌",
+      "䏍"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_131",
+    "radical": "臣",
+    "meaningEn": "minister",
+    "meaningId": "menteri",
+    "strokeCount": 6,
+    "examples": [
+      "𦣞",
+      "𮍌",
+      "𦣝",
+      "𱼧",
+      "臤",
+      "臥"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_132",
+    "radical": "自",
+    "meaningEn": "oneself",
+    "meaningId": "Sendiri",
+    "strokeCount": 6,
+    "examples": [
+      "𦣹",
+      "臫",
+      "𦣺",
+      "𦣻",
+      "𦣼",
+      "𦣽"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_133",
+    "radical": "至",
+    "meaningEn": "arrive",
+    "meaningId": "tiba",
+    "strokeCount": 6,
+    "examples": [
+      "𦤳",
+      "𦤴",
+      "𱼩",
+      "𦤵",
+      "𬛱",
+      "䑒"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_134",
+    "radical": "臼",
+    "meaningEn": "mortar",
+    "meaningId": "mortir",
+    "strokeCount": 6,
+    "examples": [
+      "𦥑",
+      "𦥒",
+      "𦥓",
+      "𦥔",
+      "臽",
+      "臾"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_135",
+    "radical": "舌",
+    "meaningEn": "tongue",
+    "meaningId": "lidah",
+    "strokeCount": 6,
+    "examples": [
+      "𦧆",
+      "舍",
+      "舎",
+      "舏",
+      "𫇔",
+      "𦧇"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_136",
+    "radical": "舛",
+    "meaningEn": "contrary",
+    "meaningId": "Sebaliknya",
+    "strokeCount": 6,
+    "examples": [
+      "𮎁",
+      "𲻙",
+      "𰰊",
+      "舜",
+      "舝",
+      "䑝"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_137",
+    "radical": "舟",
+    "meaningEn": "boat",
+    "meaningId": "perahu",
+    "strokeCount": 6,
+    "examples": [
+      "𠂨",
+      "𦨇",
+      "䑠",
+      "舠",
+      "𦨈",
+      "𦨉"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_138",
+    "radical": "艮",
+    "meaningEn": "mountain",
+    "meaningId": "gunung",
+    "strokeCount": 6,
+    "examples": [
+      "良",
+      "良",
+      "艰",
+      "𦫋",
+      "𰰔",
+      "𱽇"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_139",
+    "radical": "𮎛",
+    "meaningEn": "color",
+    "meaningId": "warna",
+    "strokeCount": -1,
+    "examples": [
+      "色",
+      "𮎜",
+      "𰰕",
+      "䒊",
+      "𦫓",
+      "艳"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_140",
+    "radical": "䒑",
+    "meaningEn": "grass",
+    "meaningId": "rumput",
+    "strokeCount": 0,
+    "examples": [
+      "艸",
+      "艹",
+      "艹",
+      "艹",
+      "艺",
+      "龷"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_141",
+    "radical": "虍",
+    "meaningEn": "tiger",
+    "meaningId": "harimau",
+    "strokeCount": 6,
+    "examples": [
+      "𮓗",
+      "䖈",
+      "虎",
+      "虏",
+      "𧆛",
+      "𮓘"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_142",
+    "radical": "虫",
+    "meaningEn": "insect",
+    "meaningId": "serangga",
+    "strokeCount": 6,
+    "examples": [
+      "𮓰",
+      "䖝",
+      "虬",
+      "𧈝",
+      "𧈞",
+      "𮓱"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_143",
+    "radical": "血",
+    "meaningEn": "blood",
+    "meaningId": "darah",
+    "strokeCount": 6,
+    "examples": [
+      "𮕜",
+      "𧖧",
+      "𧖨",
+      "𧖩",
+      "𮕝",
+      "䘏"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_144",
+    "radical": "行",
+    "meaningEn": "walk",
+    "meaningId": "jalan",
+    "strokeCount": 6,
+    "examples": [
+      "行",
+      "𬠽",
+      "𧗝",
+      "𧗞",
+      "𧗟",
+      "𧗠"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_145",
+    "radical": "𧘇",
+    "meaningEn": "clothes",
+    "meaningId": "pakaian",
+    "strokeCount": -2,
+    "examples": [
+      "衣",
+      "衤",
+      "衣",
+      "𮕤",
+      "䘚",
+      "䘛"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_146",
+    "radical": "襾",
+    "meaningEn": "west",
+    "meaningId": "barat",
+    "strokeCount": 6,
+    "examples": [
+      "西",
+      "覀",
+      "𧟠",
+      "𧟡",
+      "𧟢",
+      "𧟣"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_147",
+    "radical": "見",
+    "meaningEn": "see",
+    "meaningId": "lihat",
+    "strokeCount": 0,
+    "examples": [
+      "见",
+      "見",
+      "𧠆",
+      "𧠇",
+      "覌",
+      "覙"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_148",
+    "radical": "𰴟",
+    "meaningEn": "horn",
+    "meaningId": "Tanduk",
+    "strokeCount": -1,
+    "examples": [
+      "角",
+      "𧢲",
+      "𧢳",
+      "𮗟",
+      "𮗠",
+      "觓"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_149",
+    "radical": "𧥛",
+    "meaningEn": "speech",
+    "meaningId": "pidato",
+    "strokeCount": -1,
+    "examples": [
+      "𧥜",
+      "言",
+      "訁",
+      "讠",
+      "𧥝",
+      "𧥞"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_150",
+    "radical": "谷",
+    "meaningEn": "valley",
+    "meaningId": "lembah",
+    "strokeCount": 7,
+    "examples": [
+      "𧮫",
+      "䜪",
+      "𫎀",
+      "𰶐",
+      "䜫",
+      "谸"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_151",
+    "radical": "豆",
+    "meaningEn": "bean",
+    "meaningId": "kacang",
+    "strokeCount": 7,
+    "examples": [
+      "䜳",
+      "𰶗",
+      "𧯚",
+      "𮷋",
+      "豇",
+      "豈"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_152",
+    "radical": "𧰧",
+    "meaningEn": "pig",
+    "meaningId": "babi",
+    "strokeCount": -1,
+    "examples": [
+      "𧰨",
+      "豕",
+      "豕",
+      "豖",
+      "𧰦",
+      "𫎅"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_153",
+    "radical": "豸",
+    "meaningEn": "badger",
+    "meaningId": "Badger",
+    "strokeCount": 7,
+    "examples": [
+      "𧲠",
+      "𧲡",
+      "𮙥",
+      "豹",
+      "豺",
+      "豻"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_154",
+    "radical": "貝",
+    "meaningEn": "shell",
+    "meaningId": "shell",
+    "strokeCount": 0,
+    "examples": [
+      "贝",
+      "𮷌",
+      "貞",
+      "貟",
+      "負",
+      "贞"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_155",
+    "radical": "赤",
+    "meaningEn": "red",
+    "meaningId": "merah",
+    "strokeCount": 7,
+    "examples": [
+      "𧹘",
+      "𧹙",
+      "𧹚",
+      "䞑",
+      "赥",
+      "赦"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_156",
+    "radical": "走",
+    "meaningEn": "walk",
+    "meaningId": "jalan",
+    "strokeCount": 7,
+    "examples": [
+      "赱",
+      "𧺆",
+      "𧺇",
+      "𮚲",
+      "𳂳",
+      "赲"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_157",
+    "radical": "足",
+    "meaningEn": "foot",
+    "meaningId": "kaki",
+    "strokeCount": 7,
+    "examples": [
+      "𧾷",
+      "𧾸",
+      "𧾹",
+      "𮛁",
+      "䟓",
+      "䟔"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_158",
+    "radical": "𨈐",
+    "meaningEn": "body",
+    "meaningId": "tubuh",
+    "strokeCount": -2,
+    "examples": [
+      "𨈑",
+      "身",
+      "𨈏",
+      "𬧠",
+      "𲄗",
+      "𨈒"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_159",
+    "radical": "車",
+    "meaningEn": "cart",
+    "meaningId": "gerobak",
+    "strokeCount": 0,
+    "examples": [
+      "车",
+      "車",
+      "軋",
+      "轧",
+      "𰹈",
+      "𰹉"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_160",
+    "radical": "辛",
+    "meaningEn": "bitter",
+    "meaningId": "pahit",
+    "strokeCount": 7,
+    "examples": [
+      "𨐋",
+      "𨐌",
+      "𬨖",
+      "𲅄",
+      "𨐍",
+      "𨐎"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_161",
+    "radical": "辰",
+    "meaningEn": "morning",
+    "meaningId": "pagi",
+    "strokeCount": 7,
+    "examples": [
+      "辰",
+      "𨑃",
+      "𨑄",
+      "𮝾",
+      "𳄖",
+      "辱"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_162",
+    "radical": "辵",
+    "meaningEn": "walk",
+    "meaningId": "jalan",
+    "strokeCount": 0,
+    "examples": [
+      "辶",
+      "辶",
+      "𠔇",
+      "辷",
+      "𫐞",
+      "辸"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_163",
+    "radical": "邑",
+    "meaningEn": "city",
+    "meaningId": "kota",
+    "strokeCount": 7,
+    "examples": [
+      "𨙨",
+      "䢳",
+      "邒",
+      "邓",
+      "𨙩",
+      "𨙪"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_164",
+    "radical": "酉",
+    "meaningEn": "wine",
+    "meaningId": "anggur",
+    "strokeCount": 7,
+    "examples": [
+      "𮠕",
+      "䣥",
+      "䣦",
+      "酊",
+      "酋",
+      "𮠖"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_165",
+    "radical": "釆",
+    "meaningEn": "distinguish",
+    "meaningId": "membedakan",
+    "strokeCount": 7,
+    "examples": [
+      "采",
+      "𨤏",
+      "𬪺",
+      "𮡎",
+      "𳅥",
+      "釈"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_166",
+    "radical": "里",
+    "meaningEn": "village",
+    "meaningId": "desa",
+    "strokeCount": 7,
+    "examples": [
+      "里",
+      "𰼘",
+      "重",
+      "𫟯",
+      "𨤣",
+      "𨤤"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_167",
+    "radical": "金",
+    "meaningEn": "metal",
+    "meaningId": "logam",
+    "strokeCount": 0,
+    "examples": [
+      "釒",
+      "钅",
+      "金",
+      "釓",
+      "釔",
+      "钆"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_168",
+    "radical": "長",
+    "meaningEn": "long",
+    "meaningId": "panjang",
+    "strokeCount": 0,
+    "examples": [
+      "镸",
+      "长",
+      "𨱗",
+      "𨱘",
+      "𨱙",
+      "䦇"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_169",
+    "radical": "門",
+    "meaningEn": "gate",
+    "meaningId": "gerbang",
+    "strokeCount": 0,
+    "examples": [
+      "门",
+      "𨳇",
+      "𨳈",
+      "閁",
+      "閂",
+      "闩"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_170",
+    "radical": "阜",
+    "meaningEn": "mound",
+    "meaningId": "gundukan",
+    "strokeCount": 8,
+    "examples": [
+      "阝",
+      "𨸏",
+      "𳈚",
+      "䦹",
+      "䦺",
+      "阞"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_171",
+    "radical": "隶",
+    "meaningEn": "slave",
+    "meaningId": "budak",
+    "strokeCount": 8,
+    "examples": [
+      "𮥴",
+      "𨽶",
+      "𨽷",
+      "𨽸",
+      "𨽹",
+      "𨽺"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_172",
+    "radical": "隹",
+    "meaningEn": "short-tailed bird",
+    "meaningId": "burung pendek-ekor",
+    "strokeCount": 8,
+    "examples": [
+      "䧱",
+      "隺",
+      "隻",
+      "隼",
+      "隽",
+      "难"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_173",
+    "radical": "雨",
+    "meaningEn": "rain",
+    "meaningId": "hujan",
+    "strokeCount": 8,
+    "examples": [
+      "𮦄",
+      "𩁶",
+      "𩁷",
+      "𩁸",
+      "𫕝",
+      "𱁑"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_174",
+    "radical": "靑",
+    "meaningEn": "blue",
+    "meaningId": "biru",
+    "strokeCount": 8,
+    "examples": [
+      "青",
+      "𩇕",
+      "𫕸",
+      "𲊕",
+      "靓",
+      "靔"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_175",
+    "radical": "非",
+    "meaningEn": "wrong",
+    "meaningId": "salah",
+    "strokeCount": 8,
+    "examples": [
+      "𩇦",
+      "𩇧",
+      "𩇨",
+      "䨽",
+      "䨾",
+      "𩇩"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_176",
+    "radical": "面",
+    "meaningEn": "face",
+    "meaningId": "wajah",
+    "strokeCount": 9,
+    "examples": [
+      "靣",
+      "𠚑",
+      "𩈃",
+      "𩈄",
+      "𩈅",
+      "𮧉"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_177",
+    "radical": "革",
+    "meaningEn": "leather",
+    "meaningId": "kulit",
+    "strokeCount": 9,
+    "examples": [
+      "𮧓",
+      "靪",
+      "𩉛",
+      "𩉜",
+      "䩐",
+      "䩑"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_178",
+    "radical": "韋",
+    "meaningEn": "soft leather",
+    "meaningId": "kulit lembut",
+    "strokeCount": 0,
+    "examples": [
+      "韦",
+      "𮧮",
+      "𮧯",
+      "𮧰",
+      "𫖌",
+      "韌"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_179",
+    "radical": "韭",
+    "meaningEn": "leek",
+    "meaningId": "Leek",
+    "strokeCount": 9,
+    "examples": [
+      "䪞",
+      "韮",
+      "𩐁",
+      "𩐂",
+      "𲊦",
+      "𱂍"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_180",
+    "radical": "音",
+    "meaningEn": "sound",
+    "meaningId": "suara",
+    "strokeCount": 9,
+    "examples": [
+      "竟",
+      "章",
+      "䪦",
+      "䪧",
+      "䪨",
+      "𩐗"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_181",
+    "radical": "頁",
+    "meaningEn": "page",
+    "meaningId": "halaman",
+    "strokeCount": 0,
+    "examples": [
+      "页",
+      "𩑋",
+      "頂",
+      "頃",
+      "頄",
+      "顶"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_182",
+    "radical": "風",
+    "meaningEn": "wind",
+    "meaningId": "angin",
+    "strokeCount": 0,
+    "examples": [
+      "风",
+      "𲋄",
+      "䫸",
+      "𩖘",
+      "𩖙",
+      "𮨦"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_183",
+    "radical": "飛",
+    "meaningEn": "fly",
+    "meaningId": "fly",
+    "strokeCount": 0,
+    "examples": [
+      "飞",
+      "𩙱",
+      "𩙲",
+      "𩙳",
+      "𬲉",
+      "𮨶"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_184",
+    "radical": "食",
+    "meaningEn": "eat",
+    "meaningId": "makan",
+    "strokeCount": 0,
+    "examples": [
+      "飠",
+      "饣",
+      "𠋑",
+      "𩙿",
+      "𩚀",
+      "𩚁"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_185",
+    "radical": "首",
+    "meaningEn": "head",
+    "meaningId": "kepala",
+    "strokeCount": 9,
+    "examples": [
+      "𩠐",
+      "馗",
+      "𩠑",
+      "𩠒",
+      "𩠓",
+      "𮩟"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_186",
+    "radical": "香",
+    "meaningEn": "fragrant",
+    "meaningId": "Aroma",
+    "strokeCount": 9,
+    "examples": [
+      "𩠺",
+      "𳋻",
+      "馚",
+      "𩠻",
+      "𩠼",
+      "𩠽"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_187",
+    "radical": "𫠉",
+    "meaningEn": "horse",
+    "meaningId": "kuda",
+    "strokeCount": -3,
+    "examples": [
+      "馬",
+      "马",
+      "𩡧",
+      "𩡨",
+      "䭴",
+      "馭"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_188",
+    "radical": "骨",
+    "meaningEn": "bone",
+    "meaningId": "tulang",
+    "strokeCount": 9,
+    "examples": [
+      "䯆",
+      "䯇",
+      "骩",
+      "𩨑",
+      "𩨒",
+      "𩨓"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_189",
+    "radical": "高",
+    "meaningEn": "high",
+    "meaningId": "tinggi",
+    "strokeCount": 10,
+    "examples": [
+      "髙",
+      "䯧",
+      "𫘵",
+      "𬴔",
+      "𱅴",
+      "𱅵"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_190",
+    "radical": "髟",
+    "meaningEn": "long hair",
+    "meaningId": "rambut panjang",
+    "strokeCount": 10,
+    "examples": [
+      "𫘸",
+      "䯭",
+      "䯮",
+      "髠",
+      "𩫴",
+      "𩫵"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_191",
+    "radical": "𩰊",
+    "meaningEn": "fight",
+    "meaningId": "Pertarungan",
+    "strokeCount": -5,
+    "examples": [
+      "𩰋",
+      "鬥",
+      "𩰌",
+      "鬦",
+      "𩰍",
+      "𩰎"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_192",
+    "radical": "鬯",
+    "meaningEn": "sacrificial wine",
+    "meaningId": "anggur kurban",
+    "strokeCount": 10,
+    "examples": [
+      "𮫖",
+      "𱆊",
+      "𩰠",
+      "𩰡",
+      "𩰢",
+      "𩰣"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_193",
+    "radical": "鬲",
+    "meaningEn": "cauldron",
+    "meaningId": "cauldron",
+    "strokeCount": 10,
+    "examples": [
+      "𮫙",
+      "𬴲",
+      "𩰫",
+      "𩰬",
+      "𬴳",
+      "䰙"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_194",
+    "radical": "鬼",
+    "meaningEn": "ghost",
+    "meaningId": "hantu",
+    "strokeCount": 9,
+    "examples": [
+      "𩱹",
+      "𩱺",
+      "𩱻",
+      "𩱼",
+      "𫙈",
+      "𬴽"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_195",
+    "radical": "魚",
+    "meaningEn": "fish",
+    "meaningId": "ikan",
+    "strokeCount": 0,
+    "examples": [
+      "鱼",
+      "𤋳",
+      "𩵋",
+      "𮫬",
+      "𮫭",
+      "𮫮"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_196",
+    "radical": "𫠓",
+    "meaningEn": "bird",
+    "meaningId": "burung",
+    "strokeCount": -3,
+    "examples": [
+      "鳥",
+      "鸟",
+      "鳦",
+      "𩾏",
+      "𩾐",
+      "𩾑"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_197",
+    "radical": "鹵",
+    "meaningEn": "salty",
+    "meaningId": "asin",
+    "strokeCount": 0,
+    "examples": [
+      "𠧸",
+      "𪉖",
+      "𪉗",
+      "𱊺",
+      "䴚",
+      "鹶"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_198",
+    "radical": "鹿",
+    "meaningEn": "deer",
+    "meaningId": "rusa",
+    "strokeCount": 11,
+    "examples": [
+      "鹿",
+      "𢉖",
+      "𮭱",
+      "𬸺",
+      "麀",
+      "麁"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_199",
+    "radical": "麥",
+    "meaningEn": "wheat",
+    "meaningId": "gandum",
+    "strokeCount": 0,
+    "examples": [
+      "麦",
+      "𲎏",
+      "𪋼",
+      "𪋽",
+      "𪋾",
+      "𪋿"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_200",
+    "radical": "麻",
+    "meaningEn": "hemp",
+    "meaningId": "rami",
+    "strokeCount": 11,
+    "examples": [
+      "麻",
+      "𪎑",
+      "麼",
+      "麽",
+      "𪎒",
+      "𪎓"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_201",
+    "radical": "黃",
+    "meaningEn": "yellow",
+    "meaningId": "kuning",
+    "strokeCount": 11,
+    "examples": [
+      "黄",
+      "𪎳",
+      "𲎕",
+      "𪎴",
+      "𬹐",
+      "䵊"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_202",
+    "radical": "黍",
+    "meaningEn": "millet",
+    "meaningId": "millet",
+    "strokeCount": 12,
+    "examples": [
+      "𮮐",
+      "𮮑",
+      "𪏭",
+      "䵑",
+      "黎",
+      "黎"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_203",
+    "radical": "黑",
+    "meaningEn": "black",
+    "meaningId": "hitam",
+    "strokeCount": 12,
+    "examples": [
+      "黒",
+      "𪐗",
+      "䵝",
+      "𪐘",
+      "䵞",
+      "𪐙"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_204",
+    "radical": "黹",
+    "meaningEn": "embroidery",
+    "meaningId": "bordir",
+    "strokeCount": 12,
+    "examples": [
+      "𮮠",
+      "黹",
+      "黺",
+      "𫜜",
+      "黻",
+      "𳑑"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_205",
+    "radical": "黽",
+    "meaningEn": "frog",
+    "meaningId": "katak",
+    "strokeCount": 0,
+    "examples": [
+      "黾",
+      "黾",
+      "𪓑",
+      "𪓒",
+      "𪓓",
+      "𬹝"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_206",
+    "radical": "鼎",
+    "meaningEn": "tripod",
+    "meaningId": "tripod",
+    "strokeCount": 12,
+    "examples": [
+      "𪔂",
+      "鼏",
+      "鼐",
+      "鼑",
+      "𪔃",
+      "鼏"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_207",
+    "radical": "鼓",
+    "meaningEn": "drum",
+    "meaningId": "drum",
+    "strokeCount": 13,
+    "examples": [
+      "鼔",
+      "𡔷",
+      "𮮦",
+      "𪔋",
+      "𪔌",
+      "𡒡"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_208",
+    "radical": "鼠",
+    "meaningEn": "rat",
+    "meaningId": "tikus",
+    "strokeCount": 13,
+    "examples": [
+      "鼡",
+      "𫜢",
+      "𪔸",
+      "𪔹",
+      "䶂",
+      "𪔺"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_209",
+    "radical": "鼻",
+    "meaningEn": "nose",
+    "meaningId": "hidung",
+    "strokeCount": 14,
+    "examples": [
+      "𮮰",
+      "𮮱",
+      "𮮲",
+      "𮮳",
+      "𮮴",
+      "𮮵"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_210",
+    "radical": "齊",
+    "meaningEn": "even",
+    "meaningId": "genap",
+    "strokeCount": 0,
+    "examples": [
+      "齐",
+      "𪗄",
+      "𬹱",
+      "𮮺",
+      "𮮻",
+      "𮮼"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_211",
+    "radical": "𮮽",
+    "meaningEn": "tooth",
+    "meaningId": "gigi",
+    "strokeCount": -2,
+    "examples": [
+      "齒",
+      "齿",
+      "𣦋",
+      "齓",
+      "齔",
+      "龀"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_212",
+    "radical": "𳑳",
+    "meaningEn": "dragon",
+    "meaningId": "Naga",
+    "strokeCount": -9,
+    "examples": [
+      "龍",
+      "龙",
+      "龍",
+      "龎",
+      "龎",
+      "龏"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_213",
+    "radical": "龜",
+    "meaningEn": "turtle",
+    "meaningId": "kura-kura",
+    "strokeCount": 0,
+    "examples": [
+      "龟",
+      "龜",
+      "龜",
+      "龜",
+      "𪚦",
+      "𪛉"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  },
+  {
+    "id": "rad_zh_214",
+    "radical": "龠",
+    "meaningEn": "flute",
+    "meaningId": "Seruling",
+    "strokeCount": 17,
+    "examples": [
+      "䶳",
+      "龡",
+      "𪛊",
+      "𬺟",
+      "龢",
+      "𱍉"
+    ],
+    "lang": "chinese",
+    "isLearned": false
+  }
+]

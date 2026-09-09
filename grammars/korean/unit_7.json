@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ko_unit5_l1_01",
+    "pattern": "Verb/Adj Stem + ~고 (Sequential/Additive 'And')",
+    "meaningEn": "Connective particle 'and' (combining actions or states).",
+    "meaningId": "Partikel penghubung 'dan' (gabungan tindakan atau kondisi).",
+    "notesEn": {
+      "formation": "Verb/Adj Stem + ~고.",
+      "usage": "Connects two independent clauses to show sequential order ('A and then B') or simple addition ('A and B').",
+      "nuance": "Directly attaches to the stem without needing stem vowel changes."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja/Sifat + ~고.",
+      "usage": "Menghubungkan dua klausa independen untuk menunjukkan urutan ('A lalu B') atau penambahan sederhana ('A dan B').",
+      "nuance": "Langsung ditempelkan pada kata dasar tanpa memerlukan perubahan vokal."
+    },
+    "examples": [
+      {
+        "hangul": "밥을 먹고 커피를 마셨어요.",
+        "romaja": "bap-eul meok-go keo-pi-reul ma-syeos-seo-yo.",
+        "meaningEn": "I ate a meal and drank coffee.",
+        "meaningId": "Saya makan dan minum kopi.",
+        "type": "statement"
+      },
+      {
+        "hangul": "이 책은 재미있고 싸요.",
+        "romaja": "i chaeg-eun jae-mi-iss-go ssa-yo.",
+        "meaningEn": "This book is interesting and cheap.",
+        "meaningId": "Buku ini menarik dan murah.",
+        "type": "statement"
+      },
+      {
+        "hangul": "숙제를 하고 자겠어요.",
+        "romaja": "suk-je-reul ha-go ja-ges-seo-yo.",
+        "meaningEn": "I will do homework and then sleep.",
+        "meaningId": "Saya akan mengerjakan PR lalu tidur.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which connector means 'and' when joining two action clauses?",
+      "options": ["~고", "~지만", "~아서", "~는데"],
+      "answerIndex": 0,
+      "explanationEn": "~고 joins two clauses sequentially or additively.",
+      "explanationId": "~고 menghubungkan dua klausa secara berurutan atau sebagai penambahan."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I ate a meal and drank coffee. -> 밥을 먹___ 커피를 마셨어요.",
+      "sentenceHangul": "밥을 먹___ 커피를 마셨어요.",
+      "answer": "고",
+      "answerReading": "go",
+      "hintEn": "Attach the 'and' connective suffix.",
+      "hintId": "Tempelkan akhiran penghubung 'dan'."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I ate a meal and drank coffee.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya makan dan minum kopi.'",
+      "answer": "밥을 먹고 커피를 마셨어요",
+      "answerReading": "bap-eul meok-go keo-pi-reul ma-syeos-seo-yo",
+      "acceptableVariants": ["밥을 먹고 커피를 마셨습니다"],
+      "hintEn": "Use meal (밥을) + eat (먹) + connective (고) + coffee (커피를) + drank (마셨어요).",
+      "hintId": "Gunakan nasi/makanan (밥을) + makan (먹) + penghubung (고) + kopi (커피를) + minum lampau (마셨어요)."
+    }
+  },
+  {
+    "id": "ko_unit5_l1_02",
+    "pattern": "Verb/Adj Stem + ~지만 (Contrastive 'But')",
+    "meaningEn": "Connective particle 'but / although'.",
+    "meaningId": "Partikel penghubung 'tetapi / walaupun'.",
+    "notesEn": {
+      "formation": "Verb/Adj Stem + ~지만.",
+      "usage": "Connects two contrasting clauses.",
+      "nuance": "Directly attaches to present or past stems regardless of final consonant or vowel."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja/Sifat + ~지만.",
+      "usage": "Menghubungkan dua klausa yang berlawanan/kontras.",
+      "nuance": "Langsung ditempelkan pada kata dasar masa kini atau masa lalu tanpa memandang konsonan atau vokal akhir."
+    },
+    "examples": [
+      {
+        "hangul": "한국어는 어렵지만 재미있어요.",
+        "romaja": "han-guk-eo-neun eo-ryeop-ji-man jae-mi-iss-eo-yo.",
+        "meaningEn": "Korean is difficult, but it is fun.",
+        "meaningId": "Bahasa Korea sulit, tetapi seru.",
+        "type": "statement"
+      },
+      {
+        "hangul": "싸지만 품질이 좋아요.",
+        "romaja": "ssa-ji-man pum-jil-i jo-a-yo.",
+        "meaningEn": "It is cheap, but the quality is good.",
+        "meaningId": "Harganya murah, tetapi kualitasnya bagus.",
+        "type": "statement"
+      },
+      {
+        "hangul": "비가 왔지만 갔어요.",
+        "romaja": "bi-ga wat-ji-man gas-seo-yo.",
+        "meaningEn": "It rained, but I went.",
+        "meaningId": "Hujan turun, tetapi saya tetap pergi.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which suffix is used to connect two contrasting facts ('A, but B')?",
+      "options": ["~지만", "~고", "~아서", "~면"],
+      "answerIndex": 0,
+      "explanationEn": "~지만 is the direct contrast connective suffix equivalent to 'but'.",
+      "explanationId": "~지만 adalah akhiran penghubung kontras langsung yang setara dengan 'tetapi'."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "Korean is difficult, but it is fun. -> 한국어는 어렵___ 재미있어요.",
+      "sentenceHangul": "한국어는 어렵___ 재미있어요.",
+      "answer": "지만",
+      "answerReading": "ji-man",
+      "hintEn": "Attach the contrastive 'but' connective.",
+      "hintId": "Tempelkan penghubung kontras 'tetapi'."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'Korean is difficult, but it is fun.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Bahasa Korea sulit, tetapi seru.'",
+      "answer": "한국어는 어렵지만 재미있어요",
+      "answerReading": "han-guk-eo-neun eo-ryeop-ji-man jae-mi-iss-eo-yo",
+      "acceptableVariants": ["한국어는 어렵지만 재미있습니다"],
+      "hintEn": "Use Korean (한국어는) + difficult stem (어렵) + but (지만) + fun (재미있어요).",
+      "hintId": "Gunakan bahasa Korea (한국어는) + kata dasar sulit (어렵) + tetapi (지만) + seru (재미있어요)."
+    }
+  },
+  {
+    "id": "ko_unit5_l2_01",
+    "pattern": "Verb/Adj Stem + ~아서/어서/해서 (Causal 'Because / So')",
+    "meaningEn": "Sequential cause and effect connection ('so / because').",
+    "meaningId": "Hubungan sebab-akibat berurutan ('sehingga / karena').",
+    "notesEn": {
+      "formation": "Stem with ㅏ/ㅗ -> ~아서. Other vowels -> ~어서. Stem ending in 하다 -> ~해서.",
+      "usage": "Connects a cause or condition in the first clause to its logical result in the second.",
+      "nuance": "Cannot be used with imperative or propositional sentence endings (use ~(으)니까 instead)."
+    },
+    "notesId": {
+      "formation": "Kata Dasar bervokal ㅏ/ㅗ -> ~아서. Vokal lain -> ~어서. Kata Dasar berakhiran 하다 -> ~해서.",
+      "usage": "Menghubungkan sebab atau kondisi pada klausa pertama ke hasil logisnya pada klausa kedua.",
+      "nuance": "Tidak dapat digunakan dengan kalimat perintah atau ajakan (gunakan ~(으)니까 sebagai gantinya)."
+    },
+    "examples": [
+      {
+        "hangul": "비가 와서 집에 있었어요.",
+        "romaja": "bi-ga wa-seo jip-e is-seos-seo-yo.",
+        "meaningEn": "It rained, so I stayed home.",
+        "meaningId": "Karena hujan, saya ada di rumah.",
+        "type": "statement"
+      },
+      {
+        "hangul": "피곤해서 일찍 잤어요.",
+        "romaja": "pi-gon-hae-seo il-jjik jas-seo-yo.",
+        "meaningEn": "I was tired, so I slept early.",
+        "meaningId": "Karena lelah, saya tidur lebih awal.",
+        "type": "statement"
+      },
+      {
+        "hangul": "배가 고파서 밥을 먹었어요.",
+        "romaja": "bae-ga go-pa-seo bap-eul meog-eos-seo-yo.",
+        "meaningEn": "I was hungry, so I ate a meal.",
+        "meaningId": "Karena lapar, saya makan.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What is the correct causal form of '피곤하다' (to be tired)?",
+      "options": ["피곤해서", "피곤아서", "피곤고", "피곤하지만"],
+      "answerIndex": 0,
+      "explanationEn": "Verbs/Adjectives ending in 하다 always change to 해서 for this pattern.",
+      "explanationId": "Kata kerja/sifat yang berakhiran 하다 selalu berubah menjadi 해서 untuk pola ini."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "It rained, so I stayed home. -> 비가 오___ 집에 있었어요.",
+      "sentenceHangul": "비가 오___ 집에 있었어요.",
+      "answer": "아서",
+      "answerReading": "a-seo",
+      "hintEn": "오 contains the vowel ㅗ, so merge it into 와서 (오 + 아서).",
+      "hintId": "오 mengandung vokal ㅗ, jadi leburkan menjadi 와서 (오 + 아서)."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'It rained, so I stayed home.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Karena hujan, saya ada di rumah.'",
+      "answer": "비가 와서 집에 있었어요",
+      "answerReading": "bi-ga wa-seo jip-e is-seos-seo-yo",
+      "acceptableVariants": ["비가 와서 집에 있었습니다"],
+      "hintEn": "Use rain subject (비가) + come cause (와서) + home at (집에) + stayed (있었어요).",
+      "hintId": "Gunakan subjek hujan (비가) + datang sebab (와서) + di rumah (집에) + ada lampau (있었어요)."
+    }
+  },
+  {
+    "id": "ko_unit5_l2_02",
+    "pattern": "Verb/Adj Stem + ~(으)니까 (Causal 'Because / Since' - Flexible)",
+    "meaningEn": "Reason/cause connective suitable for commands, suggestions, and subjective reasons.",
+    "meaningId": "Penhubung alasan/sebab yang cocok untuk kalimat perintah, ajakan, dan alasan subjektif.",
+    "notesEn": {
+      "formation": "Vowel stem -> ~니까 / Consonant stem -> ~으니까.",
+      "usage": "Provides a reason/justification, especially before imperative (~세요) or propositional (~갑시다 / ~까요) endings.",
+      "nuance": "Stronger subjective emphasis than ~아서/어서/해서."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~니까 / Kata Dasar berakhiran Konsonan -> ~으니까.",
+      "usage": "Memberikan alasan/justifikasi, terutama sebelum akhiran perintah (~세요) atau ajakan (~갑시다 / ~까요).",
+      "nuance": "Penekanan subjektif yang lebih kuat daripada ~아서/어서/해서."
+    },
+    "examples": [
+      {
+        "hangul": "날씨가 좋으니까 나갑시다.",
+        "romaja": "nal-ssi-ga jo-eun-i-kka na-gap-si-da.",
+        "meaningEn": "Since the weather is nice, let's go out.",
+        "meaningId": "Karena cuacanya bagus, mari kita keluar.",
+        "type": "proposition"
+      },
+      {
+        "hangul": "바쁘니까 내일 오세요.",
+        "romaja": "ba-ppeu-ni-kka nae-il o-se-yo.",
+        "meaningEn": "Since I am busy, please come tomorrow.",
+        "meaningId": "Karena saya sibuk, silakan datang besok.",
+        "type": "imperative"
+      },
+      {
+        "hangul": "비가 오니까 우산을 쓰세요.",
+        "romaja": "bi-ga o-ni-kka u-san-eul sseu-se-yo.",
+        "meaningEn": "Since it is raining, use an umbrella.",
+        "meaningId": "Karena hujan turun, gunakan payung.",
+        "type": "imperative"
+      }
+    ],
+    "quiz": {
+      "question": "Which causal connector is required when the second clause is an imperative command (~세요)?",
+      "options": ["~(으)니까", "~아서/어서", "~고", "~지만"],
+      "answerIndex": 0,
+      "explanationEn": "~(으)니까 must be used instead of ~아서/어서 when following up with imperative commands or suggestions.",
+      "explanationId": "~(으)니까 harus digunakan daripada ~아서/어서 jika diikuti oleh kalimat perintah atau ajakan."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "Since it is raining, use an umbrella. -> 비가 오___ 우산을 쓰세요.",
+      "sentenceHangul": "비가 오___ 우산을 쓰세요.",
+      "answer": "니까",
+      "answerReading": "ni-kka",
+      "hintEn": "오 ends in a vowel, so attach ~니까.",
+      "hintId": "오 berakhiran vokal, jadi tempelkan ~니까."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'Since it is raining, use an umbrella.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Karena hujan turun, gunakan payung.'",
+      "answer": "비가 오니까 우산을 쓰세요",
+      "answerReading": "bi-ga o-ni-kka u-san-eul sseu-se-yo",
+      "acceptableVariants": ["비가 오니까 우산을 쓰십시오"],
+      "hintEn": "Use rain subject (비가) + rain comes cause (오니까) + umbrella (우산을) + use imperative (쓰세요).",
+      "hintId": "Gunakan subjek hujan (비가) + datang sebab (오니까) + payung (우산을) + gunakan perintah (쓰세요)."
+    }
+  },
+  {
+    "id": "ko_unit5_l3_01",
+    "pattern": "Verb/Adj Stem + ~는데 / ~은데 / ~ㄴ데 (Background / Context / Soft Contrast)",
+    "meaningEn": "Background information clause ('..., so / and / but').",
+    "meaningId": "Klausa informasi latar belakang ('..., jadi / dan / tetapi').",
+    "notesEn": {
+      "formation": "Action verbs -> ~는데. Adjectives -> ~은데 (consonant) / ~ㄴ데 (vowel). Nouns -> ~인데.",
+      "usage": "Provides context/background before making a request, proposal, or main statement.",
+      "nuance": "Softens the sentence and sets up the listener for context before delivering main content."
+    },
+    "notesId": {
+      "formation": "Kata kerja -> ~는데. Kata sifat -> ~은데 (konsonan) / ~ㄴ데 (vokal). Kata benda -> ~인데.",
+      "usage": "Memberikan konteks/latar belakang sebelum membuat permintaan, usulan, atau penyataan utama.",
+      "nuance": "Melembutkan kalimat dan mempersiapkan pendengar dengan konteks sebelum menyampaikan isi utama."
+    },
+    "examples": [
+      {
+        "hangul": "지금 바쁜데 나중에 이야기해요.",
+        "romaja": "ji-geum ba-ppeun-de na-jung-e i-ya-gi-hae-yo.",
+        "meaningEn": "I am busy now, so let's talk later.",
+        "meaningId": "Saya sedang sibuk sekarang, jadi mari bicara nanti.",
+        "type": "statement"
+      },
+      {
+        "hangul": "비가 오는데 우산이 있어요?",
+        "romaja": "bi-ga o-neun-de u-san-i is-seo-yo?",
+        "meaningEn": "It's raining, do you have an umbrella?",
+        "meaningId": "Sedang hujan, apakah kamu punya payung?",
+        "type": "question"
+      },
+      {
+        "hangul": "한국어를 공부하는데 어려워요.",
+        "romaja": "han-guk-eo-reul gong-bu-ha-neun-de eo-ryeo-wo-yo.",
+        "meaningEn": "I am studying Korean, and/but it's difficult.",
+        "meaningId": "Saya sedang belajar bahasa Korea, dan/tetapi rasanya sulit.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What is the correct background connective form for the adjective '바쁘다' (to be busy)?",
+      "options": ["바쁜데", "바쁘는데", "바쁘고", "바쁘지만"],
+      "answerIndex": 0,
+      "explanationEn": "바쁘다 is an adjective ending in a vowel, so attach ~ㄴ데 -> 바쁜데.",
+      "explanationId": "바쁘다 adalah kata sifat berakhiran vokal, jadi tempelkan ~ㄴ데 -> 바쁜데."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "It's raining, do you have an umbrella? -> 비가 오___ 우산이 있어요?",
+      "sentenceHangul": "비가 오___ 우산이 있어요?",
+      "answer": "는데",
+      "answerReading": "neun-de",
+      "hintEn": "오다 is an active verb, so attach ~는데.",
+      "hintId": "오다 adalah kata kerja aktif, jadi tempelkan ~는데."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I am busy now, so let's talk later.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya sedang sibuk sekarang, jadi mari bicara nanti.'",
+      "answer": "지금 바쁜데 나중에 이야기해요",
+      "answerReading": "ji-geum ba-ppeun-de na-jung-e i-ya-gi-hae-yo",
+      "acceptableVariants": ["지금 바쁜데 나중에 이야기합시다", "제가 지금 바쁜데 나중에 이야기해요"],
+      "hintEn": "Use now (지금) + busy context (바쁜데) + later (나중에) + talk (이야기해요).",
+      "hintId": "Gunakan sekarang (지금) + konteks sibuk (바쁜데) + nanti (나중에) + berbicara (이야기해요)."
+    }
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "id": "jm_ko_1",
+    "radical": "ㄱ",
+    "meaningEn": "consonant g/k",
+    "meaningId": "konsonan g/k",
+    "strokeCount": 1,
+    "examples": [
+      "가",
+      "고기",
+      "감사"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_2",
+    "radical": "ㄴ",
+    "meaningEn": "consonant n",
+    "meaningId": "konsonan n",
+    "strokeCount": 1,
+    "examples": [
+      "나",
+      "나무",
+      "눈"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_3",
+    "radical": "ㄷ",
+    "meaningEn": "consonant d/t",
+    "meaningId": "konsonan d/t",
+    "strokeCount": 2,
+    "examples": [
+      "다리",
+      "돈",
+      "달"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_4",
+    "radical": "ㄹ",
+    "meaningEn": "consonant r/l",
+    "meaningId": "konsonan r/l",
+    "strokeCount": 2,
+    "examples": [
+      "라면",
+      "나라",
+      "달"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_5",
+    "radical": "ㅁ",
+    "meaningEn": "consonant m",
+    "meaningId": "konsonan m",
+    "strokeCount": 3,
+    "examples": [
+      "마음",
+      "물",
+      "엄마"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_6",
+    "radical": "ㅂ",
+    "meaningEn": "consonant b/p",
+    "meaningId": "konsonan b/p",
+    "strokeCount": 4,
+    "examples": [
+      "바다",
+      "밥",
+      "비"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_7",
+    "radical": "ㅅ",
+    "meaningEn": "consonant s",
+    "meaningId": "konsonan s",
+    "strokeCount": 2,
+    "examples": [
+      "사람",
+      "산",
+      "손"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_8",
+    "radical": "ㅇ",
+    "meaningEn": "silent initial or ng final",
+    "meaningId": "diam di awal atau ng di akhir",
+    "strokeCount": 1,
+    "examples": [
+      "아이",
+      "엄마",
+      "강"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_9",
+    "radical": "ㅈ",
+    "meaningEn": "consonant j",
+    "meaningId": "konsonan j",
+    "strokeCount": 3,
+    "examples": [
+      "자다",
+      "집",
+      "juice: 주스"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_10",
+    "radical": "ㅊ",
+    "meaningEn": "consonant ch",
+    "meaningId": "konsonan ch",
+    "strokeCount": 4,
+    "examples": [
+      "차",
+      "친구",
+      "책"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_11",
+    "radical": "ㅋ",
+    "meaningEn": "consonant k (aspirated)",
+    "meaningId": "konsonan k (aspirasi)",
+    "strokeCount": 2,
+    "examples": [
+      "카드",
+      "코",
+      "커피"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_12",
+    "radical": "ㅌ",
+    "meaningEn": "consonant t (aspirated)",
+    "meaningId": "konsonan t (aspirasi)",
+    "strokeCount": 3,
+    "examples": [
+      "타다",
+      "토마토",
+      "터널"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_13",
+    "radical": "ㅍ",
+    "meaningEn": "consonant p (aspirated)",
+    "meaningId": "konsonan p (aspirasi)",
+    "strokeCount": 4,
+    "examples": [
+      "파티",
+      "포도",
+      "피"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_14",
+    "radical": "ㅎ",
+    "meaningEn": "consonant h",
+    "meaningId": "konsonan h",
+    "strokeCount": 3,
+    "examples": [
+      "하늘",
+      "학교",
+      "행복"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_15",
+    "radical": "ㄲ",
+    "meaningEn": "tense consonant kk",
+    "meaningId": "konsonan rangkap kk",
+    "strokeCount": 2,
+    "examples": [
+      "까치",
+      "꽃",
+      "토끼"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_16",
+    "radical": "ㄸ",
+    "meaningEn": "tense consonant tt",
+    "meaningId": "konsonan rangkap tt",
+    "strokeCount": 4,
+    "examples": [
+      "딸",
+      "떡",
+      "땅"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_17",
+    "radical": "ㅃ",
+    "meaningEn": "tense consonant pp",
+    "meaningId": "konsonan rangkap pp",
+    "strokeCount": 8,
+    "examples": [
+      "빵",
+      "뿌리",
+      "오빠"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_18",
+    "radical": "ㅆ",
+    "meaningEn": "tense consonant ss",
+    "meaningId": "konsonan rangkap ss",
+    "strokeCount": 4,
+    "examples": [
+      "쌀",
+      "씨앗",
+      "아저씨"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_19",
+    "radical": "ㅉ",
+    "meaningEn": "tense consonant jj",
+    "meaningId": "konsonan rangkap jj",
+    "strokeCount": 6,
+    "examples": [
+      "짜다",
+      "찌개",
+      "가짜"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_20",
+    "radical": "ㅏ",
+    "meaningEn": "vowel a",
+    "meaningId": "vokal a",
+    "strokeCount": 2,
+    "examples": [
+      "아이",
+      "바다",
+      "사과"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_21",
+    "radical": "ㅑ",
+    "meaningEn": "vowel ya",
+    "meaningId": "vokal ya",
+    "strokeCount": 3,
+    "examples": [
+      "야구",
+      "야채",
+      "얌전"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_22",
+    "radical": "ㅓ",
+    "meaningEn": "vowel eo",
+    "meaningId": "vokal eo",
+    "strokeCount": 2,
+    "examples": [
+      "어머니",
+      "버스",
+      "저기"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_23",
+    "radical": "ㅕ",
+    "meaningEn": "vowel yeo",
+    "meaningId": "vokal yeo",
+    "strokeCount": 3,
+    "examples": [
+      "여자",
+      "여행",
+      "혀"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_24",
+    "radical": "ㅗ",
+    "meaningEn": "vowel o",
+    "meaningId": "vokal o",
+    "strokeCount": 2,
+    "examples": [
+      "오다",
+      "고기",
+      "우표"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_25",
+    "radical": "ㅛ",
+    "meaningEn": "vowel yo",
+    "meaningId": "vokal yo",
+    "strokeCount": 3,
+    "examples": [
+      "요리",
+      "교실",
+      "우유"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_26",
+    "radical": "ㅜ",
+    "meaningEn": "vowel u",
+    "meaningId": "vokal u",
+    "strokeCount": 2,
+    "examples": [
+      "우유",
+      "구두",
+      "누나"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_27",
+    "radical": "ㅠ",
+    "meaningEn": "vowel yu",
+    "meaningId": "vokal yu",
+    "strokeCount": 3,
+    "examples": [
+      "유리",
+      "우유",
+      "휴지"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_28",
+    "radical": "ㅡ",
+    "meaningEn": "vowel eu",
+    "meaningId": "vokal eu",
+    "strokeCount": 1,
+    "examples": [
+      "으뜸",
+      "그림",
+      "크다"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_29",
+    "radical": "ㅣ",
+    "meaningEn": "vowel i",
+    "meaningId": "vokal i",
+    "strokeCount": 1,
+    "examples": [
+      "이름",
+      "김치",
+      "미리"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_30",
+    "radical": "ㅐ",
+    "meaningEn": "vowel ae",
+    "meaningId": "vokal ae",
+    "strokeCount": 3,
+    "examples": [
+      "애기",
+      "개",
+      "노래"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_31",
+    "radical": "ㅒ",
+    "meaningEn": "vowel yae",
+    "meaningId": "vokal yae",
+    "strokeCount": 4,
+    "examples": [
+      "얘기",
+      "예얘"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_32",
+    "radical": "ㅔ",
+    "meaningEn": "vowel e",
+    "meaningId": "vokal e",
+    "strokeCount": 3,
+    "examples": [
+      "에어컨",
+      "베개",
+      "제주"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_33",
+    "radical": "ㅖ",
+    "meaningEn": "vowel ye",
+    "meaningId": "vokal ye",
+    "strokeCount": 4,
+    "examples": [
+      "예의",
+      "시계",
+      "계란"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_34",
+    "radical": "ㅘ",
+    "meaningEn": "vowel wa",
+    "meaningId": "vokal wa",
+    "strokeCount": 4,
+    "examples": [
+      "과일",
+      "사과",
+      "화장실"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_35",
+    "radical": "ㅙ",
+    "meaningEn": "vowel wae",
+    "meaningId": "vokal wae",
+    "strokeCount": 5,
+    "examples": [
+      "돼지",
+      "왜",
+      "괜찮다"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_36",
+    "radical": "ㅚ",
+    "meaningEn": "vowel oe",
+    "meaningId": "vokal oe",
+    "strokeCount": 3,
+    "examples": [
+      "회사",
+      "외국",
+      "쇠"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_37",
+    "radical": "ㅝ",
+    "meaningEn": "vowel wo",
+    "meaningId": "vokal wo",
+    "strokeCount": 4,
+    "examples": [
+      "원",
+      "권투",
+      "뭐"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_38",
+    "radical": "ㅞ",
+    "meaningEn": "vowel we",
+    "meaningId": "vokal we",
+    "strokeCount": 5,
+    "examples": [
+      "웬",
+      "궤도"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_39",
+    "radical": "ㅟ",
+    "meaningEn": "vowel wi",
+    "meaningId": "vokal wi",
+    "strokeCount": 3,
+    "examples": [
+      "귀",
+      "쉬다",
+      "위"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  },
+  {
+    "id": "jm_ko_40",
+    "radical": "ㅢ",
+    "meaningEn": "vowel ui",
+    "meaningId": "vokal ui",
+    "strokeCount": 2,
+    "examples": [
+      "의사",
+      "의자",
+      "희망"
+    ],
+    "lang": "korean",
+    "isLearned": false
+  }
+]

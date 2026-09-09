@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ko_unit9_l1_01",
+    "pattern": "Verb Stem + ~는 + Noun (Present Action Noun Modifier)",
+    "meaningEn": "Present continuous / general action describing a noun ('that is / who is doing').",
+    "meaningId": "Tindakan saat ini / umum yang menerangkan kata benda ('yang sedang / biasa dilakukan').",
+    "notesEn": {
+      "formation": "Verb Stem + ~는 + Noun (irrespective of consonant or vowel ending).",
+      "usage": "Turns a verb into an adjective phrase describing a noun in the present tense.",
+      "nuance": "For ㄹ-irregular verbs, drop the ㄹ and attach ~는 (e.g., 살다 -> 사는)."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja + ~는 + Kata Benda (tanpa memandang akhiran konsonan atau vokal).",
+      "usage": "Mengubah kata kerja menjadi frasa kata sifat yang menerangkan kata benda dalam bentuk saat ini (present tense).",
+      "nuance": "Untuk kata kerja tidak beraturan ㄹ, hapus ㄹ dan tempelkan ~는 (contoh: 살다 -> 사는)."
+    },
+    "examples": [
+      {
+        "hangul": "지금 먹는 음식이 맛있어요.",
+        "romaja": "ji-geum meong-neun eum-sig-i mas-is-seo-yo.",
+        "meaningEn": "The food that I am eating now is delicious.",
+        "meaningId": "Makanan yang sedang saya makan sekarang enak.",
+        "type": "statement"
+      },
+      {
+        "hangul": "저기 읽는 책이 뭐예요?",
+        "romaja": "jeo-gi ing-neun chaeg-i mwo-ye-yo?",
+        "meaningEn": "What is the book you are reading over there?",
+        "meaningId": "Buku yang sedang kamu baca di sana itu apa?",
+        "type": "question"
+      },
+      {
+        "hangul": "음악을 듣는 사람을 봐요.",
+        "romaja": "eu-mag-eul deung-neun sa-ram-eul bwa-yo.",
+        "meaningEn": "Look at the person who is listening to music.",
+        "meaningId": "Lihatlah orang yang sedang mendengarkan musik.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "How do you modify '사람' (person) with '먹다' (to eat) in present tense ('person who eats')?",
+      "options": ["먹는 사람", "먹은 사람", "먹을 사람", "먹었 사람"],
+      "answerIndex": 0,
+      "explanationEn": "Attach ~는 directly to the verb stem 먹 to create a present tense modifier: 먹는 사람.",
+      "explanationId": "Tempelkan ~는 langsung pada kata dasar 먹 untuk membuat penjelas bentuk saat ini: 먹는 사람."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "The food that I am eating now is delicious. -> 지금 먹___ 음식이 맛있어요.",
+      "sentenceHangul": "지금 먹___ 음식이 맛있어요.",
+      "answer": "는",
+      "answerReading": "neun",
+      "hintEn": "Attach the present tense noun modifier suffix to verb stem 먹.",
+      "hintId": "Tempelkan akhiran penjelas kata benda present tense pada kata dasar 먹."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'The food that I am eating now is delicious.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Makanan yang sedang saya makan sekarang enak.'",
+      "answer": "지금 먹는 음식이 맛있어요",
+      "answerReading": "ji-geum meong-neun eum-sig-i mas-is-seo-yo",
+      "acceptableVariants": ["지금 먹는 음식이 맛있습니다"],
+      "hintEn": "Use now (지금) + eat modifier (먹는) + food subject (음식이) + delicious (맛있어요).",
+      "hintId": "Gunakan sekarang (지금) + penjelas makan (먹는) + subjek makanan (음식이) + enak (맛있어요)."
+    }
+  },
+  {
+    "id": "ko_unit9_l1_02",
+    "pattern": "Verb Stem + ~(으)ㄴ + Noun (Past Action Noun Modifier)",
+    "meaningEn": "Past action describing a noun ('that was / who did').",
+    "meaningId": "Tindakan masa lalu yang menerangkan kata benda ('yang telah / sudah dilakukan').",
+    "notesEn": {
+      "formation": "Vowel stem -> ~ㄴ + Noun / Consonant stem -> ~은 + Noun.",
+      "usage": "Modifies a noun to describe a completed action in the past.",
+      "nuance": "For adjectives, ~(으)ㄴ is used for present state, but for verbs, it signifies past completed action."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~ㄴ + Kata Benda / Kata Dasar berakhiran Konsonan -> ~은 + Kata Benda.",
+      "usage": "Menerangkan kata benda untuk menggambarkan tindakan yang telah selesai di masa lalu.",
+      "nuance": "Untuk kata sifat, ~(으)ㄴ digunakan untuk keadaan saat ini, tetapi untuk kata kerja, ini menandakan tindakan masa lalu yang sudah selesai."
+    },
+    "examples": [
+      {
+        "hangul": "어제 읽은 책이 재미있었어요.",
+        "romaja": "eo-je il-geun chaeg-i jae-mi-is-seos-seo-yo.",
+        "meaningEn": "The book I read yesterday was interesting.",
+        "meaningId": "Buku yang saya baca kemarin menarik.",
+        "type": "statement"
+      },
+      {
+        "hangul": "내가 만난 친구는 친절해요.",
+        "romaja": "nae-ga man-nan chin-gu-neun chin-jeol-hae-yo.",
+        "meaningEn": "The friend I met is kind.",
+        "meaningId": "Teman yang saya temui itu ramah.",
+        "type": "statement"
+      },
+      {
+        "hangul": "작년에 간 곳을 기억해요?",
+        "romaja": "jang-nyeon-e gan gos-eul gi-eok-hae-yo?",
+        "meaningEn": "Do you remember the place we went to last year?",
+        "meaningId": "Apakah kamu ingat tempat yang kita datangi tahun lalu?",
+        "type": "question"
+      }
+    ],
+    "quiz": {
+      "question": "What is the past tense modifier form for '읽다' (to read) in 'the book I read'?",
+      "options": ["읽은 책", "읽는 책", "읽을 책", "읽던 책"],
+      "answerIndex": 0,
+      "explanationEn": "읽다 stem (읽) ends in a consonant, so attach ~은 for past modifier -> 읽은 책.",
+      "explanationId": "Kata dasar 읽다 (읽) berakhiran konsonan, jadi tempelkan ~은 untuk penjelas masa lalu -> 읽은 책."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "The book I read yesterday was interesting. -> 어제 읽___ 책이 재미있었어요.",
+      "sentenceHangul": "어제 읽___ 책이 재미있었어요.",
+      "answer": "은",
+      "answerReading": "eun",
+      "hintEn": "Attach past verb modifier suffix to consonant stem 읽.",
+      "hintId": "Tempelkan akhiran penjelas kata kerja masa lalu pada kata dasar konsonan 읽."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'The book I read yesterday was interesting.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Buku yang saya baca kemarin menarik.'",
+      "answer": "어제 읽은 책이 재미있었어요",
+      "answerReading": "eo-je il-geun chaeg-i jae-mi-is-seos-seo-yo",
+      "acceptableVariants": ["어제 읽은 책이 재미있었습니다"],
+      "hintEn": "Use yesterday (어제) + read past modifier (읽은) + book subject (책이) + interesting past (재미있었어요).",
+      "hintId": "Gunakan kemarin (어제) + penjelas baca lampau (읽은) + subjek buku (책이) + menarik lampau (재미있었어요)."
+    }
+  },
+  {
+    "id": "ko_unit9_l2_01",
+    "pattern": "Verb Stem + ~(으)ㄹ + Noun (Future / Prospective Noun Modifier)",
+    "meaningEn": "Future action or potentiality describing a noun ('that will / to be done').",
+    "meaningId": "Tindakan masa depan atau potensi yang menerangkan kata benda ('yang akan / untuk dilakukan').",
+    "notesEn": {
+      "formation": "Vowel stem -> ~ㄹ + Noun / Consonant stem -> ~을 + Noun.",
+      "usage": "Modifies a noun to indicate a future action, obligation, or intention.",
+      "nuance": "Often paired with nouns like 것 (thing), 때 (time), or 예정 (plan)."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~ㄹ + Kata Benda / Kata Dasar berakhiran Konsonan -> ~을 + Kata Benda.",
+      "usage": "Menerangkan kata benda untuk menunjukkan tindakan, kewajiban, atau niat di masa depan.",
+      "nuance": "Sering dipasangkan dengan kata benda seperti 것 (hal/benda), 때 (waktu), atau 예정 (rencana)."
+    },
+    "examples": [
+      {
+        "hangul": "내일 할 일이 많아요.",
+        "romaja": "nae-il hal il-i man-a-yo.",
+        "meaningEn": "I have a lot of work to do tomorrow.",
+        "meaningId": "Ada banyak pekerjaan yang harus dilakukan besok.",
+        "type": "statement"
+      },
+      {
+        "hangul": "다음 주에 마실 커피를 사요.",
+        "romaja": "da-eum ju-e ma-sil keo-pi-reul sa-yo.",
+        "meaningEn": "I buy coffee to drink next week.",
+        "meaningId": "Saya membeli kopi untuk diminum minggu depan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "먹을 음식을 준비하세요.",
+        "romaja": "meog-eul eum-sig-eul jun-bi-ha-se-yo.",
+        "meaningEn": "Please prepare the food to eat.",
+        "meaningId": "Silakan siapkan makanan yang akan dimakan.",
+        "type": "imperative"
+      }
+    ],
+    "quiz": {
+      "question": "How do you form 'work to do tomorrow' using '하다' (to do)?",
+      "options": ["내일 할 일", "내일 하는 일", "내일 한 일", "내일 했던 일"],
+      "answerIndex": 0,
+      "explanationEn": "하다 stem (하) ends in a vowel, attach ~ㄹ for future modifier -> 할 일.",
+      "explanationId": "Kata dasar 하다 (하) berakhiran vokal, tempelkan ~ㄹ untuk penjelas masa depan -> 할 일."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I have a lot of work to do tomorrow. -> 내일 하___ 일이 많아요.",
+      "sentenceHangul": "내일 하___ 일이 많아요.",
+      "answer": "ㄹ",
+      "answerReading": "l",
+      "hintEn": "Attach future modifier suffix under vowel stem 하.",
+      "hintId": "Tempelkan akhiran penjelas masa depan di bawah kata dasar vokal 하."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I have a lot of work to do tomorrow.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Ada banyak pekerjaan yang harus dilakukan besok.'",
+      "answer": "내일 할 일이 많아요",
+      "answerReading": "nae-il hal il-i man-a-yo",
+      "acceptableVariants": ["내일 할 일이 많습니다"],
+      "hintEn": "Use tomorrow (내일) + do future modifier (할) + work subject (일이) + many (많아요).",
+      "hintId": "Gunakan besok (내일) + penjelas lakukan (할) + subjek pekerjaan (일이) + banyak (많아요)."
+    }
+  },
+  {
+    "id": "ko_unit9_l2_02",
+    "pattern": "Adjective Stem + ~(으)ㄴ + Noun (Adjective Noun Modifier)",
+    "meaningEn": "Descriptive adjective modifying a noun ('[adjective] noun').",
+    "meaningId": "Kata sifat deskriptif yang menerangkan kata benda ('kata benda yang [kata sifat]').",
+    "notesEn": {
+      "formation": "Vowel stem -> ~ㄴ + Noun / Consonant stem -> ~은 + Noun. (Exception: ~있다/없다 adjectives use ~는).",
+      "usage": "Directly attaches an adjective to a noun to state a present quality or attribute.",
+      "nuance": "Special rule: adjectives ending in 있다/없다 take ~는 (e.g., 맛있는, 재미있는)."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~ㄴ + Kata Benda / Kata Dasar berakhiran Konsonan -> ~은 + Kata Benda. (Pengecualian: kata sifat ~있다/없다 menggunakan ~는).",
+      "usage": "Menempelkan kata sifat secara langsung ke kata benda untuk menyatakan kualitas atau sifat saat ini.",
+      "nuance": "Aturan khusus: kata sifat berakhiran 있다/없다 menggunakan ~는 (contoh: 맛있는, 재미있는)."
+    },
+    "examples": [
+      {
+        "hangul": "예쁜 옷을 샀어요.",
+        "romaja": "ye-ppeun os-eul sas-seo-yo.",
+        "meaningEn": "I bought pretty clothes.",
+        "meaningId": "Saya membeli pakaian yang cantik.",
+        "type": "statement"
+      },
+      {
+        "hangul": "작은 방에 있어요.",
+        "romaja": "ja-geun bang-e is-seo-yo.",
+        "meaningEn": "I am in a small room.",
+        "meaningId": "Saya berada di kamar yang kecil.",
+        "type": "statement"
+      },
+      {
+        "hangul": "맛있는 음식을 먹고 싶어요.",
+        "romaja": "mas-is-neun eum-sig-eul meok-go si-peo-yo.",
+        "meaningEn": "I want to eat delicious food.",
+        "meaningId": "Saya ingin makan makanan yang enak.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which modifier form is correct for '작다' (small) modifying '집' (house)?",
+      "options": ["작은 집", "작는 집", "작을 집", "작한 집"],
+      "answerIndex": 0,
+      "explanationEn": "작다 stem (작) ends in a consonant, attach ~은 for adjective modifier -> 작은 집.",
+      "explanationId": "Kata dasar 작다 (작) berakhiran konsonan, tempelkan ~은 untuk penjelas kata sifat -> 작은 집."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I bought pretty clothes. -> 예쁘___ 옷을 샀어요.",
+      "sentenceHangul": "예쁘___ 옷을 샀어요.",
+      "answer": "ㄴ",
+      "answerReading": "n",
+      "hintEn": "Attach adjective modifier under vowel stem 예쁘.",
+      "hintId": "Tempelkan penjelas kata sifat di bawah kata dasar vokal 예쁘."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I bought pretty clothes.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya membeli pakaian yang cantik.'",
+      "answer": "예쁜 옷을 샀어요",
+      "answerReading": "ye-ppeun os-eul sas-seo-yo",
+      "acceptableVariants": ["예쁜 옷을 샀습니다", "저는 예쁜 옷을 샀어요"],
+      "hintEn": "Use pretty modifier (예쁜) + clothes (옷을) + bought (샀어요).",
+      "hintId": "Gunakan penjelas cantik (예쁜) + pakaian (옷을) + membeli lampau (샀어요)."
+    }
+  },
+  {
+    "id": "ko_unit9_l2_03",
+    "pattern": "Verb Stem + ~는 것 / ~(으)ㄴ 것 / ~(으)ㄹ 것 (Nominalization 'The thing that...')",
+    "meaningEn": "Turning action clauses into noun expressions ('the act of / the thing that').",
+    "meaningId": "Mengubah klausa tindakan menjadi ekspresi kata benda ('hal yang / kegiatan').",
+    "notesEn": {
+      "formation": "Verb Stem + ~는 것 (present) / ~(으)ㄴ 것 (past) / ~(으)ㄹ 것 (future). Shortened to 것도/것이/것을 or 거/게/걸 in speaking.",
+      "usage": "Nominalizes full verb clauses so they can function as subjects, objects, or topic nouns in sentences.",
+      "nuance": "Essential structure for expressing hobbies, preferences, or abstract ideas."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja + ~는 것 (present) / ~(으)ㄴ 것 (past) / ~(으)ㄹ 것 (future). Disingkat menjadi 것도/것이/것을 atau 거/게/걸 dalam percakapan.",
+      "usage": "Mengubah klausa kata kerja menjadi kata benda sehingga dapat berfungsi sebagai subjek, objek, atau kata benda topik dalam kalimat.",
+      "nuance": "Struktur penting untuk mengungkapkan hobi, preferensi, atau ide abstrak."
+    },
+    "examples": [
+      {
+        "hangul": "제 취미는 요리하는 것이에요.",
+        "romaja": "je chwi-mi-neun yo-ri-ha-neun geos-i-e-yo.",
+        "meaningEn": "My hobby is cooking (the act of cooking).",
+        "meaningId": "Hobi saya adalah memasak (kegiatan memasak).",
+        "type": "statement"
+      },
+      {
+        "hangul": "운동하는 것을 좋아해요.",
+        "romaja": "un-dong-ha-neun geos-eul jo-a-hae-yo.",
+        "meaningEn": "I like exercising.",
+        "meaningId": "Saya suka berolahraga.",
+        "type": "statement"
+      },
+      {
+        "hangul": "지금 생각하는 것이 맞아요.",
+        "romaja": "ji-geum saeng-gak-ha-neun geos-i ma-ja-yo.",
+        "meaningEn": "What you are thinking right now is correct.",
+        "meaningId": "Apa yang kamu pikirkan saat ini benar.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "How do you translate 'My hobby is cooking' using nominalization?",
+      "options": ["제 취미는 요리하는 것이에요", "제 취미는 요리했어요", "제 취미는 요리하고 싶어요", "제 취미는 요리하러 가요"],
+      "answerIndex": 0,
+      "explanationEn": "Attach ~는 것 to 요리하다 to make 'the act of cooking': 요리하는 것.",
+      "explanationId": "Tempelkan ~는 것 pada 요리하다 untuk membuat 'kegiatan memasak': 요리하는 것."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I like exercising. -> 운동하___ 것을 좋아해요.",
+      "sentenceHangul": "운동하___ 것을 좋아해요.",
+      "answer": "는",
+      "answerReading": "neun",
+      "hintEn": "Attach present nominalizer connector to verb stem 운동하.",
+      "hintId": "Tempelkan penghubung pembendaan present pada kata dasar 운동하."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'My hobby is cooking.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Hobi saya adalah memasak.'",
+      "answer": "제 취미는 요리하는 것이에요",
+      "answerReading": "je chwi-mi-neun yo-ri-ha-neun geos-i-e-yo",
+      "acceptableVariants": ["제 취미는 요리하는 것입니다", "제 취미는 요리하는 거예요"],
+      "hintEn": "Use my hobby (제 취미는) + cook nominalized (요리하는 것) + is (이에요).",
+      "hintId": "Gunakan hobi saya (제 취미는) + memasak yang dibendakan (요리하는 것) + adalah (이에요)."
+    }
+  }
+]

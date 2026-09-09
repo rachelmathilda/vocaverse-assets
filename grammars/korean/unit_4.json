@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ko_unit3_l1_01",
+    "pattern": "Verb/Adj Stem + ~았/었/했~ (Past Tense Base)",
+    "meaningEn": "Past tense infix/marker.",
+    "meaningId": "Penanda/sisipan waktu lampau.",
+    "notesEn": {
+      "formation": "Stem with ㅏ or ㅗ -> ~았~. Other vowels -> ~었~. Stem ending in 하다 -> ~했~.",
+      "usage": "Inserted directly onto verb or adjective stems to convert them into past tense before adding speech level endings.",
+      "nuance": "Fundamental rule for all past tense conjugations across different formality levels."
+    },
+    "notesId": {
+      "formation": "Kata dasar vokal ㅏ atau ㅗ -> ~았~. Vokal lain -> ~었~. Kata dasar berakhiran 하다 -> ~했~.",
+      "usage": "Disisipkan langsung pada kata dasar kata kerja atau kata sifat untuk mengubahnya ke bentuk lampau sebelum menambahkan akhiran tingkat tutur.",
+      "nuance": "Aturan dasar untuk semua konjugasi bentuk lampau di berbagai tingkat formalitas."
+    },
+    "examples": [
+      {
+        "hangul": "가다 -> 갔-",
+        "romaja": "ga-da -> gat-",
+        "meaningEn": "go -> went (stem)",
+        "meaningId": "pergi -> pergi (kata dasar lampau)",
+        "type": "statement"
+      },
+      {
+        "hangul": "먹다 -> 먹었-",
+        "romaja": "meok-da -> meog-eot-",
+        "meaningEn": "eat -> ate (stem)",
+        "meaningId": "makan -> makan (kata dasar lampau)",
+        "type": "statement"
+      },
+      {
+        "hangul": "공부하다 -> 공부했-",
+        "romaja": "gong-bu-ha-da -> gong-bu-haet-",
+        "meaningEn": "study -> studied (stem)",
+        "meaningId": "belajar -> belajar (kata dasar lampau)",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What is the past tense stem for '보다' (to watch/see)?",
+      "options": ["봤-", "보었-", "보했-", "봅-"],
+      "answerIndex": 0,
+      "explanationEn": "보 contains the vowel ㅗ, so ~았~ attaches and merges into 봤-.",
+      "explanationId": "보 mengandung vokal ㅗ, sehingga ~았~ menempel dan melebur menjadi 봤-."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "Past tense stem of 읽다 (to read) -> 읽___-",
+      "sentenceHangul": "읽___-",
+      "answer": "었",
+      "answerReading": "eot",
+      "hintEn": "읽 contains the vowel ㅣ, so attach ~었~.",
+      "hintId": "읽 mengandung vokal ㅣ, jadi tempelkan ~었~."
+    },
+    "constructionQuiz": {
+      "promptEn": "Combine '하다' with the past tense infix base.",
+      "promptId": "Gabungkan '하다' dengan sisipan bentuk lampau dasar.",
+      "answer": "했",
+      "answerReading": "haet",
+      "acceptableVariants": ["했다"],
+      "hintEn": "하다 always changes to 했 in the past tense.",
+      "hintId": "하다 selalu berubah menjadi 했 pada bentuk lampau."
+    }
+  },
+  {
+    "id": "ko_unit3_l1_02",
+    "pattern": "Verb/Adj Stem + ~았/었/했어요 (Informal Polite Past Tense)",
+    "meaningEn": "Informal polite past tense conjugation.",
+    "meaningId": "Konjugasi bentuk lampau sopan informal.",
+    "notesEn": {
+      "formation": "Past Stem + ~어요 (e.g., 갔어요, 먹었어요, 했어요).",
+      "usage": "Standard polite style used to talk about completed actions or past states in daily conversation.",
+      "nuance": "Most common spoken past tense form in everyday interactions."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Lampau + ~어요 (contoh: 갔어요, 먹었어요, 했어요).",
+      "usage": "Gaya sopan standar yang digunakan untuk membicarakan aksi yang telah selesai atau kondisi masa lalu dalam percakapan harian.",
+      "nuance": "Bentuk lampau lisan paling umum dalam interaksi sehari-hari."
+    },
+    "examples": [
+      {
+        "hangul": "어제 영화를 봤어요.",
+        "romaja": "eo-je yeong-hwa-reul bwas-seo-yo.",
+        "meaningEn": "I watched a movie yesterday.",
+        "meaningId": "Saya menonton film kemarin.",
+        "type": "statement"
+      },
+      {
+        "hangul": "아침을 먹었어요.",
+        "romaja": "a-chim-eul meog-eos-seo-yo.",
+        "meaningEn": "I ate breakfast.",
+        "meaningId": "Saya sudah makan sarapan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "열심히 공부했어요.",
+        "romaja": "yeol-sim-hi gong-bu-haes-seo-yo.",
+        "meaningEn": "I studied hard.",
+        "meaningId": "Saya belajar dengan sungguh-sungguh.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What is the informal polite past tense of '만나다' (to meet)?",
+      "options": ["만났어요", "만나했어요", "만나었어요", "만납니다"],
+      "answerIndex": 0,
+      "explanationEn": "만나다 contains ㅏ, so adding ~았~ merges it into 만났, plus ~어요 gives 만났어요.",
+      "explanationId": "만나다 mengandung ㅏ, jadi penambahan ~았~ melebur menjadi 만났, ditambah ~어요 menjadi 만났어요."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I ate breakfast. -> 아침을 먹___.",
+      "sentenceHangul": "아침을 먹___.",
+      "answer": "었어요",
+      "answerReading": "eos-seo-yo",
+      "hintEn": "먹다 stem vowel is ㅓ, so attach ~었어요.",
+      "hintId": "Vokal kata dasar 먹다 adalah ㅓ, jadi tempelkan ~었어요."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I watched a movie yesterday.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya menonton film kemarin.'",
+      "answer": "어제 영화를 봤어요",
+      "answerReading": "eo-je yeong-hwa-reul bwas-seo-yo",
+      "acceptableVariants": ["저는 어제 영화를 봤어요", "어제 영화를 보았습니다"],
+      "hintEn": "Use yesterday (어제) + movie (영화를) + watched (봤어요).",
+      "hintId": "Gunakan kemarin (어제) + film (영화를) + menonton lampau (봤어요)."
+    }
+  },
+  {
+    "id": "ko_unit3_l1_03",
+    "pattern": "Verb/Adj Stem + ~았/었/했습니다 (Formal Polite Past Tense)",
+    "meaningEn": "Formal polite past tense conjugation.",
+    "meaningId": "Konjugasi bentuk lampau sopan formal.",
+    "notesEn": {
+      "formation": "Past Stem + ~습니다 (e.g., 갔습니다, 먹었습니다, 했습니다).",
+      "usage": "Used in official reports, speeches, presentations, and formal news broadcasts.",
+      "nuance": "High deference and formal tone reserved for structured professional settings."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Lampau + ~습니다 (contoh: 갔습니다, 먹었습니다, 했습니다).",
+      "usage": "Digunakan dalam laporan resmi, pidato, presentasi, dan siaran berita formal.",
+      "nuance": "Tingkat rasa hormat tinggi dan nada formal yang digunakan untuk situasi profesional terstruktur."
+    },
+    "examples": [
+      {
+        "hangul": "한국에 왔습니다.",
+        "romaja": "han-gug-e was-seum-ni-da.",
+        "meaningEn": "I came to Korea.",
+        "meaningId": "Saya telah datang ke Korea.",
+        "type": "statement"
+      },
+      {
+        "hangul": "회관을 출발했습니다.",
+        "romaja": "hoe-gwan-eul chul-bal-haes-seum-ni-da.",
+        "meaningEn": "We departed from the hall.",
+        "meaningId": "Kami telah berangkat dari gedung assembly.",
+        "type": "statement"
+      },
+      {
+        "hangul": "책을 읽었습니다.",
+        "romaja": "chaek-eul ilg-eos-seum-ni-da.",
+        "meaningEn": "I read the book.",
+        "meaningId": "Saya telah membaca buku itu.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which form represents the formal polite past tense of '가다'?",
+      "options": ["갔습니다", "갔어요", "갑니다", "가겠습니다"],
+      "answerIndex": 0,
+      "explanationEn": "Past stem 갔 + formal ending ~습니다 forms 갔습니다.",
+      "explanationId": "Kata dasar lampau 갔 + akhiran formal ~습니다 membentuk 갔습니다."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I came to Korea (formal). -> 한국에 왔___.",
+      "sentenceHangul": "한국에 왔___.",
+      "answer": "습니다",
+      "answerReading": "seum-ni-da",
+      "hintEn": "Attach the formal past ending to the past stem 왔.",
+      "hintId": "Tempelkan akhiran lampau formal pada kata dasar lampau 왔."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to formal Korean past tense: 'I read the book.'",
+      "promptId": "Terjemahkan ke bahasa Korea lampau formal: 'Saya telah membaca buku itu.'",
+      "answer": "책을 읽었습니다",
+      "answerReading": "chaek-eul ilg-eos-seum-ni-da",
+      "acceptableVariants": ["저는 책을 읽었습니다"],
+      "hintEn": "Use book (책을) + read past formal (읽었습니다).",
+      "hintId": "Gunakan buku (책을) + membaca lampau formal (읽었습니다)."
+    }
+  },
+  {
+    "id": "ko_unit3_l2_01",
+    "pattern": "Verb Stem + ~(으)ㄹ 것이다 / ~(으)ㄹ 거예요 (Future Tense)",
+    "meaningEn": "Future tense / Intention ('will' / 'going to').",
+    "meaningId": "Bentuk akan datang / Niat ('akan').",
+    "notesEn": {
+      "formation": "Verb Stem + ~ㄹ 것이다 (vowel stem) / ~을 것이다 (consonant stem). Spoken form: ~(으)ㄹ 거예요.",
+      "usage": "Expresses future plans, intentions, or predictions.",
+      "nuance": "~(으)ㄹ 거예요 is the standard conversational form for future actions."
+    },
+    "notesId": {
+      "formation": "Kata Dasar + ~ㄹ 것이다 (berakhiran vokal) / ~을 것이다 (berakhiran konsonan). Bentuk lisan: ~(으)ㄹ 거예요.",
+      "usage": "Mengekspresikan rencana masa depan, niat, atau prediksi.",
+      "nuance": "~(으)ㄹ 거예요 adalah bentuk percakapan standar untuk aksi masa depan."
+    },
+    "examples": [
+      {
+        "hangul": "내일 친구를 만날 거예요.",
+        "romaja": "nae-il chin-gu-reul man-nal geo-ye-yo.",
+        "meaningEn": "I will meet a friend tomorrow.",
+        "meaningId": "Saya akan bertemu teman besok.",
+        "type": "statement"
+      },
+      {
+        "hangul": "주말에 집에서 쉴 것이다.",
+        "romaja": "ju-mal-e jip-e-seo swil geos-i-da.",
+        "meaningEn": "I will rest at home on the weekend.",
+        "meaningId": "Saya akan beristirahat di rumah pada akhir pekan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "무엇을 먹을 거예요?",
+        "romaja": "mu-eos-eul meog-eul geo-ye-yo?",
+        "meaningEn": "What will you eat?",
+        "meaningId": "Apa yang akan kamu makan?",
+        "type": "question"
+      }
+    ],
+    "quiz": {
+      "question": "What is the future tense form of '먹다' in spoken style?",
+      "options": ["먹을 거예요", "먹ㄹ 거예요", "먹었어요", "먹겠어요"],
+      "answerIndex": 0,
+      "explanationEn": "먹다 stem ends in a consonant (ㄱ), so attach ~을 거예요 -> 먹을 거예요.",
+      "explanationId": "Kata dasar 먹다 berakhiran konsonan (ㄱ), jadi tempelkan ~을 거예요 -> 먹을 거예요."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I will meet a friend tomorrow. -> 내일 친구를 만나___.",
+      "sentenceHangul": "내일 친구를 만나___.",
+      "answer": "ㄹ 거예요",
+      "answerReading": "l geo-ye-yo",
+      "hintEn": "만나다 ends in a vowel (ㅏ), so attach ~ㄹ 거예요 underneath.",
+      "hintId": "만나다 berakhiran vokal (ㅏ), jadi tempelkan ~ㄹ 거예요 di bawahnya."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I will meet a friend tomorrow.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya akan bertemu teman besok.'",
+      "answer": "내일 친구를 만날 거예요",
+      "answerReading": "nae-il chin-gu-reul man-nal geo-ye-yo",
+      "acceptableVariants": ["저는 내일 친구를 만날 거예요", "내일 친구를 만날 것이다"],
+      "hintEn": "Use tomorrow (내일) + friend (친구를) + meet future (만날 거예요).",
+      "hintId": "Gunakan besok (내일) + teman (친구를) + bertemu akan datang (만날 거예요)."
+    }
+  },
+  {
+    "id": "ko_unit3_l2_02",
+    "pattern": "Verb Stem + ~겠~ / ~겠어요 (Volition / Formal Future / Presumption)",
+    "meaningEn": "Intentional future / Polite promise ('I shall' / 'I will').",
+    "meaningId": "Masa depan diniatkan / Janji sopan ('Saya akan').",
+    "notesEn": {
+      "formation": "Verb Stem + ~겠~ + speech ending (e.g., ~겠습니다, ~겠어요).",
+      "usage": "Strongly expresses the speaker's determination/will or used in announcement settings.",
+      "nuance": "More immediate and committed than ~(으)ㄹ 것이다. Commonly seen in phrases like 잘 먹겠습니다 (I will eat well)."
+    },
+    "notesId": {
+      "formation": "Kata Dasar + ~겠~ + akhiran tutur (contoh: ~겠습니다, ~겠어요).",
+      "usage": "Sangat kuat mengekspresikan tekad/kemauan pembicara atau digunakan dalam pengumuman.",
+      "nuance": "Lebih tegas dan berkomitmen daripada ~(으)ㄹ 것이다. Sering terlihat dalam frasa seperti 잘 먹겠습니다 (Saya akan makan dengan baik)."
+    },
+    "examples": [
+      {
+        "hangul": "제가 하겠습니다.",
+        "romaja": "je-ga ha-ges-seum-ni-da.",
+        "meaningEn": "I will do it.",
+        "meaningId": "Saya yang akan meakukannya.",
+        "type": "statement"
+      },
+      {
+        "hangul": "내일 다시 연락하겠습니다.",
+        "romaja": "nae-il da-si yeon-rak-ha-ges-seum-ni-da.",
+        "meaningEn": "I will contact you again tomorrow.",
+        "meaningId": "Saya akan menghubungi Anda lagi besok.",
+        "type": "statement"
+      },
+      {
+        "hangul": "잘 먹겠습니다.",
+        "romaja": "jal meog-ges-seum-ni-da.",
+        "meaningEn": "I will eat well (bon appétit/thank you).",
+        "meaningId": "Saya akan makan dengan baik (terima kasih atas makanannya).",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which particle/ending combination expresses strong personal intention to do something formally?",
+      "options": ["~겠습니다", "~었어요", "~고 싶다", "~지 않다"],
+      "answerIndex": 0,
+      "explanationEn": "~겠습니다 combines the volition suffix ~겠~ with the formal sentence ending ~습니다.",
+      "explanationId": "~겠습니다 menggabungkan akhiran niat ~겠~ dengan akhiran kalimat formal ~습니다."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I will do it (formal intention). -> 제가 하___.",
+      "sentenceHangul": "제가 하___.",
+      "answer": "겠습니다",
+      "answerReading": "ges-seum-ni-da",
+      "hintEn": "Attach ~겠습니다 to the verb stem 하.",
+      "hintId": "Tempelkan ~겠습니다 pada kata dasar 하."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I will contact you again tomorrow.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya akan menghubungi Anda lagi besok.'",
+      "answer": "내일 다시 연락하겠습니다",
+      "answerReading": "nae-il da-si yeon-rak-ha-ges-seum-ni-da",
+      "acceptableVariants": ["내일 다시 연락하겠어요", "저는 내일 다시 연락하겠습니다"],
+      "hintEn": "Use tomorrow (내일) + again (다시) + contact stem (연락하) + 겠습니다.",
+      "hintId": "Gunakan besok (내일) + lagi (다시) + kata dasar hubungi (연락하) + 겠습니다."
+    }
+  }
+]

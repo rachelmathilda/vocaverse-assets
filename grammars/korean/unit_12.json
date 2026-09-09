@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ko_unit10_l1_01",
+    "pattern": "Verb Stem + ~아/어 본 적이 있다/없다 (Past Experience 'Have/Haven't done')",
+    "meaningEn": "Expressing past experience ('have done / have never done').",
+    "meaningId": "Mengekspresikan pengalaman masa lalu ('pernah / tidak pernah melakukan').",
+    "notesEn": {
+      "formation": "Verb Stem + ~아/어 보다 + ~(으)ㄴ 적이 있다/없다.",
+      "usage": "Used to state whether one has accumulated experience of doing a specific action in the past.",
+      "nuance": "Use 있다 for 'have done' and 없다 for 'have never done'."
+    },
+    "notesId": {
+      "formation": "Kata Dasar + ~아/어 보다 + ~(으)ㄴ 적이 있다/없다.",
+      "usage": "Digunakan untuk menyatakan apakah seseorang memiliki pengalaman melakukan tindakan tertentu di masa lalu.",
+      "nuance": "Gunakan 있다 untuk 'pernah' dan 없다 untuk 'tidak pernah'."
+    },
+    "examples": [
+      {
+        "hangul": "한국에 가 본 적이 있어요.",
+        "romaja": "han-gug-e ga bon jeog-i is-seo-yo.",
+        "meaningEn": "I have been to Korea before.",
+        "meaningId": "Saya pernah pergi ke Korea.",
+        "type": "statement"
+      },
+      {
+        "hangul": "김치를 먹어 본 적이 없어요.",
+        "romaja": "gim-chi-reul meog-eo bon jeog-i eobs-eo-yo.",
+        "meaningEn": "I have never eaten kimchi.",
+        "meaningId": "Saya tidak pernah makan kimchi.",
+        "type": "statement"
+      },
+      {
+        "hangul": "이 영화를 봐 본 적이 있어요?",
+        "romaja": "i yeong-hwa-reul bwa bon jeog-i is-seo-yo?",
+        "meaningEn": "Have you ever watched this movie?",
+        "meaningId": "Apakah kamu pernah menonton film ini?",
+        "type": "question"
+      }
+    ],
+    "quiz": {
+      "question": "How do you say 'I have been to Korea' using this structure?",
+      "options": ["한국에 가 본 적이 있어요", "한국에 가고 싶어요", "한국에 가야 해요", "한국에 갈 수 있어요"],
+      "answerIndex": 0,
+      "explanationEn": "가다 transforms into 가 보다 + ~(으)ㄴ 적이 있다 -> 가 본 적이 있어요.",
+      "explanationId": "가다 berubah menjadi 가 보다 + ~(으)ㄴ 적이 있다 -> 가 본 적이 있어요."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I have been to Korea before. -> 한국에 가 본 ___이 있어요.",
+      "sentenceHangul": "한국에 가 본 ___이 있어요.",
+      "answer": "적",
+      "answerReading": "jeok",
+      "hintEn": "Insert the noun meaning 'experience/time' paired with ~(으)ㄴ.",
+      "hintId": "Masukan kata benda yang berarti 'pengalaman/waktu' yang dipasangkan dengan ~(으)ㄴ."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I have been to Korea before.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya pernah pergi ke Korea.'",
+      "answer": "한국에 가 본 적이 있어요",
+      "answerReading": "han-gug-e ga bon jeog-i is-seo-yo",
+      "acceptableVariants": ["한국에 가 본 적이 있습니다", "저는 한국에 가 본 적이 있어요"],
+      "hintEn": "Use Korea to (한국에) + go experience (가 본 적이 있어요).",
+      "hintId": "Gunakan ke Korea (한국에) + pengalaman pergi (가 본 적이 있어요)."
+    }
+  },
+  {
+    "id": "ko_unit10_l1_02",
+    "pattern": "Verb Stem + ~기로 하다 (Decision / Resolution 'Decide to')",
+    "meaningEn": "Expressing a decision, plan, or resolution ('decide to do').",
+    "meaningId": "Mengekspresikan keputusan, rencana, atau janji ('memutuskan untuk').",
+    "notesEn": {
+      "formation": "Verb Stem + ~기로 하다 (usually conjugated in past tense ~기로 했어요).",
+      "usage": "States a resolution, decision, or agreement made between people.",
+      "nuance": "Almost always used in past tense because the decision was made prior to speaking."
+    },
+    "notesId": {
+      "formation": "Kata Dasar + ~기로 하다 (biasanya dikonjugasikan dalam bentuk lampau ~기로 했어요).",
+      "usage": "Menyatakan keputusan, janji, atau kesepakatan yang telah dibuat.",
+      "nuance": "Hampir selalu digunakan dalam bentuk lampau karena keputusan telah diambil sebelum berbicara."
+    },
+    "examples": [
+      {
+        "hangul": "내일부터 운동하기로 했어요.",
+        "romaja": "nae-il-bu-teo un-dong-ha-gi-ro haes-seo-yo.",
+        "meaningEn": "I decided to exercise starting tomorrow.",
+        "meaningId": "Saya memutuskan untuk berolahraga mulai besok.",
+        "type": "statement"
+      },
+      {
+        "hangul": "주말에 친구를 만나기로 했어요.",
+        "romaja": "ju-mal-e chin-gu-reul man-na-gi-ro haes-seo-yo.",
+        "meaningEn": "I agreed to meet a friend on the weekend.",
+        "meaningId": "Saya berjanji/memutuskan untuk bertemu teman di akhir pekan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "담배를 끊기로 했어요.",
+        "romaja": "dam-bae-reul kkeun-hi-gi-ro haes-seo-yo.",
+        "meaningEn": "I decided to quit smoking.",
+        "meaningId": "Saya memutuskan untuk berhenti merokok.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which structure expresses 'I decided to exercise' using '운동하다'?",
+      "options": ["운동하기로 했어요", "운동하고 싶어요", "운동할 수 있어요", "운동해야 돼요"],
+      "answerIndex": 0,
+      "explanationEn": "Attach ~기로 했어요 to verb stem 운동하 to state a decision made.",
+      "explanationId": "Tempelkan ~기로 했어요 pada kata dasar 운동하 untuk menyatakan keputusan yang telah dibuat."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I decided to exercise starting tomorrow. -> 내일부터 운동하___ 했어요.",
+      "sentenceHangul": "내일부터 운동하___ 했어요.",
+      "answer": "기로",
+      "answerReading": "gi-ro",
+      "hintEn": "Attach decision suffix after verb stem 운동하.",
+      "hintId": "Tempelkan akhiran keputusan setelah kata dasar 운동하."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I decided to exercise starting tomorrow.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya memutuskan untuk berolahraga mulai besok.'",
+      "answer": "내일부터 운동하기로 했어요",
+      "answerReading": "nae-il-bu-teo un-dong-ha-gi-ro haes-seo-yo",
+      "acceptableVariants": ["내일부터 운동하기로 했습니다"],
+      "hintEn": "Use from tomorrow (내일부터) + exercise decision (운동하기로 했어요).",
+      "hintId": "Gunakan mulai besok (내일부터) + keputusan olahraga (운동하기로 했어요)."
+    }
+  },
+  {
+    "id": "ko_unit10_l2_01",
+    "pattern": "Plain Form + ~고 하다 (Indirect Quotation: Statement 'Says that')",
+    "meaningEn": "Reporting what someone said ('says that / said that').",
+    "meaningId": "Melaporkan apa yang dikatakan seseorang ('mengatakan bahwa').",
+    "notesEn": {
+      "formation": "Present Verb: ~(ㄴ/느)ㄴ다고 하다 / Adjective: ~다고 하다 / Noun: ~(이)라고 하다 / Past: ~았/했다고 하다.",
+      "usage": "Used to pass on information or statements heard from another person.",
+      "nuance": "In casual speaking, ~고 하다 often contracts to ~대(요)."
+    },
+    "notesId": {
+      "formation": "Kata Kerja Present: ~(ㄴ/느)ㄴ다고 하다 / Kata Sifat: ~다고 하다 / Kata Benda: ~(이)라고 하다 / Lampau: ~았/했다고 하다.",
+      "usage": "Digunakan untuk menyampaikan informasi atau pernyataan yang didengar dari orang lain.",
+      "nuance": "Dalam percakapan santai, ~고 하다 sering disingkat menjadi ~대(요)."
+    },
+    "examples": [
+      {
+        "hangul": "민수 씨가 내일 바쁘다고 해요.",
+        "romaja": "min-su ssi-ga nae-il ba-ppeu-da-go hae-yo.",
+        "meaningEn": "Minsu says that he is busy tomorrow.",
+        "meaningId": "Minsu mengatakan bahwa dia sibuk besok.",
+        "type": "statement"
+      },
+      {
+        "hangul": "선생님이 한국에 간다고 했어요.",
+        "romaja": "seon-saeng-nim-i han-gug-e gan-da-go haes-seo-yo.",
+        "meaningEn": "The teacher said that they are going to Korea.",
+        "meaningId": "Guru mengatakan bahwa beliau akan pergi ke Korea.",
+        "type": "statement"
+      },
+      {
+        "hangul": "이것이 한국 음식이라고 해요.",
+        "romaja": "i-geos-i han-guk eum-sig-i-ra-go hae-yo.",
+        "meaningEn": "They say that this is Korean food.",
+        "meaningId": "Mereka mengatakan bahwa ini adalah makanan Korea.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "How do you indirectly quote an adjective like '바쁘다' (to be busy)?",
+      "options": ["바쁘다고 해요", "바쁜다고 해요", "바쁘라고 해요", "바쁘자고 해요"],
+      "answerIndex": 0,
+      "explanationEn": "Adjectives take ~다고 하다 directly in present plain form: 바쁘다고 해요.",
+      "explanationId": "Kata sifat menggunakan ~다고 하다 secara langsung dalam bentuk plain present: 바쁘다고 해요."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "Minsu says that he is busy tomorrow. -> 민수 씨가 내일 바쁘___ 해요.",
+      "sentenceHangul": "민수 씨가 내일 바쁘___ 해요.",
+      "answer": "다고",
+      "answerReading": "da-go",
+      "hintEn": "Attach indirect quotation suffix for adjectives.",
+      "hintId": "Tempelkan akhiran kutipan tidak langsung untuk kata sifat."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'Minsu says that he is busy tomorrow.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Minsu mengatakan bahwa dia sibuk besok.'",
+      "answer": "민수 씨가 내일 바쁘다고 해요",
+      "answerReading": "min-su ssi-ga nae-il ba-ppeu-da-go hae-yo",
+      "acceptableVariants": ["민수 씨가 내일 바쁘다고 합니다", "민수 씨는 내일 바쁘다고 해요"],
+      "hintEn": "Use Minsu (민수 씨가) + tomorrow (내일) + busy reported (바쁘다고 해요).",
+      "hintId": "Gunakan Minsu (민수 씨가) + besok (내일) + laporan sibuk (바쁘다고 해요)."
+    }
+  },
+  {
+    "id": "ko_unit10_l2_02",
+    "pattern": "Verb Stem + ~(으)냐고 하다/묻다 (Indirect Quotation: Question 'Asked whether')",
+    "meaningEn": "Reporting a question that was asked ('asked whether / asked if').",
+    "meaningId": "Melaporkan pertanyaan yang diajukan ('menanyakan apakah').",
+    "notesEn": {
+      "formation": "Verb Stem + ~(으)냐고 하다/묻다 (or ~냐고 하다 for vowels/adjectives).",
+      "usage": "Used to pass on a question that someone else asked.",
+      "nuance": "In casual spoken Korean, ~냐고 하다 is frequently contracted to ~냬(요)."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja + ~(으)냐고 하다/묻다 (atau ~냐고 하다 untuk vokal/kata sifat).",
+      "usage": "Digunakan untuk menyampaikan kembali pertanyaan yang diajukan orang lain.",
+      "nuance": "Dalam bahasa lisan santai, ~냐고 하다 sering disingkat menjadi ~냬(요)."
+    },
+    "examples": [
+      {
+        "hangul": "친구 가 어디에 가냐고 물었어요.",
+        "romaja": "chin-gu-ga eo-di-e ga-nya-go mu-reos-seo-yo.",
+        "meaningEn": "My friend asked where I was going.",
+        "meaningId": "Teman saya bertanya ke mana saya pergi.",
+        "type": "statement"
+      },
+      {
+        "hangul": "한국어를 배우냐고 했어요.",
+        "romaja": "han-guk-eo-reul bae-u-nya-go haes-seo-yo.",
+        "meaningEn": "They asked if I was learning Korean.",
+        "meaningId": "Mereka bertanya apakah saya belajar bahasa Korea.",
+        "type": "statement"
+      },
+      {
+        "hangul": "시간이 있냐고 물어봤어요.",
+        "romaja": "si-gan-i in-nya-go mu-reo-bwas-seo-yo.",
+        "meaningEn": "He asked if I had time.",
+        "meaningId": "Dia bertanya apakah ada waktu.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which suffix is used to quote a question indirectly?",
+      "options": ["~(으)냐고 하다", "~다고 하다", "~자고 하다", "~라고 하다"],
+      "answerIndex": 0,
+      "explanationEn": "~(으)냐고 하다 is specifically used to relay questions indirectly.",
+      "explanationId": "~(으)냐고 하다 digunakan khusus untuk menyampaikan pertanyaan secara tidak langsung."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "My friend asked where I was going. -> 친구가 어디에 가___ 물었어요.",
+      "sentenceHangul": "친구가 어디에 가___ 물었어요.",
+      "answer": "냐고",
+      "answerReading": "nya-go",
+      "hintEn": "Attach indirect question reporting suffix to verb stem 가.",
+      "hintId": "Tempelkan akhiran laporan pertanyaan tidak langsung pada kata dasar 가."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'My friend asked where I was going.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Teman saya bertanya ke mana saya pergi.'",
+      "answer": "친구가 어디에 가냐고 물었어요",
+      "answerReading": "chin-gu-ga eo-di-e ga-nya-go mu-reos-seo-yo",
+      "acceptableVariants": ["친구가 어디 가냐고 물었어요", "친구가 어디에 가냐고 했습니다"],
+      "hintEn": "Use friend (친구가) + where to (어디에) + going reported question (가냐고 물었어요).",
+      "hintId": "Gunakan teman (친구가) + ke mana (어디에) + laporan pertanyaan pergi (가냐고 물었어요)."
+    }
+  },
+  {
+    "id": "ko_unit10_l2_03",
+    "pattern": "Verb Stem + ~(으)라고 하다 / ~자고 하다 (Indirect Quotation: Imperative & Suggestion)",
+    "meaningEn": "Reporting commands/requests ('told to') and suggestions ('suggested to').",
+    "meaningId": "Melaporkan perintah/permintaan ('menyuruh untuk') dan usulan ('mengajak untuk').",
+    "notesEn": {
+      "formation": "Imperative: ~(으)라고 하다. Suggestion: ~자고 하다.",
+      "usage": "Relays commands (~(으)라고 하다) or suggestions (~자고 하다) made by another person.",
+      "nuance": "For negative commands ('told not to'), use ~지 말라고 하다."
+    },
+    "notesId": {
+      "formation": "Perintah: ~(으)라고 하다. Usulan: ~자고 하다.",
+      "usage": "Menyampaikan kembali perintah (~(으)라고 하다) atau usulan (~자고 하다) dari orang lain.",
+      "nuance": "Untuk perintah negatif ('disuruh jangan'), gunakan ~지 말라고 하다."
+    },
+    "examples": [
+      {
+        "hangul": "선생님이 숙제를 하라고 했어요.",
+        "romaja": "seon-saeng-nim-i suk-je-reul ha-ra-go haes-seo-yo.",
+        "meaningEn": "The teacher told us to do the homework.",
+        "meaningId": "Guru menyuruh kami mengerjakan PR.",
+        "type": "statement"
+      },
+      {
+        "hangul": "친구 가 같이 밥을 먹자고 했어요.",
+        "romaja": "chin-gu-ga gat-i bap-eul meok-ja-go haes-seo-yo.",
+        "meaningEn": "My friend suggested that we eat together.",
+        "meaningId": "Teman saya mengajak makan bersama.",
+        "type": "statement"
+      },
+      {
+        "hangul": "의사 선생님이 담배를 피우지 말라고 했어요.",
+        "romaja": "ui-sa seon-saeng-nim-i dam-bae-reul pi-u-ji mal-ra-go haes-seo-yo.",
+        "meaningEn": "The doctor told me not to smoke.",
+        "meaningId": "Dokter melarang/menyuruh saya tidak merokok.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which structure means 'My friend suggested eating together'?",
+      "options": ["같이 밥을 먹자고 했어요", "같이 밥을 먹으라고 했어요", "같이 밥을 먹냐고 했어요", "같이 밥을 먹တယ်고 했어요"],
+      "answerIndex": 0,
+      "explanationEn": "~자고 하다 is used to report proposals or suggestions ('Let's...').",
+      "explanationId": "~자고 하다 digunakan untuk melaporkan usulan atau ajakan ('Mari...')."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "The teacher told us to do homework. -> 선생님이 숙제를 하___ 했어요.",
+      "sentenceHangul": "선생님이 숙제를 하___ 했어요.",
+      "answer": "라고",
+      "answerReading": "ra-go",
+      "hintEn": "Attach imperative indirect quotation suffix after vowel stem 하.",
+      "hintId": "Tempelkan akhiran kutipan perintah tidak langsung setelah kata dasar vokal 하."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'My friend suggested that we eat together.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Teman saya mengajak makan bersama.'",
+      "answer": "친구가 같이 밥을 먹자고 했어요",
+      "answerReading": "chin-gu-ga gat-i bap-eul meok-ja-go haes-seo-yo",
+      "acceptableVariants": ["친구가 함께 밥을 먹자고 했어요", "친구가 같이 밥을 먹자고 했습니다"],
+      "hintEn": "Use friend (친구가) + together (같이) + meal (밥을) + suggested eating (먹자고 했어요).",
+      "hintId": "Gunakan teman (친구가) + bersama (같이) + nasi/makanan (밥을) + ajakan makan (먹자고 했어요)."
+    }
+  }
+]

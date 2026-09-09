@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ko_unit16_l1_01",
+    "pattern": "Verb Stem + ~(으)ㄹ 겸 (To Do X and Also Y / Dual Purpose)",
+    "meaningEn": "Expressing dual purpose or intention ('to do X and also Y / concurrently').",
+    "meaningId": "Mengekspresikan maksud atau tujuan ganda ('sekalian untuk X dan juga Y').",
+    "notesEn": {
+      "formation": "Vowel stem -> ~ㄹ 겸 / Consonant stem -> ~을 겸. Often repeated: V1~(으)ㄹ 겸 V2~(으)ㄹ 겸.",
+      "usage": "Used when an action is taken to accomplish two aims at the same time.",
+      "nuance": "Implies killing two birds with one stone."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~ㄹ 겸 / Kata Dasar berakhiran Konsonan -> ~을 겸. Sering diulang: V1~(으)ㄹ 겸 V2~(으)ㄹ 겸.",
+      "usage": "Digunakan ketika suatu tindakan dilakukan untuk mencapai dua tujuan secara bersamaan.",
+      "nuance": "Menyiratkan menyelam sambil minum air (sekali dayung dua tiga pulau terlampaui)."
+    },
+    "examples": [
+      {
+        "hangul": "산책도 할 겸 장도 볼 겸 나갔다 왔어요.",
+        "romaja": "san-chaek-do hal gyeom jang-do bol gyeom na-gat-da wat-seo-yo.",
+        "meaningEn": "I went out to take a walk and also do some grocery shopping.",
+        "meaningId": "Saya keluar sekalian untuk jalan-jalan dan juga belanja bulanan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "기분 전환도 할 겸 여행을 떠났어요.",
+        "romaja": "gi-bun jeon-hwan-do hal gyeom yeo-haeng-eul tteo-nat-seo-yo.",
+        "meaningEn": "I went on a trip to refresh my mind (and for other reasons).",
+        "meaningId": "Saya pergi berlibur sekalian untuk menyegarkan pikiran.",
+        "type": "statement"
+      },
+      {
+        "hangul": "한국어 공부도 할 겸 한국 드라마를 봐요.",
+        "romaja": "han-gug-eo gong-bu-do hal gyeom han-guk deu-ra-ma-reul bwa-yo.",
+        "meaningEn": "I watch Korean dramas to study Korean as well.",
+        "meaningId": "Saya menonton drama Korea sekalian untuk belajar bahasa Korea.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which connector indicates doing an action for two concurrent purposes?",
+      "options": ["~(으)ㄹ 겸", "~(으)ㄹ 리가 없다", "~기 마련이다", "~는 바람에"],
+      "answerIndex": 0,
+      "explanationEn": "~(으)ㄹ 겸 is used to state dual intentions or multi-purpose actions.",
+      "explanationId": "~(으)ㄹ 겸 digunakan untuk menyatakan niat ganda atau tindakan bertujuan ganda."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I went out to take a walk and also do grocery shopping. -> 산책도 할 ___ 장도 볼 겸 나갔다 왔어요.",
+      "sentenceHangul": "산책도 할 ___ 장도 볼 겸 나갔다 왔어요.",
+      "answer": "겸",
+      "answerReading": "gyeom",
+      "hintEn": "Insert bound noun expressing dual purpose.",
+      "hintId": "Masukan kata benda terikat yang mengekspresikan tujuan ganda."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I went out to take a walk and also do grocery shopping.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya keluar sekalian untuk jalan-jalan dan juga belanja.'",
+      "answer": "산책도 할 겸 장도 볼 겸 나갔다 왔어요",
+      "answerReading": "san-chaek-do hal gyeom jang-do bol gyeom na-gat-da wat-seo-yo",
+      "acceptableVariants": ["산책도 할 겸 장도 볼 겸 나갔다 왔습니다"],
+      "hintEn": "Use walk also (산책도) + dual purpose (할 겸) + groceries also (장도) + dual purpose (볼 겸) + went out and came back (나갔다 왔어요).",
+      "hintId": "Gunakan jalan-jalan juga (산책도) + tujuan ganda (할 겸) + belanja juga (장도) + tujuan ganda (볼 겸) + keluar lalu pulang (나갔다 왔어요)."
+    }
+  },
+  {
+    "id": "ko_unit16_l1_02",
+    "pattern": "Verb Stem + ~기 짝이 없다 (Incomparably / Incredibly - Extreme Degree)",
+    "meaningEn": "Expressing an unmatched or extreme level of an emotion or state ('incredibly / beyond measure').",
+    "meaningId": "Mengekspresikan tingkat emosi atau kondisi yang tidak ada tandingannya/sangat ekstrem ('sangat luar biasa / tak tertandingi').",
+    "notesEn": {
+      "formation": "Verb/Adj Stem + ~기 짝이 없다.",
+      "usage": "Used with descriptive verbs to express an extreme state or feeling.",
+      "nuance": "짝 means 'pair/match'. Literally means 'there is no match for this degree'."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja/Sifat + ~기 짝이 없다.",
+      "usage": "Digunakan dengan kata kerja deskriptif untuk mengekspresikan kondisi atau perasaan yang sangat ekstrem.",
+      "nuance": "짝 berarti 'pasangan/tandingan'. Secara harfiah berarti 'tidak ada tandingannya untuk tingkat ini'."
+    },
+    "examples": [
+      {
+        "hangul": "시험 결과가 안 좋아서 안타깝기 짝이 없어요.",
+        "romaja": "si-heom gyeol-gwa-ga an jo-a-seo an-ta-kkap-gi jjak-i eobs-eo-yo.",
+        "meaningEn": "Because the test result was bad, I feel incredibly regretful.",
+        "meaningId": "Karena hasil ujiannya buruk, saya merasa sangat amat menyesal.",
+        "type": "statement"
+      },
+      {
+        "hangul": "그의 행동은 무례하기 짝이 없었습니다.",
+        "romaja": "geu-ui haeng-dong-eun mu-rye-ha-gi jjak-i eobs-eos-seum-ni-da.",
+        "meaningEn": "His behavior was beyond rude.",
+        "meaningId": "Tindakannya sungguh sangat tidak sopan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "도와주셔서 반갑고 고맙기 짝이 없습니다.",
+        "romaja": "do-wa-ju-syeo-seo ban-gap-go go-map-gi jjak-i eobs-seum-ni-da.",
+        "meaningEn": "I am matchlessly grateful for your help.",
+        "meaningId": "Saya sangat amat berterima kasih atas bantuan Anda.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What is the literal background of '~기 짝이 없다'?",
+      "options": ["There is no match/pair for this extreme degree", "There is no reason to do it", "There is no time left", "There is no other option"],
+      "answerIndex": 0,
+      "explanationEn": "짝 means match/pair; ~기 짝이 없다 means something is unmatched in its intensity.",
+      "explanationId": "짝 berarti tandingan/pasangan; ~기 짝이 없다 berarti sesuatu tidak ada tandingannya dalam hal intensitas."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "His behavior was beyond rude. -> 그의 행동은 무례하기 ___ 없었습니다.",
+      "sentenceHangul": "그의 행동은 무례하기 ___ 없었습니다.",
+      "answer": "짝이",
+      "answerReading": "jjak-i",
+      "hintEn": "Insert bound noun 'match/pair' with subject particle.",
+      "hintId": "Masukan kata benda terikat 'tandingan/pasangan' dengan partikel subjek."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'His behavior was beyond rude.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Tindakannya sungguh sangat tidak sopan.'",
+      "answer": "그의 행동은 무례하기 짝이 없었습니다",
+      "answerReading": "geu-ui haeng-dong-eun mu-rye-ha-gi jjak-i eobs-eos-seum-ni-da",
+      "acceptableVariants": ["그의 행동은 무례하기 짝이 없어요"],
+      "hintEn": "Use his behavior (그의 행동은) + rude (무례하기) + matchless (짝이 없었습니다).",
+      "hintId": "Gunakan tindakannya (그의 행동은) + tidak sopan (무례하기) + tiada tandingan (짝이 없었습니다)."
+    }
+  },
+  {
+    "id": "ko_unit16_l2_01",
+    "pattern": "Verb Stem + ~아/어 마지않다 (From the Bottom of My Heart / Never Cease To)",
+    "meaningEn": "Expressing deep, heartfelt continuous feeling or action ('do without stopping / sincerely').",
+    "meaningId": "Mengekspresikan perasaan atau tindakan yang sangat mendalam dan tulus dari lubuk hati ('tidak hentinya / dari lubuk hati').",
+    "notesEn": {
+      "formation": "Verb Stem + ~아/어 마지않다.",
+      "usage": "High literary, formal expression used almost exclusively with emotional/relational verbs like 축하하다 (congratulate), 감사하다 (thank), 기대하다 (anticipate).",
+      "nuance": "Carries high reverence and formal elegance."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja + ~아/어 마지않다.",
+      "usage": "Ekspresi formal/sastra tingkat tinggi yang hampir secara eksklusif digunakan dengan kata kerja emosional/relasional seperti 축하하다 (mengaruniakan selamat), 감사하다 (berterima kasih), 기대하다 (menantikan).",
+      "nuance": "Memiliki rasa hormat yang tinggi dan keanggunan formal."
+    },
+    "examples": [
+      {
+        "hangul": "합격을 진심으로 축하해 마지않습니다.",
+        "romaja": "hap-gyeok-eul jin-sim-eu-ro chuk-ha-hae ma-ji-ans-seum-ni-da.",
+        "meaningEn": "I congratulate you on passing from the bottom of my heart.",
+        "meaningId": "Saya mengucapkan selamat atas kelulusan Anda dari lubuk hati yang paling dalam.",
+        "type": "statement"
+      },
+      {
+        "hangul": "선생님의 은혜에 감사해 마지않습니다.",
+        "romaja": "seon-saeng-nim-ui eun-hye-e gam-sa-hae ma-ji-ans-seum-ni-da.",
+        "meaningEn": "I never cease to be grateful for your grace, teacher.",
+        "meaningId": "Saya tak henti-hentinya berterima kasih atas kebaikan Anda, Guru.",
+        "type": "statement"
+      },
+      {
+        "hangul": "앞날에 영광이 있기를 기대해 마지않습니다.",
+        "romaja": "am-nal-e yeong-gwang-i it-gi-reul gi-dae-hae ma-ji-ans-seum-ni-da.",
+        "meaningEn": "I sincerely anticipate glory in your future.",
+        "meaningId": "Saya sungguh menantikan kemuliaan pada masa depan Anda.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which verb pattern conveys 'heartfelt, unceasing congratulation/gratitude' in formal speeches?",
+      "options": ["~아/어 마지않다", "~기 짝이 없다", "~(으)ㄹ 겸", "~기 마련이다"],
+      "answerIndex": 0,
+      "explanationEn": "~아/어 마지않다 expresses heartfelt, unceasing feelings in high formal settings.",
+      "explanationId": "~아/어 마지않다 mengekspresikan perasaan tulus yang tak henti-hentinya dalam situasi formal tinggi."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I congratulate you on passing from the bottom of my heart. -> 합격을 진심으로 축하해 ___.",
+      "sentenceHangul": "합격을 진심으로 축하해 ___.",
+      "answer": "마지않습니다",
+      "answerReading": "ma-ji-ans-seum-ni-da",
+      "hintEn": "Insert formal unceasing feeling ending.",
+      "hintId": "Masukan akhiran perasaan tak henti-henti formal."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean (formal high): 'I congratulate you on passing from the bottom of my heart.'",
+      "promptId": "Terjemahkan ke bahasa Korea (formal tingkat tinggi): 'Saya mengucapkan selamat atas kelulusan Anda dari lubuk hati yang paling dalam.'",
+      "answer": "합격을 진심으로 축하해 마지않습니다",
+      "answerReading": "hap-gyeok-eul jin-sim-eu-ro chuk-ha-hae ma-ji-ans-seum-ni-da",
+      "acceptableVariants": ["진심으로 합격을 축하해 마지않습니다"],
+      "hintEn": "Use passing (합격을) + sincerely (진심으로) + congratulate (축하해) + unceasingly (마지않습니다).",
+      "hintId": "Gunakan kelulusan (합격을) + dengan tulus (진심으로) + mengucapkan selamat (축하해) + tak henti-hentinya (마지않습니다)."
+    }
+  },
+  {
+    "id": "ko_unit16_l2_02",
+    "pattern": "Verb Stem + ~을/ㄹ 리 만무하다 (No Possibility Whatsoever / Highly Improbable)",
+    "meaningEn": "Expressing that there is zero logic or possibility for a scenario ('absolutely no way').",
+    "meaningId": "Mengekspresikan bahwa sama sekali tidak ada logika atau kemungkinan untuk suatu skenario ('sama sekali tidak mungkin').",
+    "notesEn": {
+      "formation": "Vowel stem -> ~ㄹ 리 만무하다 / Consonant stem -> ~을 리 만무하다.",
+      "usage": "An advanced, emphatic form of ~(으)ㄹ 리가 없다.",
+      "nuance": "만무 (萬無) literally means 'ten thousand lacks/nothings'—meaning 100% absence of possibility."
+    },
+    "notesId": {
+      "formation": "Kata Dasar berakhiran Vokal -> ~ㄹ 리 만무하다 / Kata Dasar berakhiran Konsonan -> ~을 리 만무하다.",
+      "usage": "Bentuk penegas tingkat lanjut dari ~(으)ㄹ 리가 없다.",
+      "nuance": "만무 (萬無) secara harfiah berarti 'sepuluh ribu ketiadaan'—yang berarti 100% tidak ada kemungkinan."
+    },
+    "examples": [
+      {
+        "hangul": "그 사람이 제안을 받아들일 리 만무합니다.",
+        "romaja": "geu sa-ram-i je-an-eul ba-da-deu-ril ri man-mu-ham-ni-da.",
+        "meaningEn": "There is absolutely no way that person will accept the proposal.",
+        "meaningId": "Sama sekali tidak ada kemungkinan orang itu akan menerima usulan tersebut.",
+        "type": "statement"
+      },
+      {
+        "hangul": "이 시간에 가게가 문을 열었을 리 만무해요.",
+        "romaja": "i si-gan-e ga-ge-ga mun-eul yeol-eoss-eul ri man-mu-hae-yo.",
+        "meaningEn": "There is zero chance the store is open at this hour.",
+        "meaningId": "Sama sekali tidak mungkin toko buka pada jam segini.",
+        "type": "statement"
+      },
+      {
+        "hangul": "그런 거짓말에 속을 리 만무하지요.",
+        "romaja": "geu-reon geo-jit-mal-e sok-eul ri man-mu-ha-ji-yo.",
+        "meaningEn": "There is no way anyone would be fooled by such a lie.",
+        "meaningId": "Tentu saja sama sekali tidak mungkin ada yang tertipu oleh kebohongan seperti itu.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What does '만무하다' mean in '~ㄹ 리 만무하다'?",
+      "options": ["To have absolutely zero possibility", "To have abundant reasons", "To be extremely expensive", "To happen very frequently"],
+      "answerIndex": 0,
+      "explanationEn": "만무하다 reinforces ~(으)ㄹ 리가 없다 by declaring absolute zero chance.",
+      "explanationId": "만무하다 memperkuat ~(으)ㄹ 리가 없다 dengan menyatakan nol kemungkinan mutlak."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "There is zero chance the store is open at this hour. -> 이 시간에 가게가 문을 열었을 리 ___.",
+      "sentenceHangul": "이 시간에 가게가 문을 열었을 리 ___.",
+      "answer": "만무해요",
+      "answerReading": "man-mu-hae-yo",
+      "hintEn": "Insert advanced adjective meaning 'has zero possibility'.",
+      "hintId": "Masukan kata sifat tingkat lanjut yang berarti 'sama sekali tidak ada kemungkinan'."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'There is zero chance the store is open at this hour.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Sama sekali tidak mungkin toko buka pada jam segini.'",
+      "answer": "이 시간에 가게가 문을 열었을 리 만무해요",
+      "answerReading": "i si-gan-e ga-ge-ga mun-eul yeol-eoss-eul ri man-mu-hae-yo",
+      "acceptableVariants": ["이 시간에 가게가 문을 열었을 리 만무합니다"],
+      "hintEn": "Use at this hour (이 시간에) + store (가게가) + opened door past modifier (문을 열었을) + zero possibility (리 만무해요).",
+      "hintId": "Gunakan pada jam segini (이 시간에) + toko (가게가) + penjelas buka pintu lampau (문을 열었을) + sama sekali tak mungkin (리 만무해요)."
+    }
+  },
+  {
+    "id": "ko_unit16_l2_03",
+    "pattern": "Verb Stem + ~(으)ㄹ 따름이다 vs ~(으)ㄹ 지경이다 (Extreme State Comparison)",
+    "meaningEn": "Expressing being on the verge of a physical/mental state ('on the point of / about to').",
+    "meaningId": "Mengekspresikan berada di ambang suatu kondisi fisik/mental ('sampai-sampai mau / hampir / serasa mau').",
+    "notesEn": {
+      "formation": "Verb Stem + ~(으)ㄹ 지경이다.",
+      "usage": "Hyperbolically describes extreme fatigue, pain, sadness, or stress.",
+      "nuance": "지경 means 'boundary/situation'. Literally 'arrived at the edge/verge of X'."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja + ~(으)ㄹ 지경이다.",
+      "usage": "Secara hiperbolis menggambarkan kelelahan, rasa sakit, kesedihan, atau stres yang sangat ekstrem.",
+      "nuance": "지경 berarti 'batasan/situasi'. Secara harfiah 'tiba di ambang/tepi X'."
+    },
+    "examples": [
+      {
+        "hangul": "너무 힘들어 쓰러질 지경이에요.",
+        "romaja": "neo-mu him-deu-reo sseu-reo-jil ji-gyeong-i-e-yo.",
+        "meaningEn": "It is so exhausting that I am on the verge of collapsing.",
+        "meaningId": "Sangat lelah sampai-sampai rasanya mau pingsan/roboh.",
+        "type": "statement"
+      },
+      {
+        "hangul": "배가 고파서 죽을 지경입니다.",
+        "romaja": "bae-ga go-pa-seo jug-eul ji-gyeong-im-ni-da.",
+        "meaningEn": "I am so hungry I feel on the verge of dying.",
+        "meaningId": "Saya sangat lapar sampai rasanya mau mati.",
+        "type": "statement"
+      },
+      {
+        "hangul": "답답해서 미칠 지경이에요.",
+        "romaja": "dap-dap-hae-seo mi-chil ji-gyeong-i-e-yo.",
+        "meaningEn": "It's so frustrating that I am about to go crazy.",
+        "meaningId": "Sangat frustrasi sampai rasanya mau gila.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What does '~지경이다' describe?",
+      "options": ["Being on the verge/edge of a physical or mental state", "Making a firm future resolution", "Asking someone for permission", "Granting an exception to a rule"],
+      "answerIndex": 0,
+      "explanationEn": "~(으)ㄹ 지경이다 expresses being hyper-climaxed at the brink/verge of a state.",
+      "explanationId": "~(으)ㄹ 지경이다 mengekspresikan kondisi yang berada di batas ambang/puncak suatu situasi."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "It's so frustrating that I am about to go crazy. -> 답답해서 미칠 ___이에요.",
+      "sentenceHangul": "답답해서 미칠 ___이에요.",
+      "answer": "지경",
+      "answerReading": "ji-gyeong",
+      "hintEn": "Insert bound noun meaning 'verge/boundary'.",
+      "hintId": "Masukan kata benda terikat yang berarti 'ambang/batasan'."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'It is so exhausting that I am on the verge of collapsing.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Sangat lelah sampai-sampai rasanya mau pingsan.'",
+      "answer": "너무 힘들어 쓰러질 지경이에요",
+      "answerReading": "neo-mu him-deu-reo sseu-reo-jil ji-gyeong-i-e-yo",
+      "acceptableVariants": ["너무 힘들어서 쓰러질 지경이에요", "너무 힘들어서 쓰러질 지경입니다"],
+      "hintEn": "Use too hard (너무 힘들어) + collapse modifier (쓰러질) + verge of (지경이에요).",
+      "hintId": "Gunakan sangat lelah (너무 힘들어) + penjelas pingsan (쓰러질) + ambang (지경이에요)."
+    }
+  }
+]

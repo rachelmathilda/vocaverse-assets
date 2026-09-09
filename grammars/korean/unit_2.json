@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ko_unit2_l1_01",
+    "pattern": "Action Verb + ~는다 / ~ㄴ다 (Plain Present Tense Form)",
+    "meaningEn": "Basic plain present tense declaration for action verbs.",
+    "meaningId": "Bentuk deklaratif datar waktu sekarang untuk kata kerja aksi.",
+    "notesEn": {
+      "formation": "Verb Stem + ~는다 (if stem ends in consonant) / ~ㄴ다 (if stem ends in vowel).",
+      "usage": "Used in written Korean, plain/impersonal declarations, diaries, news, or informal self-talk.",
+      "nuance": "This is the non-polite plain form (해라체/plain form). Do not confuse with honorific/polite endings like ~아/어/해요 or ~습니다."
+    },
+    "notesId": {
+      "formation": "Katak Dasar Kata Kerja + ~는다 (jika akhiran konsonan) / ~ㄴ다 (jika akhiran vokal).",
+      "usage": "Digunakan dalam tulisan bahasa Korea, deklarasi polos/impersonal, diari, berita, atau berbicara sendiri.",
+      "nuance": "Ini adalah bentuk polos tidak resmi (해라체/plain form). Jangan tertukar dengan akhiran sopan seperti ~아/어/해요 atau ~습니다."
+    },
+    "examples": [
+      {
+        "hangul": "나는밥을먹는다.",
+        "romaja": "na-neun bap-eul meong-neun-da.",
+        "meaningEn": "I eat rice / food.",
+        "meaningId": "Saya makan nasi / makanan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "나는학교에간다.",
+        "romaja": "na-neun hak-gyo-e gan-da.",
+        "meaningEn": "I go to school.",
+        "meaningId": "Saya pergi ke sekolah.",
+        "type": "statement"
+      },
+      {
+        "hangul": "아이들이운다.",
+        "romaja": "a-i-deul-i un-da.",
+        "meaningEn": "The children cry.",
+        "meaningId": "Anak-anak menangis.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "How do you conjugate the verb '읽다' (to read) into the plain present tense form?",
+      "options": ["읽는다", "읽다", "읽ㄴ다", "읽어요"],
+      "answerIndex": 0,
+      "explanationEn": "The verb stem 읽 ends in a consonant, so ~는다 is attached -> 읽는다.",
+      "explanationId": "Katas dasar 읽 berakhiran konsonan, sehingga ~는다 ditempelkan -> 읽는다."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I go to school. -> 나는 학교에 가___.",
+      "sentenceHangul": "나는 학교에 가___.",
+      "answer": "ㄴ다",
+      "answerReading": "n-da",
+      "hintEn": "The stem 가 ends in a vowel, so attach ~ㄴ다.",
+      "hintId": "Kata dasar 가 berakhiran vokal, jadi tempelkan ~ㄴ다."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean plain present tense: 'I eat rice.'",
+      "promptId": "Terjemahkan ke bahasa Korea bentuk polos sekarang: 'Saya makan nasi.'",
+      "answer": "나는 밥을 먹는다",
+      "answerReading": "na-neun bap-eul meong-neun-da",
+      "acceptableVariants": ["내가 밥을 먹는다"],
+      "hintEn": "Use 나는 + rice (밥) + object particle 을 + 먹다 conjugated with ~는다.",
+      "hintId": "Gunakan 나는 + nasi (밥) + partikel objek 을 + 먹다 yang dikonjugasi dengan ~는다."
+    }
+  },
+  {
+    "id": "ko_unit2_l1_02",
+    "pattern": "Verb Stem + ~아/어/해요 (Informal Polite Present Tense)",
+    "meaningEn": "Informal polite present tense conjugation.",
+    "meaningId": "Konjugasi waktu sekarang sopan informal.",
+    "notesEn": {
+      "formation": "If stem vowel is ㅏ or ㅗ -> add ~아요. Otherwise -> add ~어요. If stem ends in 하다 -> becomes 해요.",
+      "usage": "The most standard daily spoken Korean ending for polite, friendly conversation.",
+      "nuance": "Essential standard polite style (해요체). Used when speaking to acquaintances, colleagues, or strangers politely."
+    },
+    "notesId": {
+      "formation": "Jika vokal kata dasar ㅏ atau ㅗ -> tambahkan ~아요. Selain itu -> tambahkan ~어요. Jika berakhiran 하다 -> menjadi 해요.",
+      "usage": "Akhiran bahasa Korea lisan harian paling standar untuk percakapan sopan dan ramah.",
+      "nuance": "Gaya sopan standar yang sangat penting (해요체). Digunakan saat berbicara dengan kenalan, rekan kerja, atau orang asing secara sopan."
+    },
+    "examples": [
+      {
+        "hangul": "저는 사과를 먹어요.",
+        "romaja": "jeo-neun sa-gwa-reul meog-eo-yo.",
+        "meaningEn": "I eat an apple.",
+        "meaningId": "Saya makan apel.",
+        "type": "statement"
+      },
+      {
+        "hangul": "친구를 만나요.",
+        "romaja": "chin-gu-reul man-na-yo.",
+        "meaningEn": "I meet a friend.",
+        "meaningId": "Saya bertemu teman.",
+        "type": "statement"
+      },
+      {
+        "hangul": "매일 공부해요.",
+        "romaja": "mae-il gong-bu-hae-yo.",
+        "meaningEn": "I study every day.",
+        "meaningId": "Saya belajar setiap hari.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "What is the ~아/어/해요 form of the verb '공부하다' (to study)?",
+      "options": ["공부해요", "공부하요", "공부했어요", "공부아요"],
+      "answerIndex": 0,
+      "explanationEn": "Verbs ending in 하다 always conjugate to 해요 in the informal polite style.",
+      "explanationId": "Kata kerja berakhiran 하다 selalu dikonjugasikan menjadi 해요 dalam gaya sopan informal."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I meet a friend. -> 친구를 만나___.",
+      "sentenceHangul": "친구를 만나___.",
+      "answer": "요",
+      "answerReading": "yo",
+      "hintEn": "만나다 already contains ㅏ, so adding ~아요 merges into 만나 + 요.",
+      "hintId": "만나다 sudah mengandung ㅏ, jadi penambahan ~아요 melebur menjadi 만나 + 요."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean (informal polite): 'I eat an apple.'",
+      "promptId": "Terjemahkan ke bahasa Korea (sopan informal): 'Saya makan apel.'",
+      "answer": "저는 사과를 먹어요",
+      "answerReading": "jeo-neun sa-gwa-reul meog-eo-yo",
+      "acceptableVariants": ["나는 사과를 먹어요", "사과를 먹어요"],
+      "hintEn": "Use 저는 + apple (사과) + object particle 를 + 먹다 conjugated as 먹어요.",
+      "hintId": "Gunakan 저는 + apel (사과) + partikel objek 를 + 먹다 yang dikonjugasi menjadi 먹어요."
+    }
+  },
+  {
+    "id": "ko_unit2_l1_03",
+    "pattern": "Verb Stem + ~ㅂ니다 / ~습니다 (Formal Polite Present Tense)",
+    "meaningEn": "Formal polite present tense conjugation.",
+    "meaningId": "Konjugasi waktu sekarang sopan formal.",
+    "notesEn": {
+      "formation": "Verb Stem + ~ㅂ니다 (if stem ends in vowel) / ~습니다 (if stem ends in consonant).",
+      "usage": "Used in official announcements, news broadcasts, business presentations, and military settings.",
+      "nuance": "Highly polite and formal (하십시오체). Adds deference and professional distance."
+    },
+    "notesId": {
+      "formation": "Kata Dasar Kata Kerja + ~ㅂ니다 (jika akhiran vokal) / ~습니다 (jika akhiran konsonan).",
+      "usage": "Digunakan dalam pengumuman resmi, siaran berita, presentasi bisnis, dan lingkungan militer.",
+      "nuance": "Sangat sopan dan formal (하십시오체). Menambahkan rasa hormat dan jarak profesional."
+    },
+    "examples": [
+      {
+        "hangul": "저는 한국어를 배웁니다.",
+        "romaja": "jeo-neun han-guk-eo-reul bae-um-ni-da.",
+        "meaningEn": "I learn Korean.",
+        "meaningId": "Saya belajar bahasa Korea.",
+        "type": "statement"
+      },
+      {
+        "hangul": "지금 출발합니다.",
+        "romaja": "ji-geum chul-bal-ham-ni-da.",
+        "meaningEn": "We/I am departing now.",
+        "meaningId": "Saya/Kami berangkat sekarang.",
+        "type": "statement"
+      },
+      {
+        "hangul": "음식이 맛있습니다.",
+        "romaja": "eum-sig-i mas-is-seum-ni-da.",
+        "meaningEn": "The food is delicious.",
+        "meaningId": "Makanannya lezat.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "How do you conjugate '가다' (to go) into the formal polite present tense?",
+      "options": ["갑니다", "가습니다", "가요", "간다"],
+      "answerIndex": 0,
+      "explanationEn": "The stem 가 ends in a vowel, so ~ㅂ니다 attaches directly beneath it to form 갑니다.",
+      "explanationId": "Kata dasar 가 berakhiran vokal, sehingga ~ㅂ니다 menempel langsung di bawahnya membentuk 갑니다."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I learn Korean (formal). -> 저는 한국어를 배우___.",
+      "sentenceHangul": "저는 한국어를 배우___.",
+      "answer": "ㅂ니다",
+      "answerReading": "m-ni-da",
+      "hintEn": "배우다 stem ends in vowel ㅜ, attach ~ㅂ니다 underneath.",
+      "hintId": "Kata dasar 배우다 berakhiran vokal ㅜ, tempelkan ~ㅂ니다 di bawahnya."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to formal Korean: 'I go to school.'",
+      "promptId": "Terjemahkan ke bahasa Korea formal: 'Saya pergi ke sekolah.'",
+      "answer": "저는 학교에 갑니다",
+      "answerReading": "jeo-neun hak-gyo-e gam-ni-da",
+      "acceptableVariants": ["학교에 갑니다"],
+      "hintEn": "Use 저는 + school (학교) + particle 에 + 가다 conjugated with ~ㅂ니다.",
+      "hintId": "Gunakan 저는 + sekolah (학교) + partikel 에 + 가다 yang dikonjugasi dengan ~ㅂ니다."
+    }
+  },
+  {
+    "id": "ko_unit2_l2_01",
+    "pattern": "N + 을/를 (Object Marker)",
+    "meaningEn": "Direct object particle.",
+    "meaningId": "Partikel objek langsung.",
+    "notesEn": {
+      "formation": "Noun + 을 (if ends in consonant) / 를 (if ends in vowel).",
+      "usage": "Marks the direct object that receives the action of a transitive verb.",
+      "nuance": "Essential for transitive action verbs. Omitted in casual spoken conversation when clear from context."
+    },
+    "notesId": {
+      "formation": "Kata Benda + 을 (jika berakhiran konsonan) / 를 (jika berakhiran vokal).",
+      "usage": "Menandai objek langsung yang menerima tindakan dari kata kerja transitif.",
+      "nuance": "Sangat penting untuk kata kerja aksi transitif. Sering dihilangkan dalam percakapan santai jika konteksnya sudah jelas."
+    },
+    "examples": [
+      {
+        "hangul": "책을 읽어요.",
+        "romaja": "chaek-eul ilg-eo-yo.",
+        "meaningEn": "I read a book.",
+        "meaningId": "Saya membaca buku.",
+        "type": "statement"
+      },
+      {
+        "hangul": "영화 / 영화를 봐요.",
+        "romaja": "yeong-hwa-reul bwa-yo.",
+        "meaningEn": "I watch a movie.",
+        "meaningId": "Saya menonton film.",
+        "type": "statement"
+      },
+      {
+        "hangul": "물 / 물을 마셔요.",
+        "romaja": "mul-eul ma-syeo-yo.",
+        "meaningEn": "I drink water.",
+        "meaningId": "Saya minum air.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which object particle attaches to '밥' (rice/food)?",
+      "options": ["을", "를", "가", "에"],
+      "answerIndex": 0,
+      "explanationEn": "밥 ends in a final consonant (ㅂ), so it takes the object particle ~을.",
+      "explanationId": "밥 berakhiran konsonan akhir (ㅂ), jadi menggunakan partikel objek ~을."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I drink tea. -> 차___ 마셔요.",
+      "sentenceHangul": "차___ 마셔요.",
+      "answer": "를",
+      "answerReading": "reul",
+      "hintEn": "차 ends in a vowel (ㅏ), so attach ~를.",
+      "hintId": "차 berakhiran vokal (ㅏ), jadi tempelkan ~를."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I read a book.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya membaca buku.'",
+      "answer": "책을 읽어요",
+      "answerReading": "chaek-eul ilg-eo-yo",
+      "acceptableVariants": ["저는 책을 읽어요", "나는 책을 읽는다"],
+      "hintEn": "Use book (책) + object particle 을 + read (읽어요).",
+      "hintId": "Gunakan buku (책) + partikel objek 을 + membaca (읽어요)."
+    }
+  },
+  {
+    "id": "ko_unit2_l2_02",
+    "pattern": "Location + 에서 + Action Verb",
+    "meaningEn": "Action taking place at a location.",
+    "meaningId": "Aksi/kegiatan yang terjadi di suatu lokasi.",
+    "notesEn": {
+      "formation": "Location Noun + 에서 + Action Verb.",
+      "usage": "Indicates the physical place where a dynamic action or activity is performed.",
+      "nuance": "Contrast with ~에: ~에 indicates destination or existence (가다, 오다, 있다), whereas ~에서 indicates active dynamic events taking place (공부하다, 먹다, 일하다)."
+    },
+    "notesId": {
+      "formation": "Kata Benda Lokasi + 에서 + Kata Kerja Aksi.",
+      "usage": "Menunjukkan tempat fisik di mana suatu tindakan atau aktivitas dinamis dilakukan.",
+      "nuance": "Beda dengan ~에: ~에 menunjukkan tujuan atau keberadaan (가다, 오다, 있다), sedangkan ~에서 menunjukkan aktivitas dinamis yang sedang berlangsung (공부하다, 먹다, 일하다)."
+    },
+    "examples": [
+      {
+        "hangul": "도서관에서 공부해요.",
+        "romaja": "do-seo-gwan-e-seo gong-bu-hae-yo.",
+        "meaningEn": "I study at the library.",
+        "meaningId": "Saya belajar di perpustakaan.",
+        "type": "statement"
+      },
+      {
+        "hangul": "식당에서 밥을 먹어요.",
+        "romaja": "sik-dang-e-seo bap-eul meog-eo-yo.",
+        "meaningEn": "I eat rice at a restaurant.",
+        "meaningId": "Saya makan di restoran.",
+        "type": "statement"
+      },
+      {
+        "hangul": "집에서 쉬어요.",
+        "romaja": "jip-e-seo swi-eo-yo.",
+        "meaningEn": "I rest at home.",
+        "meaningId": "Saya beristirahat di rumah.",
+        "type": "statement"
+      }
+    ],
+    "quiz": {
+      "question": "Which sentence correctly says 'I study at the library'?",
+      "options": [
+        "도서관에서 공부해요",
+        "도서관에 공부해요",
+        "도서관을 공부해요",
+        "도서관이 공부해요"
+      ],
+      "answerIndex": 0,
+      "explanationEn": "Because '공부하다' is an active dynamic verb, the location particle ~에서 must be used.",
+      "explanationId": "Karena '공부하다' adalah kata kerja aksi dinamis, partikel lokasi ~에서 harus digunakan."
+    },
+    "fillInTheBlank": {
+      "sentenceEn": "I rest at home. -> 집___ 쉬어요.",
+      "sentenceHangul": "집___ 쉬어요.",
+      "answer": "에서",
+      "answerReading": "e-seo",
+      "hintEn": "Resting is an active state/event taking place at home, so use ~에서.",
+      "hintId": "Beristirahat adalah aktivitas yang berlangsung di rumah, jadi gunakan ~에서."
+    },
+    "constructionQuiz": {
+      "promptEn": "Translate to Korean: 'I study at the library.'",
+      "promptId": "Terjemahkan ke bahasa Korea: 'Saya belajar di perpustakaan.'",
+      "answer": "도서관에서 공부해요",
+      "answerReading": "do-seo-gwan-e-seo gong-bu-hae-yo",
+      "acceptableVariants": ["저는 도서관에서 공부해요", "도서관에서 공부한다"],
+      "hintEn": "Use library (도서관) + location particle 에서 + study (공부해요).",
+      "hintId": "Gunakan perpustakaan (도서관) + partikel lokasi 에서 + belajar (공부해요)."
+    }
+  }
+]
